@@ -1,0 +1,8 @@
+Name,Type,Status,Description,Last Reviewed,Linked Dashboards,QiCore.db,uuid
+Employee Directory,Core DB,Active,Master database containing all employee information and organizational structure.,"September 22,2025","Team Structure,Department Overview"
+Job_Hunter_Pro,,,,,,,REG-29cf84a0440280748a69dd4adde9e9aa
+Knowledge Base,Hub DB,Paused,"Collection of company procedures,guides,and documentation for training and reference.","September 18,2025"
+Project Management Hub,Hub DB,Active,"Central database for tracking all company projects,tasks,and resources.","September 20,2025"
+Project Management Hub,"Project Overview,2025","Central database for tracking all company projects,tasks,and resources.","September 20,Resource Allocation"
+Employee Directory,,Department Overview",Master database containing all employee information and organizational structure.,"September 22,2025","Team Structure,Active
+Knowledge Base,Learning Resources Dashboard,2025","Collection of company procedures,guides,and documentation for training and reference.","September 18,

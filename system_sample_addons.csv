@@ -1,0 +1,8 @@
+Product Name,Addon Name,Addon Code,Description,Addon Type,Status Formatted,Unit Name,Billing Interval Formatted,Pricing Scheme,Starting Quantity,Ending Quantity,Price,Applicable to all plans,Applied Plans,Account,Taxable,Exemption Reason
+Cloud Box,Additional Storage,ADDSTR007,"Increase your storage size upto 10 GB",One time,Active,GB,Months,volume,1,5,9,true,,Sales,false,NON-PROFIT
+Cloud Box,Additional Storage,ADDSTR007,"Increase your storage size upto 10 GB",One time,Active,GB,Months,volume,6,10,19,true,,Sales,false,NON-PROFIT
+Cloud Box,Additional Users,ADDUSR013,"Increase your workforce to get more working hands",One time,Active,Users,Weeks,package,,5,20,true,,Sales,false,NON-PROFIT
+Cloud Box,Additional Users,ADDUSR013,"Increase your workforce to get more working hands",One time,Active,Users,Weeks,package,,10,30,true,,Sales,false,NON-PROFIT
+Cloud Box,Document Sharing,DOCSHR042,"Easily share your documents between your collegues",Recurring,Active,Documents,Weeks,tier,1,10,13,false,"bas042,std013,pro080",Sales,true,
+Cloud Box,Document Sharing,DOCSHR042,"Easily share your documents between your collegues",Recurring,Active,Documents,Weeks,tier,11,20,42,false,"bas042,std013,pro080",Sales,true,
+Cloud Box,Chat Support,CTSPT247,"24/7 Instant Chat support at any time",Recurring,Active,Representatives,Years,unit,1,,99,false,"etp099,ult007",Sales,true,

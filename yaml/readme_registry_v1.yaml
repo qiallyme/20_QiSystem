@@ -1,0 +1,197 @@
+version: 1.0.0
+
+folders:
+
+  # --- ROOTS ---
+  apps:
+    title: "QiApps"
+    qi_decimal: "2.00.00-APP"
+    purpose: "UI-driven applications and user-facing experiences."
+    what_belongs:
+      - "Astro/Vite/React apps"
+      - "Client portals"
+      - "Internal dashboards"
+    what_not:
+      - "Workers"
+      - "Raw assets"
+      - "Schemas or seeds"
+    related:
+      - "workers/"
+      - "components/"
+      - "sites/"
+    rules:
+      - "Layer 0 Root Integrity"
+      - "Layer 4 Naming Law"
+    naming_notes: "Apps live under their own slug folders. No dates in filenames."
+    examples:
+      - "apps/qinote/"
+      - "apps/qicockpit/"
+    used_by:
+      - "QiCockpit"
+      - "QiNote"
+
+  workers:
+    title: "QiWorkers"
+    qi_decimal: "1.00.00-WRK"
+    purpose: "Autonomous modules that enforce governance and run OS tasks."
+    what_belongs:
+      - "Ingestion workers"
+      - "Linting workers"
+      - "Routing workers"
+      - "Vectorizers"
+      - "Dedupe / quarantine"
+    what_not:
+      - "UI apps"
+      - "Manual docs"
+    related: ["workflows/","rules/","data/"]
+    rules:
+      - "Layer 1 DarkMatter Physics"
+      - "Layer 6 Semantic Routing"
+      - "Layer 7 Self-Healing"
+    naming_notes: "One worker per folder. Config stored in data/policies when needed."
+    examples: ["workers/ingestion/","workers/linter/"]
+    used_by: ["GINA Orchestrator"]
+
+  components:
+    title: "QiComponents"
+    qi_decimal: "3.00.00-CMP"
+    purpose: "Reusable UI + logic elements shared by QiApps."
+    what_belongs: ["UI cards","modules","component libraries"]
+    what_not: ["Apps","Workers","Raw files"]
+    related: ["apps/"]
+    rules: ["Layer 0 Root Integrity"]
+    naming_notes: "Components are atomic and versioned."
+    examples: ["components/ui/","components/cards/"]
+    used_by: ["QiApps"]
+
+  workflows:
+    title: "QiWorkflows"
+    qi_decimal: "4.00.00-WFL"
+    purpose: "Automation chains orchestrating multi-step processes."
+    what_belongs: ["Ingestion flows","Publishing flows","Notification flows"]
+    what_not: ["Workers themselves","Schemas"]
+    related: ["workers/","rules/"]
+    rules: ["Layer 0 Root Integrity","Layer 6 Semantic Routing"]
+    naming_notes: "Describe flows by intent: ingestion_pipeline, publish_site, etc."
+    examples: ["workflows/ingestion/"]
+    used_by: ["GINA Orchestrator"]
+
+  data:
+    title: "QiData"
+    qi_decimal: "5.00.00-DAT"
+    purpose: "Structured data backing QiOS: schemas, seeds, sheets, vector, cache."
+    what_belongs: ["schemas/","seeds/","sheets/","vector/","cache/"]
+    what_not: ["Docs","Apps","Workers"]
+    related: ["rules/","workers/"]
+    rules: ["Layer 1 DarkMatter Physics","Layer 5 Metadata"]
+    naming_notes: "Schema SQL is canonical. Seeds are install-time only."
+    examples: ["data/schemas/qios_brain_db_v1.sql"]
+    used_by: ["All workers"]
+
+  realms:
+    title: "QiRealms"
+    qi_decimal: "6.00.00-RLM"
+    purpose: "Meaning universes. Context/ownership boundaries for all content and assets."
+    what_belongs: ["qivault/","qipersonal/","qibusiness/","qiclients/","qiplayground/","qiresearch/","qitemp/","archives/"]
+    what_not: ["System roots outside realms"]
+    related: ["rules/","data/realms_registry.*"]
+    rules: ["Layer 2 Realm Schema","Realm Activation Gate"]
+    naming_notes: "Realm roots are pre-allowed by registry. Instances use realm_slug."
+    examples: ["realms/qiclients/_template/"]
+    used_by: ["Semantic Router","Realm Schema Linter"]
+
+  rules:
+    title: "QiRules"
+    qi_decimal: "7.00.00-RUL"
+    purpose: "Governance logic and registries that define OS behavior."
+    what_belongs: ["qirules_*.yaml","folder_registry.yaml","realms_registry.yaml"]
+    what_not: ["Seeds","Schemas"]
+    related: ["data/sheets/qios_rules_*.csv"]
+    rules: ["All layers"]
+    naming_notes: "Rules are immutable once versioned except via semver bump."
+    examples: ["rules/qios_rules_v1_1.yaml"]
+    used_by: ["QiOS Linter"]
+
+  security:
+    title: "QiSecurity"
+    qi_decimal: "8.00.00-SEC"
+    purpose: "Roles, permissions, access patterns, and RLS policies."
+    what_belongs: ["roles/","policies/","keys/"]
+    what_not: ["General docs"]
+    related: ["connections/","realms/"]
+    rules: ["Layer 1 DarkMatter Physics"]
+    naming_notes: "Secrets are never stored here in plaintext in synced vaults."
+    examples: ["security/policies/"]
+    used_by: ["All apps"]
+
+  connections:
+    title: "QiConnections"
+    qi_decimal: "9.00.00-CNX"
+    purpose: "Integration references, APIs, external systems, secret interfaces."
+    what_belongs: ["refs/","roles/","secrets/ (encrypted refs only)"]
+    what_not: ["Actual secret values"]
+    related: ["security/"]
+    rules: ["Layer 1 DarkMatter Physics"]
+    naming_notes: "Connections are documented, secrets stored elsewhere."
+    examples: ["connections/refs/tailscale.yaml"]
+    used_by: ["Workers","Apps"]
+
+  sites:
+    title: "QiSites"
+    qi_decimal: "10.00.00-SIT"
+    purpose: "Publishing surfaces: portals, KB sites, web front-ends."
+    what_belongs: ["astro projects","public builds","site templates"]
+    what_not: ["Knowledge docs (unless site-bound)"]
+    related: ["realms/*/sites/"]
+    rules: ["Layer 2 Realm Schema"]
+    naming_notes: "Sites are realm-owned when contextual."
+    examples: ["realms/qibusiness/sites/astro/"]
+    used_by: ["QiApps"]
+
+  docs:
+    title: "QiDocs"
+    qi_decimal: "11.00.00-DOC"
+    purpose: "Architecture docs, SOPs, diagrams, plans."
+    what_belongs: ["plans/","reports/","diagrams/","architecture/"]
+    what_not: ["Schemas","Seeds"]
+    related: ["rules/","data/sheets/"]
+    rules: ["Layer 5 Metadata"]
+    naming_notes: "Docs are canonical knowledge objects (atomic)."
+    examples: ["docs/architecture/"]
+    used_by: ["Humans. Begrudgingly."]
+
+  darkmatter:
+    title: "QiDarkMatter"
+    qi_decimal: "12.00.00-DMK"
+    purpose: "System substrate outside realm logic (.meta, .infra, caches, logs)."
+    what_belongs: [".meta/",".infra/",".cache/",".logs/"]
+    what_not: ["Realm content"]
+    related: ["workers/"]
+    rules: ["Layer 1 DarkMatter Physics"]
+    naming_notes: "Protected from non-DM rules."
+    examples: ["darkmatter/.meta/"]
+    used_by: ["Linter","Runtime"]
+
+  templates:
+    title: "QiTemplates"
+    qi_decimal: "13.00.00-TPL"
+    purpose: "Reusable scaffolds for nodes, apps, workers, schemas, rules, realms."
+    what_belongs: ["node/","asset/","worker/","app/","schema/","rules/","realm/"]
+    what_not: ["Live content"]
+    related: ["apps/","workers/","rules/"]
+    rules: ["Layer 0 Root Integrity"]
+    naming_notes: "Templates are canonical and versioned."
+    examples: ["templates/node/front_matter.md"]
+    used_by: ["Generators","GINA"]
+
+  projects:
+    title: "QiProjects"
+    qi_decimal: "14.00.00-PRJ"
+    purpose: "Structured deliverables and project bundles."
+    what_belongs: ["active/","archived/"]
+    what_not: ["Loose notes not tied to a deliverable"]
+    related: ["realms/qiplayground/projects/"]
+    rules: ["Layer 2 Realm Schema"]
+    naming_notes: "Projects can export as portable client bundles."
+    examples: ["projects/active/qinote_mvp/"]
+    used_by: ["Humans + GINA"]

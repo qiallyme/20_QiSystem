@@ -1,0 +1,599 @@
+﻿Date,Transaction ID,Transaction Type,Currency,Amount,Fee,Net Amount,Asset Type,Asset Price,Asset Amount,Status,Notes,Name of sender/receiver,Account,Combined Description
+11/15/25 19:14,,Account Notifications,USD,$0.00,,$0.00,,,,COMPLETE,New device login,,Cash Balance, Account Notifications COMPLETE New device login  Cash Balance 
+11/15/25 19:00,,Cash Card,USD,-$20.00,$0.00,-$20.00,,,,WAITING_ON_RECIPIENT,"CURSOR, AI POWERED IDE",,Cash Balance," Cash Card WAITING_ON_RECIPIENT CURSOR, AI POWERED IDE  Cash Balance "
+11/15/25 18:58,,,USD,$31.78,,$31.78,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/15/25 18:58,,Deposits,USD,$1.00,$0.00,$1.00,,,,FAILED,Add Cash,,Visa debit 0943, Deposits FAILED Add Cash  Visa debit 0943 
+11/15/25 18:58,,,USD,-$11.31,,-$11.31,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/15/25 8:32,,,USD,-$9.69,,-$9.69,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/15/25 4:59,,Cash Card,USD,-$20.00,$0.00,-$20.00,,,,WAITING_ON_RECIPIENT,"CURSOR, AI POWERED IDE",,Cash Balance," Cash Card WAITING_ON_RECIPIENT CURSOR, AI POWERED IDE  Cash Balance "
+11/15/25 4:57,,Cash Card,USD,-$10.00,$0.00,-$10.00,,,,WAITING_ON_RECIPIENT,CURSOR USAGE  NOV,,Cash Balance, Cash Card WAITING_ON_RECIPIENT CURSOR USAGE  NOV  Cash Balance 
+11/15/25 4:57,,Borrow,USD,$21.98,,$21.98,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/15/25 4:57,,Borrow,USD,-$13.84,,-$13.84,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/15/25 4:57,,,USD,$31.55,,$31.55,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/15/25 3:53,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+11/15/25 1:05,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+11-15-25,,Borrow,USD,-$3.72,,-$3.72,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/14/25 23:59,,Borrow,USD,-$5.52,,-$5.52,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/14/25 23:41,,,USD,-$18.57,,-$18.57,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/14/25 23:39,,,USD,-$27.74,,-$27.74,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/14/25 23:39,,Cash Card,USD,-$15.62,$0.00,-$15.62,,,,FAILED,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card FAILED DD *DOORDASH MCDONALDS  Cash Balance 
+11/14/25 23:37,,Cash Card,USD,-$30.82,$0.00,-$30.82,,,,WAITING_ON_RECIPIENT,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card WAITING_ON_RECIPIENT DD *DOORDASH PAPAJOHNS  Cash Balance 
+11/14/25 23:37,ST$_MO,Overdraft,USD,-$5.14,$0.00,-$5.14,,,,COMPLETE,repayment,,Cash Balance,ST$_MO_mzyek4vx19jw9jvy1bmzr2-0002 Overdraft COMPLETE repayment  Cash Balance 
+11/14/25 23:37,,Deposits,USD,$107.13,$0.00,$107.13,,,,COMPLETE,Add Cash,,Visa debit 0943, Deposits COMPLETE Add Cash  Visa debit 0943 
+11/14/25 23:24,,Deposits,USD,$7.13,$0.00,$7.13,,,,FAILED,Add Cash,,Mastercard debit 1879, Deposits FAILED Add Cash  Mastercard debit 1879 
+11/14/25 23:23,,Cash Card,USD,-$16.98,$0.00,-$16.98,,,,FAILED,McDonalds 11652,,Cash Balance, Cash Card FAILED McDonalds 11652  Cash Balance 
+11/14/25 17:30,,Borrow,USD,-$10.75,,-$10.75,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/14/25 17:30,,Deposits,USD,$10.75,$0.00,$10.75,,,,FAILED,Add Cash,,Mastercard debit 1879, Deposits FAILED Add Cash  Mastercard debit 1879 
+11/14/25 17:12,,Borrow,USD,-$6.83,,-$6.83,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/14/25 17:12,,Deposits,USD,$6.83,$0.00,$6.83,,,,FAILED,Add Cash,,Mastercard debit 1879, Deposits FAILED Add Cash  Mastercard debit 1879 
+11/14/25 14:30,ST$_MARQETA,Overdraft,USD,-$4.52,$0.00,-$4.52,,,,COMPLETE,repayment,,Cash Balance,ST$_MARQETA_CARD_d94e8f19-0d31-4663-b843-ddabf3a9289e Overdraft COMPLETE repayment  Cash Balance 
+11/14/25 14:28,,Cash Card,USD,$4.52,$0.00,$4.52,,,,COMPLETE,INTUIT *QBooks Online,,Cash Balance, Cash Card COMPLETE INTUIT *QBooks Online  Cash Balance 
+11/14/25 13:48,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,FAILED,APPLE.COM/BILL,,Cash Balance, Cash Card FAILED APPLE.COM/BILL  Cash Balance 
+11/14/25 3:33,,Cash Card,USD,-$20.00,$0.00,-$20.00,,,,FAILED,"CURSOR, AI POWERED IDE",,Cash Balance," Cash Card FAILED CURSOR, AI POWERED IDE  Cash Balance "
+11/13/25 15:24,,Cash Card,USD,-$14.99,$0.00,-$14.99,,,,FAILED,AMAZON PRIME PMTS,,Cash Balance, Cash Card FAILED AMAZON PRIME PMTS  Cash Balance 
+11/12/25 22:00,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,FAILED,APPLE.COM/BILL,,Cash Balance, Cash Card FAILED APPLE.COM/BILL  Cash Balance 
+11/12/25 21:22,,Cash Card,USD,-$24.92,$0.00,-$24.92,,,,COMPLETE,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MCDONALDS  Cash Balance 
+11/12/25 21:22,,Cash Card,USD,-$25.92,$0.00,-$25.92,,,,FAILED,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card FAILED DD *DOORDASH MCDONALDS  Cash Balance 
+11/12/25 21:08,,Deposits,USD,$99.00,$0.00,$99.00,,,,FAILED,Add Cash,,MasterCard Debit 1879, Deposits FAILED Add Cash  MasterCard Debit 1879 
+11/12/25 2:06,,Cash Card,USD,-$19.99,$0.00,-$19.99,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+11/12/25 2:03,#D-6QPQ4ZXJ,P2P,USD,$35.00,$0.00,$35.00,,,,COMPLETE,food,Zaitullah Khebarkhil,Cash Balance,#D-6QPQ4ZXJ P2P COMPLETE food Zaitullah Khebarkhil Cash Balance 
+11/11/25 18:38,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,COMPLETE,TESLA SUBSCRIPTION US,,Cash Balance, Cash Card COMPLETE TESLA SUBSCRIPTION US  Cash Balance 
+11/11/25 16:41,,Cash Card,USD,-$26.53,$0.00,-$26.53,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+11/11/25 16:23,,Cash Card,USD,-$22.25,$0.00,-$22.25,,,,COMPLETE,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MCDONALDS  Cash Balance 
+11/11/25 16:21,,Borrow,USD,$52.73,,$52.73,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/11/25 12:06,,Cash Card,USD,-$59.00,$0.00,-$59.00,,,,FAILED,"HONEYBOOK, INC",,Cash Balance," Cash Card FAILED HONEYBOOK, INC  Cash Balance "
+11/11/25 9:33,,Cash Card,USD,-$20.00,$0.00,-$20.00,,,,FAILED,"CURSOR, AI POWERED IDE",,Cash Balance," Cash Card FAILED CURSOR, AI POWERED IDE  Cash Balance "
+11/11/25 0:22,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+11/10/25 15:24,,Cash Card,USD,-$14.99,$0.00,-$14.99,,,,FAILED,AMAZON PRIME PMTS,,Cash Balance, Cash Card FAILED AMAZON PRIME PMTS  Cash Balance 
+11/10/25 14:59,,Cash Card,USD,-$31.55,$0.00,-$31.55,,,,COMPLETE,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH PAPAJOHNS  Cash Balance 
+11/10/25 14:53,,Cash Card,USD,-$31.55,$0.00,-$31.55,,,,FAILED,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card FAILED DD *DOORDASH PAPAJOHNS  Cash Balance 
+11/10/25 14:53,,Cash Card,USD,-$31.55,$0.00,-$31.55,,,,FAILED,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card FAILED DD *DOORDASH PAPAJOHNS  Cash Balance 
+11/10/25 14:51,,Borrow,USD,$40.00,,$40.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/10/25 11:33,,Cash Card,USD,-$20.00,$0.00,-$20.00,,,,FAILED,"CURSOR, AI POWERED IDE",,Cash Balance," Cash Card FAILED CURSOR, AI POWERED IDE  Cash Balance "
+11/10/25 10:07,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,FAILED,APPLE.COM/BILL,,Cash Balance, Cash Card FAILED APPLE.COM/BILL  Cash Balance 
+11/9/25 17:33,,Cash Card,USD,-$20.00,$0.00,-$20.00,,,,FAILED,"CURSOR, AI POWERED IDE",,Cash Balance," Cash Card FAILED CURSOR, AI POWERED IDE  Cash Balance "
+11/9/25 16:57,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,FAILED,APPLE.COM/BILL,,Cash Balance, Cash Card FAILED APPLE.COM/BILL  Cash Balance 
+11/9/25 12:56,,Borrow,USD,-$13.32,,-$13.32,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/9/25 12:54,,Borrow,USD,-$45.36,,-$45.36,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/9/25 12:54,,Borrow,USD,-$22.07,,-$22.07,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/9/25 12:54,,Borrow,USD,-$5.52,,-$5.52,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/9/25 12:54,,Borrow,USD,-$11.08,,-$11.08,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/9/25 12:49,,Cash Card,USD,-$8.27,$0.00,-$8.27,,,,COMPLETE,TELLO MOBILE,,Cash Balance, Cash Card COMPLETE TELLO MOBILE  Cash Balance 
+11/9/25 11:48,,Cash Card,USD,-$45.00,$0.00,-$45.00,,,,COMPLETE,ZOHO* ZOHO-ZOHO CORP,,Cash Balance, Cash Card COMPLETE ZOHO* ZOHO-ZOHO CORP  Cash Balance 
+11/8/25 23:05,,Deposits,USD,$150.00,$0.00,$150.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+11/8/25 17:15,,Cash Card,USD,-$11.58,$0.00,-$11.58,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+11/8/25 17:15,,Cash Card,USD,-$11.58,$0.00,-$11.58,,,,FAILED,TESLA SUPERCHARGER US,,Cash Balance, Cash Card FAILED TESLA SUPERCHARGER US  Cash Balance 
+11/8/25 17:15,,Cash Card,USD,-$11.58,$0.00,-$11.58,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+11/8/25 15:51,,Cash Card,USD,-$1.00,$0.00,-$1.00,,,,FAILED,QUO (OPENPHONE),,Cash Balance, Cash Card FAILED QUO (OPENPHONE)  Cash Balance 
+11/8/25 13:14,,Cash Card,USD,-$22.91,$0.00,-$22.91,,,,COMPLETE,DD *DOORDASH KROGER,,Cash Balance, Cash Card COMPLETE DD *DOORDASH KROGER  Cash Balance 
+11/8/25 8:46,#D-14Q6EJGJ,P2P,USD,$13.00,$0.00,$13.00,,,,COMPLETE,Cody,Zaitullah Khebarkhil,Cash Balance,#D-14Q6EJGJ P2P COMPLETE Cody Zaitullah Khebarkhil Cash Balance 
+11/8/25 7:09,,Cash Card,USD,-$10.00,$0.00,-$10.00,,,,FAILED,CURSOR USAGE  NOV,,Cash Balance, Cash Card FAILED CURSOR USAGE  NOV  Cash Balance 
+11/8/25 3:58,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,FAILED,APPLE.COM/BILL,,Cash Balance, Cash Card FAILED APPLE.COM/BILL  Cash Balance 
+11/7/25 23:32,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,FAILED,APPLE.COM/BILL,,Cash Balance, Cash Card FAILED APPLE.COM/BILL  Cash Balance 
+11/7/25 22:29,,Cash Card,USD,-$20.37,$0.00,-$20.37,,,,COMPLETE,McDonalds 11652,,Cash Balance, Cash Card COMPLETE McDonalds 11652  Cash Balance 
+11/7/25 21:45,,Cash Card,USD,-$22.00,$0.00,-$22.00,,,,COMPLETE,ELEVENLABS.IO-01D67AA2,,Cash Balance, Cash Card COMPLETE ELEVENLABS.IO-01D67AA2  Cash Balance 
+11/7/25 21:44,,Borrow,USD,$50.74,,$50.74,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/7/25 15:24,,Cash Card,USD,-$14.99,$0.00,-$14.99,,,,FAILED,AMAZON PRIME PMTS,,Cash Balance, Cash Card FAILED AMAZON PRIME PMTS  Cash Balance 
+11/7/25 15:04,,Borrow,USD,-$0.78,,-$0.78,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/7/25 15:00,,Borrow,USD,-$22.29,,-$22.29,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/7/25 15:00,,Deposits,USD,$22.29,$0.00,$22.29,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+11/7/25 12:06,,Cash Card,USD,-$59.00,$0.00,-$59.00,,,,FAILED,"HONEYBOOK, INC",,Cash Balance," Cash Card FAILED HONEYBOOK, INC  Cash Balance "
+11/7/25 10:05,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+11/7/25 8:06,,Cash Card,USD,-$7.24,$0.00,-$7.24,,,,COMPLETE,ANYTIME MAILBOX,,Cash Balance, Cash Card COMPLETE ANYTIME MAILBOX  Cash Balance 
+11/7/25 3:33,,Cash Card,USD,-$20.00,$0.00,-$20.00,,,,FAILED,"CURSOR, AI POWERED IDE",,Cash Balance," Cash Card FAILED CURSOR, AI POWERED IDE  Cash Balance "
+11/7/25 0:24,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+11/6/25 16:34,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,FAILED,APPLE.COM/BILL,,Cash Balance, Cash Card FAILED APPLE.COM/BILL  Cash Balance 
+11/6/25 12:02,,Cash Card,USD,-$13.27,$0.00,-$13.27,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+11/6/25 12:02,,Cash Card,USD,-$13.27,$0.00,-$13.27,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+11/6/25 5:26,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,FAILED,APPLE.COM/BILL,,Cash Balance, Cash Card FAILED APPLE.COM/BILL  Cash Balance 
+11/5/25 23:51,,Cash Card,USD,-$25.03,$0.00,-$25.03,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+11/5/25 23:46,#D-X7DJZQ31,P2P,USD,$30.00,$0.00,$30.00,,,,COMPLETE,food,Zaitullah Khebarkhil,Cash Balance,#D-X7DJZQ31 P2P COMPLETE food Zaitullah Khebarkhil Cash Balance 
+11/5/25 15:45,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,FAILED,APPLE.COM/BILL,,Cash Balance, Cash Card FAILED APPLE.COM/BILL  Cash Balance 
+11/5/25 13:48,,Cash Card,USD,-$7.24,$0.00,-$7.24,,,,FAILED,ANYTIME MAILBOX,,Cash Balance, Cash Card FAILED ANYTIME MAILBOX  Cash Balance 
+11/5/25 11:53,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,FAILED,APPLE.COM/BILL,,Cash Balance, Cash Card FAILED APPLE.COM/BILL  Cash Balance 
+11/5/25 10:45,,Cash Card,USD,-$20.99,$0.00,-$20.99,,,,COMPLETE,DD *DOORDASH DOMINOS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH DOMINOS  Cash Balance 
+11/5/25 10:43,#D-D1JMQJ6P,P2P,USD,$13.00,$0.00,$13.00,,,,COMPLETE,food,Zaitullah Khebarkhil,Cash Balance,#D-D1JMQJ6P P2P COMPLETE food Zaitullah Khebarkhil Cash Balance 
+11/5/25 4:21,,Cash Card,USD,-$31.95,$0.00,-$31.95,,,,COMPLETE,AES INDIANA/EZ-PAY,,Cash Balance, Cash Card COMPLETE AES INDIANA/EZ-PAY  Cash Balance 
+11/5/25 3:15,,Borrow,USD,-$22.07,,-$22.07,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/5/25 3:11,,Borrow,USD,$21.02,,$21.02,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/5/25 2:51,,Borrow,USD,-$10.50,,-$10.50,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/5/25 1:59,,Cash Card,USD,-$26.92,$0.00,-$26.92,,,,COMPLETE,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MCDONALDS  Cash Balance 
+11/5/25 1:57,,Cash Card,USD,-$26.92,$0.00,-$26.92,,,,FAILED,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card FAILED DD *DOORDASH MCDONALDS  Cash Balance 
+11/5/25 1:57,,Cash Card,USD,-$26.92,$0.00,-$26.92,,,,FAILED,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card FAILED DD *DOORDASH MCDONALDS  Cash Balance 
+11/5/25 1:45,#D-ZXQOMN25,P2P,USD,$30.00,$0.00,$30.00,,,,COMPLETE,food,Zaitullah Khebarkhil,Cash Balance,#D-ZXQOMN25 P2P COMPLETE food Zaitullah Khebarkhil Cash Balance 
+11/4/25 22:41,,Borrow,USD,-$4.67,,-$4.67,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/4/25 22:38,,Borrow,USD,-$4.83,,-$4.83,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/4/25 22:38,,Borrow,USD,$40.96,,$40.96,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/4/25 22:36,,Deposits,USD,$1.00,$0.00,$1.00,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+11/4/25 22:32,,Deposits,USD,$20.00,$0.00,$20.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+11/4/25 18:42,,Cash Card,USD,-$22.00,$0.00,-$22.00,,,,FAILED,ELEVENLABS.IO-01D67AA2,,Cash Balance, Cash Card FAILED ELEVENLABS.IO-01D67AA2  Cash Balance 
+11/4/25 15:24,,Cash Card,USD,-$14.99,$0.00,-$14.99,,,,FAILED,AMAZON PRIME PMTS,,Cash Balance, Cash Card FAILED AMAZON PRIME PMTS  Cash Balance 
+11/3/25 22:20,,Borrow,USD,-$10.92,,-$10.92,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/3/25 22:18,,Borrow,USD,-$6.83,,-$6.83,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/3/25 22:18,,Borrow,USD,-$5.25,,-$5.25,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+11/3/25 15:20,,Cash Card,USD,-$16.15,$0.00,-$16.15,,,,COMPLETE,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MCDONALDS  Cash Balance 
+11/3/25 14:21,,Cash Card,USD,-$84.64,$0.00,-$84.64,,,,COMPLETE,DIRECT AUTO INS,,Cash Balance, Cash Card COMPLETE DIRECT AUTO INS  Cash Balance 
+11/3/25 14:21,,,USD,$51.81,,$51.81,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/3/25 14:19,,,USD,$71.98,,$71.98,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/3/25 14:19,,,USD,-$24.47,,-$24.47,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/3/25 14:19,,,USD,-$52.21,,-$52.21,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/3/25 14:19,,,USD,-$16.26,,-$16.26,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/3/25 14:17,,,USD,-$16.26,,-$16.26,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/3/25 14:17,,,USD,-$22.99,,-$22.99,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/3/25 14:15,,Deposits,USD,$80.00,$0.00,$80.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+11/3/25 10:29,#D-G33E9E6Z,P2P,USD,$52.00,$0.00,$52.00,,,,COMPLETE,car,Zaitullah Khebarkhil,Cash Balance,#D-G33E9E6Z P2P COMPLETE car Zaitullah Khebarkhil Cash Balance 
+11/3/25 8:01,,Cash Card,USD,-$11.41,$0.00,-$11.41,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+11/3/25 8:01,,Cash Card,USD,-$11.41,$0.00,-$11.41,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+11/2/25 17:21,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+11/2/25 13:02,,Cash Card,USD,-$12.24,$0.00,-$12.24,,,,COMPLETE,TMOBILE*PREPAID WEB,,Cash Balance, Cash Card COMPLETE TMOBILE*PREPAID WEB  Cash Balance 
+11/2/25 12:58,#D-RR6KE55O,P2P,USD,$1.87,$0.00,$1.87,,,,COMPLETE,loan,Lisa English,Cash Balance,#D-RR6KE55O P2P COMPLETE loan Lisa English Cash Balance 
+11/2/25 12:56,#D-V36RENRK,P2P,USD,$10.00,$0.00,$10.00,,,,COMPLETE,loan,Lisa English,Cash Balance,#D-V36RENRK P2P COMPLETE loan Lisa English Cash Balance 
+11/2/25 12:53,,Cash Card,USD,-$24.54,$0.00,-$24.54,,,,COMPLETE,TMOBILE*PREPAID WEB,,Cash Balance, Cash Card COMPLETE TMOBILE*PREPAID WEB  Cash Balance 
+11/2/25 12:53,,Deposits,USD,$25.00,$0.00,$25.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+11/2/25 11:12,,,USD,-$0.17,,-$0.17,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+11/2/25 8:32,,Cash Card,USD,-$23.47,$0.00,-$23.47,,,,COMPLETE,TMOBILE*PREPAID WEB,,Cash Balance, Cash Card COMPLETE TMOBILE*PREPAID WEB  Cash Balance 
+11/2/25 8:21,#D-P8VE4621,P2P,USD,$18.00,$0.00,$18.00,,,,COMPLETE,interesting,Zaitullah Khebarkhil,Cash Balance,#D-P8VE4621 P2P COMPLETE interesting Zaitullah Khebarkhil Cash Balance 
+11/1/25 23:03,,Cash Card,USD,-$11.25,$0.00,-$11.25,,,,COMPLETE,APPLE.COM/BILL,,Cash Balance, Cash Card COMPLETE APPLE.COM/BILL  Cash Balance 
+11/1/25 20:21,,Cash Card,USD,-$19.88,$0.00,-$19.88,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+11/1/25 19:23,,Cash Card,USD,-$2.00,$0.00,-$2.00,,,,FAILED,SPOTIFY,,Cash Balance, Cash Card FAILED SPOTIFY  Cash Balance 
+11/1/25 19:20,#D-X7V3GG1G,P2P,USD,$30.00,$0.00,$30.00,,,,COMPLETE,Laft,Zaitullah Khebarkhil,Cash Balance,#D-X7V3GG1G P2P COMPLETE Laft Zaitullah Khebarkhil Cash Balance 
+11/1/25 18:04,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+11/1/25 16:59,,Cash Card,USD,-$21.32,$0.00,-$21.32,,,,COMPLETE,DD *DOORDASH DOLLARGEN,,Cash Balance, Cash Card COMPLETE DD *DOORDASH DOLLARGEN  Cash Balance 
+11/1/25 16:52,,Cash Card,USD,-$28.88,$0.00,-$28.88,,,,COMPLETE,AMAZON MKTPLACE PMTS,,Cash Balance, Cash Card COMPLETE AMAZON MKTPLACE PMTS  Cash Balance 
+11/1/25 16:50,,Cash Card,USD,-$22.66,$0.00,-$22.66,,,,COMPLETE,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MCDONALDS  Cash Balance 
+10/31/25 23:48,#D-797MZ1MZ,P2P,USD,$15.00,$0.00,$15.00,,,,COMPLETE,Cash back,Zaitullah Khebarkhil,Cash Balance,#D-797MZ1MZ P2P COMPLETE Cash back Zaitullah Khebarkhil Cash Balance 
+10/31/25 23:37,#D-9JX3L26Z,P2P,USD,-$15.00,$0.00,-$15.00,,,,COMPLETE,food,Zaitullah Khebarkhil,Cash Balance,#D-9JX3L26Z P2P COMPLETE food Zaitullah Khebarkhil Cash Balance 
+10/31/25 21:26,,Cash Card,USD,-$20.05,$0.00,-$20.05,,,,COMPLETE,UBER * EATS PENDING,,Cash Balance, Cash Card COMPLETE UBER * EATS PENDING  Cash Balance 
+10/31/25 21:02,,Cash Card,USD,-$10.32,$0.00,-$10.32,,,,COMPLETE,TELLO MOBILE,,Cash Balance, Cash Card COMPLETE TELLO MOBILE  Cash Balance 
+10/31/25 14:57,#D-4RGNEM5P,P2P,USD,-$9.00,$0.00,-$9.00,,,,COMPLETE,food,David Solid Santos,Cash Balance,#D-4RGNEM5P P2P COMPLETE food David Solid Santos Cash Balance 
+10/31/25 14:57,#D-X7K8M9OE,P2P,USD,-$1.00,$0.00,-$1.00,,,,COMPLETE,test,David Solid Santos,Cash Balance,#D-X7K8M9OE P2P COMPLETE test David Solid Santos Cash Balance 
+10/31/25 12:08,#D-V3ZGO6RK,P2P,USD,$52.90,$0.00,$52.90,,,,COMPLETE,laft,Zaitullah Khebarkhil,Cash Balance,#D-V3ZGO6RK P2P COMPLETE laft Zaitullah Khebarkhil Cash Balance 
+10/31/25 12:02,#D-4RGQ2G7R,P2P,USD,$52.00,,$52.00,,,,FAILED,bills,Zaitullah Khebarkhil,Cash Balance,#D-4RGQ2G7R P2P FAILED bills Zaitullah Khebarkhil Cash Balance 
+10/31/25 0:00,,Cash Card,USD,-$11.25,$0.00,-$11.25,,,,FAILED,APPLE.COM/BILL,,Cash Balance, Cash Card FAILED APPLE.COM/BILL  Cash Balance 
+10/30/25 22:38,,Cash Card,USD,-$51.95,$0.00,-$51.95,,,,COMPLETE,AES INDIANA/EZ-PAY,,Cash Balance, Cash Card COMPLETE AES INDIANA/EZ-PAY  Cash Balance 
+10/30/25 22:18,,Borrow,USD,$26.02,,$26.02,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/30/25 22:05,,Cash Card,USD,-$41.86,$0.00,-$41.86,,,,COMPLETE,DD *DOORDASH MEIJER,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MEIJER  Cash Balance 
+10/30/25 22:05,,Cash Card,USD,-$62.71,$0.00,-$62.71,,,,FAILED,DD *DOORDASH MEIJER,,Cash Balance, Cash Card FAILED DD *DOORDASH MEIJER  Cash Balance 
+10/30/25 22:05,,Cash Card,USD,-$62.71,$0.00,-$62.71,,,,FAILED,DD *DOORDASH MEIJER,,Cash Balance, Cash Card FAILED DD *DOORDASH MEIJER  Cash Balance 
+10/30/25 21:38,,Cash Card,USD,-$51.95,$0.00,-$51.95,,,,FAILED,AES INDIANA/EZ-PAY,,Cash Balance, Cash Card FAILED AES INDIANA/EZ-PAY  Cash Balance 
+10/30/25 18:40,#D-G378M9Q8,P2P,USD,$43.00,$0.00,$43.00,,,,COMPLETE,laft many,Zaitullah Khebarkhil,Cash Balance,#D-G378M9Q8 P2P COMPLETE laft many Zaitullah Khebarkhil Cash Balance 
+10/30/25 15:15,,Cash Card,USD,-$29.83,$0.00,-$29.83,,,,COMPLETE,PAPA JOHNS #316,,Cash Balance, Cash Card COMPLETE PAPA JOHNS #316  Cash Balance 
+10/30/25 13:32,,Cash Card,USD,-$17.50,$0.00,-$17.50,,,,COMPLETE,TELLO US,,Cash Balance, Cash Card COMPLETE TELLO US  Cash Balance 
+10/30/25 11:08,,Cash Card,USD,-$6.38,$0.00,-$6.38,,,,COMPLETE,UBR* PENDING.UBER.COM,,Cash Balance, Cash Card COMPLETE UBR* PENDING.UBER.COM  Cash Balance 
+10/30/25 11:06,,,USD,$145.70,,$145.70,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/30/25 10:52,,Borrow,USD,-$22.07,,-$22.07,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/30/25 10:52,,Borrow,USD,-$5.25,,-$5.25,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/30/25 10:47,,,USD,-$11.33,,-$11.33,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/30/25 10:47,,,USD,-$16.26,,-$16.26,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/30/25 10:47,,Deposits,USD,$6.90,$0.00,$6.90,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+10/30/25 10:47,,,USD,-$10.75,,-$10.75,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/30/25 10:47,,,USD,-$10.75,,-$10.75,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/30/25 10:45,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+10/30/25 7:36,#D-JN3O8ZDG,P2P,USD,-$10.00,$0.00,-$10.00,,,,COMPLETE,smoke,Zaitullah Khebarkhil,Cash Balance,#D-JN3O8ZDG P2P COMPLETE smoke Zaitullah Khebarkhil Cash Balance 
+10/29/25 17:35,vvkt28ev7,P2P,USD,-$100.00,$0.00,-$100.00,,,,COMPLETE,bby,Dilshant Singh,Cash Balance,vvkt28ev7 P2P COMPLETE bby Dilshant Singh Cash Balance 
+10/29/25 17:32,,Deposits,USD,$180.00,$0.00,$180.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/29/25 17:30,,Deposits,USD,$180.00,$0.00,$180.00,,,,FAILED,Add Cash,,Visa Debit 8486, Deposits FAILED Add Cash  Visa Debit 8486 
+10/29/25 10:41,,Cash Card,USD,-$22.00,$0.00,-$22.00,,,,FAILED,ELEVENLABS.IO,,Cash Balance, Cash Card FAILED ELEVENLABS.IO  Cash Balance 
+10/29/25 10:34,,Cash Card,USD,-$15.21,$0.00,-$15.21,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/29/25 10:34,,Cash Card,USD,-$15.21,$0.00,-$15.21,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/29/25 5:53,,Cash Card,USD,-$11.42,$0.00,-$11.42,,,,COMPLETE,MCDONALD'S F11652,,Cash Balance, Cash Card COMPLETE MCDONALD'S F11652  Cash Balance 
+10/29/25 5:48,,Cash Card,USD,-$2.38,$0.00,-$2.38,,,,COMPLETE,PHILLIPS 66 - VILLAG,,Cash Balance, Cash Card COMPLETE PHILLIPS 66 - VILLAG  Cash Balance 
+10/28/25 12:15,,Cash Card,USD,-$1.98,$0.00,-$1.98,,,,COMPLETE,UBR* PENDING.UBER.COM,,Cash Balance, Cash Card COMPLETE UBR* PENDING.UBER.COM  Cash Balance 
+10/28/25 11:03,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+10/28/25 8:42,,Cash Card,USD,-$14.55,$0.00,-$14.55,,,,COMPLETE,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card COMPLETE Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/28/25 6:22,,Cash Card,USD,-$12.25,$0.00,-$12.25,,,,COMPLETE,TESLA SUPERCHARGER US,,Cash Balance, Cash Card COMPLETE TESLA SUPERCHARGER US  Cash Balance 
+10/28/25 1:38,,Cash Card,USD,-$10.95,$0.00,-$10.95,,,,COMPLETE,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card COMPLETE Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/27/25 23:15,,Cash Card,USD,-$19.01,$0.00,-$19.01,,,,COMPLETE,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card COMPLETE Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/27/25 22:47,#D-3P38GV7Z,P2P,USD,$50.00,$0.00,$50.00,,,,COMPLETE,ZAi $ Cody,Zaitullah Khebarkhil,Cash Balance,#D-3P38GV7Z P2P COMPLETE ZAi $ Cody Zaitullah Khebarkhil Cash Balance 
+10/27/25 21:53,,Cash Card,USD,-$63.77,$0.00,-$63.77,,,,COMPLETE,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card COMPLETE Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/27/25 21:35,#D-9J3KLK63,P2P,USD,$50.00,$0.00,$50.00,,,,COMPLETE,supercharger,Zaitullah Khebarkhil,Cash Balance,#D-9J3KLK63 P2P COMPLETE supercharger Zaitullah Khebarkhil Cash Balance 
+10/27/25 19:16,#D-NDPKNN6Q,P2P,USD,$40.00,$0.00,$40.00,,,,COMPLETE,supercharge,Zaitullah Khebarkhil,Cash Balance,#D-NDPKNN6Q P2P COMPLETE supercharge Zaitullah Khebarkhil Cash Balance 
+10/27/25 11:06,,Cash App Pay Payment,USD,-$30.08,,-$30.08,,,,COMPLETE,$30.08 Payment At DoorDash,,Cash Balance, Cash App Pay Payment COMPLETE $30.08 Payment At DoorDash  Cash Balance 
+10/27/25 10:45,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+10/27/25 1:00,,Cash Card,USD,-$5.55,$0.00,-$5.55,,,,FAILED,TESLA SUPERCHARGER US,,Cash Balance, Cash Card FAILED TESLA SUPERCHARGER US  Cash Balance 
+10/27/25 1:00,,Cash Card,USD,-$5.55,$0.00,-$5.55,,,,FAILED,TESLA SUPERCHARGER US,,Cash Balance, Cash Card FAILED TESLA SUPERCHARGER US  Cash Balance 
+10/26/25 22:59,,Cash Card,USD,-$13.52,$0.00,-$13.52,,,,FAILED,TESLA SUPERCHARGER US,,Cash Balance, Cash Card FAILED TESLA SUPERCHARGER US  Cash Balance 
+10/26/25 22:59,,Cash Card,USD,-$13.52,$0.00,-$13.52,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/26/25 22:59,,Cash Card,USD,-$13.52,$0.00,-$13.52,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/26/25 22:05,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+10/26/25 19:54,,Cash Card,USD,-$10.27,$0.00,-$10.27,,,,COMPLETE,UBER * EATS PENDING,,Cash Balance, Cash Card COMPLETE UBER * EATS PENDING  Cash Balance 
+10/25/25 20:10,,Cash App Pay Payment,USD,-$29.37,,-$29.37,,,,COMPLETE,$29.37 Payment At DoorDash,,Cash Balance, Cash App Pay Payment COMPLETE $29.37 Payment At DoorDash  Cash Balance 
+10/25/25 18:15,,Cash Card,USD,-$10.05,$0.00,-$10.05,,,,COMPLETE,CVS/PHARMACY #06580,,Cash Balance, Cash Card COMPLETE CVS/PHARMACY #06580  Cash Balance 
+10/25/25 18:13,#D-79RJMRPG,P2P,USD,$2.00,$0.00,$2.00,,,,COMPLETE,Cody,Zaitullah Khebarkhil,Cash Balance,#D-79RJMRPG P2P COMPLETE Cody Zaitullah Khebarkhil Cash Balance 
+10/25/25 8:14,#D-MQO78R5K,P2P,USD,$50.00,$0.00,$50.00,,,,COMPLETE,Food,Zaitullah Khebarkhil,Cash Balance,#D-MQO78R5K P2P COMPLETE Food Zaitullah Khebarkhil Cash Balance 
+10/25/25 7:50,,Cash Card,USD,-$17.47,$0.00,-$17.47,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/25/25 7:50,,Cash Card,USD,-$17.47,$0.00,-$17.47,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/25/25 2:28,,Cash Card,USD,-$4.53,$0.00,-$4.53,,,,COMPLETE,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card COMPLETE Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/24/25 8:24,,Cash Card,USD,-$11.14,$0.00,-$11.14,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/24/25 8:24,,Cash Card,USD,-$11.14,$0.00,-$11.14,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/23/25 19:02,,Cash Card,USD,-$20.43,$0.00,-$20.43,,,,COMPLETE,DD *DOORDASH ARBYS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH ARBYS  Cash Balance 
+10/23/25 19:00,#D-V3RNOMKL,P2P,USD,$2.29,$0.00,$2.29,,,,COMPLETE,Cody,Zaitullah Khebarkhil,Cash Balance,#D-V3RNOMKL P2P COMPLETE Cody Zaitullah Khebarkhil Cash Balance 
+10/23/25 18:56,,Deposits,USD,$10.00,$0.00,$10.00,,,,FAILED,Add Cash,,Visa Debit 8486, Deposits FAILED Add Cash  Visa Debit 8486 
+10/23/25 14:55,,Cash Card,USD,$1.81,$0.00,$1.81,,,,COMPLETE,EXPEDIA 73282216586098,,Cash Balance, Cash Card COMPLETE EXPEDIA 73282216586098  Cash Balance 
+10/23/25 12:11,,Cash Card,USD,-$145.70,$0.00,-$145.70,,,,COMPLETE,EXPEDIA 73282216586098,,Cash Balance, Cash Card COMPLETE EXPEDIA 73282216586098  Cash Balance 
+10/23/25 12:11,,Borrow,USD,$84.08,,$84.08,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/23/25 12:09,,Deposits,USD,$80.00,$0.00,$80.00,,,,COMPLETE,Add Cash,,Visa Debit 8486, Deposits COMPLETE Add Cash  Visa Debit 8486 
+10/23/25 10:52,,Cash Card,USD,-$17.80,$0.00,-$17.80,,,,COMPLETE,McDonalds 11652,,Cash Balance, Cash Card COMPLETE McDonalds 11652  Cash Balance 
+10/23/25 10:50,,Cash Card,USD,-$17.80,$0.00,-$17.80,,,,FAILED,McDonalds 11652,,Cash Balance, Cash Card FAILED McDonalds 11652  Cash Balance 
+10/23/25 10:50,,Borrow,USD,$20.00,,$20.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/23/25 10:21,,Borrow,USD,-$23.08,,-$23.08,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/23/25 10:20,,Borrow,USD,-$15.75,,-$15.75,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/23/25 10:14,,Borrow,USD,-$0.48,,-$0.48,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/23/25 10:07,#D-79E987PO,P2P,USD,$40.00,$0.00,$40.00,,,,COMPLETE,Cody,Zaitullah Khebarkhil,Cash Balance,#D-79E987PO P2P COMPLETE Cody Zaitullah Khebarkhil Cash Balance 
+10/23/25 9:45,,Cash Card,USD,-$16.09,$0.00,-$16.09,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/23/25 9:45,,Cash Card,USD,-$16.09,$0.00,-$16.09,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/23/25 9:08,,Borrow,USD,-$10.75,,-$10.75,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/23/25 9:08,,Borrow,USD,-$11.24,,-$11.24,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/23/25 9:08,,Borrow,USD,-$15.75,,-$15.75,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/23/25 9:06,,Borrow,USD,-$11.24,,-$11.24,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/23/25 9:06,,Borrow,USD,-$5.25,,-$5.25,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/23/25 9:06,,Borrow,USD,-$15.75,,-$15.75,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/23/25 8:57,,Cash Card,USD,-$15.29,$0.00,-$15.29,,,,COMPLETE,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card COMPLETE Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/23/25 8:57,,Deposits,USD,$84.13,$0.00,$84.13,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/23/25 8:42,,Cash Card,USD,-$22.00,$0.00,-$22.00,,,,FAILED,ELEVENLABS.IO,,Cash Balance, Cash Card FAILED ELEVENLABS.IO  Cash Balance 
+10/22/25 21:51,,Cash Card,USD,-$15.29,$0.00,-$15.29,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/22/25 21:51,,Cash Card,USD,-$15.29,$0.00,-$15.29,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/22/25 21:15,,Cash Card,USD,-$9.88,$0.00,-$9.88,,,,COMPLETE,TESLA SUPERCHARGER US,,Cash Balance, Cash Card COMPLETE TESLA SUPERCHARGER US  Cash Balance 
+10/22/25 21:15,#D-ND3Z6XDP,P2P,USD,$2.00,$0.00,$2.00,,,,COMPLETE,Cody,Zaitullah Khebarkhil,Cash Balance,#D-ND3Z6XDP P2P COMPLETE Cody Zaitullah Khebarkhil Cash Balance 
+10/22/25 21:15,,Cash Card,USD,-$9.88,$0.00,-$9.88,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/22/25 21:15,,Cash Card,USD,-$9.88,$0.00,-$9.88,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/22/25 21:13,#D-MQ9D8VD8,P2P,USD,$10.00,$0.00,$10.00,,,,COMPLETE,Supercharge,Zaitullah Khebarkhil,Cash Balance,#D-MQ9D8VD8 P2P COMPLETE Supercharge Zaitullah Khebarkhil Cash Balance 
+10/22/25 11:39,#D-J4DLQNQ1,P2P,USD,-$10.00,$0.00,-$10.00,,,,COMPLETE,food,Zaitullah Khebarkhil,Cash Balance,#D-J4DLQNQ1 P2P COMPLETE food Zaitullah Khebarkhil Cash Balance 
+10/21/25 15:00,,Cash Card,USD,-$39.06,$0.00,-$39.06,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+10/21/25 11:15,,Cash Card,USD,-$26.98,$0.00,-$26.98,,,,COMPLETE,DD *DOORDASH DOLLARGEN,,Cash Balance, Cash Card COMPLETE DD *DOORDASH DOLLARGEN  Cash Balance 
+10/21/25 5:17,,Cash Card,USD,-$27.88,$0.00,-$27.88,,,,COMPLETE,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MCDONALDS  Cash Balance 
+10/21/25 5:14,#D-LPXQ8PZ9,P2P,USD,$22.00,$0.00,$22.00,,,,COMPLETE,food,Zaitullah Khebarkhil,Cash Balance,#D-LPXQ8PZ9 P2P COMPLETE food Zaitullah Khebarkhil Cash Balance 
+10/20/25 21:45,,Cash Card,USD,-$25.10,$0.00,-$25.10,,,,COMPLETE,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MCDONALDS  Cash Balance 
+10/20/25 21:42,,Borrow,USD,$87.90,,$87.90,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/19/25 18:20,,Cash Card,USD,-$28.39,$0.00,-$28.39,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+10/19/25 18:20,,Borrow,USD,$20.00,,$20.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/19/25 17:53,#D-X646G6N1,P2P,USD,-$125.00,$0.00,-$125.00,,,,COMPLETE,tires,Zaitullah Khebarkhil,Cash Balance,#D-X646G6N1 P2P COMPLETE tires Zaitullah Khebarkhil Cash Balance 
+10/19/25 17:51,#D-R6764M7N,P2P,USD,$1.00,,$1.00,,,,FAILED,call me,Zaitullah Khebarkhil,Cash Balance,#D-R6764M7N P2P FAILED call me Zaitullah Khebarkhil Cash Balance 
+10/19/25 17:48,,Borrow,USD,$60.00,,$60.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/19/25 17:48,,,USD,$32.09,,$32.09,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/19/25 17:48,,,USD,$45.38,,$45.38,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/19/25 15:35,,Borrow,USD,-$11.24,,-$11.24,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/19/25 15:33,,Borrow,USD,-$112.55,,-$112.55,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/19/25 15:29,,,USD,-$10.75,,-$10.75,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/19/25 15:27,,Deposits,USD,$130.00,$0.00,$130.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/19/25 15:24,,Cash Card,USD,-$31.78,$0.00,-$31.78,,,,COMPLETE,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH PAPAJOHNS  Cash Balance 
+10/19/25 15:24,,,USD,$30.00,,$30.00,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/19/25 6:42,#D-X6EZXK47,P2P,USD,-$1.00,$0.00,-$1.00,,,,FAILED,text me,Dedrick Meza,Cash Balance,#D-X6EZXK47 P2P FAILED text me Dedrick Meza Cash Balance 
+10/19/25 5:48,,Cash Card,USD,-$24.65,$0.00,-$24.65,,,,COMPLETE,STARBUCKS STORE 13618,,Cash Balance, Cash Card COMPLETE STARBUCKS STORE 13618  Cash Balance 
+10/19/25 5:32,,Cash Card,USD,-$9.70,$0.00,-$9.70,,,,COMPLETE,UBR* PENDING.UBER.COM,,Cash Balance, Cash Card COMPLETE UBR* PENDING.UBER.COM  Cash Balance 
+10/19/25 4:54,,Cash Card,USD,-$7.16,$0.00,-$7.16,,,,FAILED,LYFT   *TEMP AUTH HOLD,,Cash Balance, Cash Card FAILED LYFT   *TEMP AUTH HOLD  Cash Balance 
+10/19/25 4:45,,Borrow,USD,$42.81,,$42.81,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/19/25 4:02,,Cash Card,USD,-$8.89,$0.00,-$8.89,,,,COMPLETE,UBR* PENDING.UBER.COM,,Cash Balance, Cash Card COMPLETE UBR* PENDING.UBER.COM  Cash Balance 
+10/18/25 9:29,,Borrow,USD,-$5.57,,-$5.57,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/18/25 9:27,,Borrow,USD,-$39.37,,-$39.37,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/18/25 9:22,,Deposits,USD,$31.93,$0.00,$31.93,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+10/18/25 9:22,,,USD,-$63.42,,-$63.42,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/18/25 9:22,,Deposits,USD,$100.00,$0.00,$100.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/18/25 6:20,,Cash Card,USD,-$9.88,$0.00,-$9.88,,,,FAILED,TESLA SUPERCHARGER US,,Cash Balance, Cash Card FAILED TESLA SUPERCHARGER US  Cash Balance 
+10/18/25 6:20,,Cash Card,USD,-$9.88,$0.00,-$9.88,,,,FAILED,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card FAILED Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/18/25 4:21,,Cash Card,USD,-$20.81,$0.00,-$20.81,,,,COMPLETE,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MCDONALDS  Cash Balance 
+10/18/25 4:09,,Cash Card,USD,-$20.81,$0.00,-$20.81,,,,FAILED,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card FAILED DD *DOORDASH MCDONALDS  Cash Balance 
+10/18/25 1:34,,Borrow,USD,$37.50,,$37.50,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/17/25 21:56,,Cash Card,USD,-$15.05,$0.00,-$15.05,,,,COMPLETE,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card COMPLETE Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/17/25 11:51,,Cash Card,USD,-$26.15,$0.00,-$26.15,,,,COMPLETE,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH PAPAJOHNS  Cash Balance 
+10/17/25 1:34,,Cash Card,USD,-$24.36,$0.00,-$24.36,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+10/16/25 16:45,,Cash Card,USD,-$16.85,$0.00,-$16.85,,,,COMPLETE,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MCDONALDS  Cash Balance 
+10/16/25 14:12,,Cash Card,USD,-$12.42,$0.00,-$12.42,,,,COMPLETE,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card COMPLETE Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/16/25 11:17,,Borrow,USD,-$39.38,,-$39.38,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/16/25 11:12,,,USD,-$30.22,,-$30.22,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/16/25 11:10,,Deposits,USD,$159.74,$0.00,$159.74,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/16/25 8:57,,Cash Card,USD,-$12.23,$0.00,-$12.23,,,,COMPLETE,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card COMPLETE Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/16/25 5:55,#D-D71ORKN7,P2P,USD,-$10.00,$0.00,-$10.00,,,,COMPLETE,food,Zaitullah Khebarkhil,Cash Balance,#D-D71ORKN7 P2P COMPLETE food Zaitullah Khebarkhil Cash Balance 
+10/16/25 3:24,,Cash Card,USD,-$45.38,$0.00,-$45.38,,,,COMPLETE,"Tesla, Inc. SUPERCHARGER",,Cash Balance," Cash Card COMPLETE Tesla, Inc. SUPERCHARGER  Cash Balance "
+10/16/25 3:24,#D-V6336ZZL,P2P,USD,$46.00,$0.00,$46.00,,,,COMPLETE,super,Zaitullah Khebarkhil,Cash Balance,#D-V6336ZZL P2P COMPLETE super Zaitullah Khebarkhil Cash Balance 
+10/15/25 22:54,,Cash Card,USD,-$26.94,$0.00,-$26.94,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+10/15/25 16:54,#D-R6R8X1KP,P2P,USD,$40.00,$0.00,$40.00,,,,COMPLETE,cash,Zaitullah Khebarkhil,Cash Balance,#D-R6R8X1KP P2P COMPLETE cash Zaitullah Khebarkhil Cash Balance 
+10/15/25 15:58,,Deposits,USD,$200.00,$0.00,$200.00,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+10/15/25 8:08,,Cash Card,USD,-$19.33,$0.00,-$19.33,,,,COMPLETE,DD *DOORDASH TACOBELL,,Cash Balance, Cash Card COMPLETE DD *DOORDASH TACOBELL  Cash Balance 
+10/15/25 6:56,#D-V66N9KL9,P2P,USD,$18.00,$0.00,$18.00,,,,COMPLETE,Cody,Zaitullah Khebarkhil,Cash Balance,#D-V66N9KL9 P2P COMPLETE Cody Zaitullah Khebarkhil Cash Balance 
+10/14/25 12:08,,Cash Card,USD,-$20.26,$0.00,-$20.26,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+10/14/25 12:06,,Deposits,USD,$4.20,$0.00,$4.20,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/14/25 12:04,,Cash Card,USD,-$27.23,$0.00,-$27.23,,,,FAILED,DD *DOORDASH,,Cash Balance, Cash Card FAILED DD *DOORDASH  Cash Balance 
+10/14/25 11:37,,Cash Card,USD,-$39.56,$0.00,-$39.56,,,,COMPLETE,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH PAPAJOHNS  Cash Balance 
+10/14/25 11:28,,Cash Card,USD,-$32.09,$0.00,-$32.09,,,,COMPLETE,MIDLAND #134,,Cash Balance, Cash Card COMPLETE MIDLAND #134  Cash Balance 
+10/14/25 8:21,,Cash Card,USD,-$10.33,$0.00,-$10.33,,,,COMPLETE,INTUIT *QBooks Online,,Cash Balance, Cash Card COMPLETE INTUIT *QBooks Online  Cash Balance 
+10/13/25 23:53,,Deposits,USD,$89.00,$0.00,$89.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/11/25 22:32,,Cash Card,USD,-$30.00,$0.00,-$30.00,,,,COMPLETE,CRICKET WIRELESS,,Cash Balance, Cash Card COMPLETE CRICKET WIRELESS  Cash Balance 
+10/11/25 22:30,,Deposits,USD,$35.00,$0.00,$35.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/11/25 19:38,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,COMPLETE,TESLA SUBSCRIPTION US,,Cash Balance, Cash Card COMPLETE TESLA SUBSCRIPTION US  Cash Balance 
+10/11/25 7:30,,Cash Card,USD,-$25.00,$0.00,-$25.00,,,,FAILED,ANYTIME MAILBOX,,Cash Balance, Cash Card FAILED ANYTIME MAILBOX  Cash Balance 
+10/11/25 7:16,,Cash Card,USD,-$10.69,$0.00,-$10.69,,,,COMPLETE,ANYTIME MAILBOX,,Cash Balance, Cash Card COMPLETE ANYTIME MAILBOX  Cash Balance 
+10/11/25 3:04,#D-ENELZ8EO,P2P,USD,-$79.00,$0.00,-$79.00,,,,COMPLETE,grocery,Jon Beder,Cash Balance,#D-ENELZ8EO P2P COMPLETE grocery Jon Beder Cash Balance 
+10/11/25 3:02,#D-N6X2L5M9,P2P,USD,-$1.00,$0.00,-$1.00,,,,COMPLETE,food,Jon Beder,Cash Balance,#D-N6X2L5M9 P2P COMPLETE food Jon Beder Cash Balance 
+10/10/25 21:17,,Cash Card,USD,-$20.43,$0.00,-$20.43,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+10/10/25 20:44,,,USD,$28.12,,$28.12,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/10/25 20:42,,,USD,$59.00,,$59.00,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/10/25 8:46,,Cash Card,USD,-$71.98,$0.00,-$71.98,,,,COMPLETE,DD *DOORDASH MEIJER,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MEIJER  Cash Balance 
+10/10/25 8:41,,Cash Card,USD,-$11.48,$0.00,-$11.48,,,,COMPLETE,TELLO MOBILE,,Cash Balance, Cash Card COMPLETE TELLO MOBILE  Cash Balance 
+10/10/25 8:30,,Cash Card,USD,-$57.00,$0.00,-$57.00,,,,COMPLETE,T-MOBILE WEB PAYMENT,,Cash Balance, Cash Card COMPLETE T-MOBILE WEB PAYMENT  Cash Balance 
+10/10/25 8:30,,Borrow,USD,$150.00,,$150.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/10/25 8:28,,Cash Card,USD,-$57.00,$0.00,-$57.00,,,,FAILED,T-MOBILE WEB PAYMENT,,Cash Balance, Cash Card FAILED T-MOBILE WEB PAYMENT  Cash Balance 
+10/10/25 8:19,,Borrow,USD,-$39.37,,-$39.37,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/10/25 8:19,,Borrow,USD,-$118.12,,-$118.12,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/10/25 8:15,,,USD,-$69.44,,-$69.44,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/10/25 8:15,,,USD,-$21.08,,-$21.08,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/10/25 8:14,,Deposits,USD,$300.00,$0.00,$300.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/8/25 16:34,,Cash Card,USD,-$28.12,$0.00,-$28.12,,,,COMPLETE,ELEVENLABS* WXDJ22DW,,Cash Balance, Cash Card COMPLETE ELEVENLABS* WXDJ22DW  Cash Balance 
+10/8/25 16:32,,Borrow,USD,$37.50,,$37.50,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/8/25 14:14,,Borrow,USD,-$39.38,,-$39.38,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/8/25 13:07,,Cash Card,USD,-$18.73,$0.00,-$18.73,,,,COMPLETE,DD *DOORDASH WALGREENS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH WALGREENS  Cash Balance 
+10/8/25 12:58,,Cash Card,USD,-$15.96,$0.00,-$15.96,,,,COMPLETE,DD *DOORDASH WALGREENS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH WALGREENS  Cash Balance 
+10/8/25 10:54,,Cash Card,USD,-$14.46,$0.00,-$14.46,,,,COMPLETE,UBR* PENDING.UBER.COM,,Cash Balance, Cash Card COMPLETE UBR* PENDING.UBER.COM  Cash Balance 
+10/7/25 20:53,,Cash Card,USD,-$5.00,$0.00,-$5.00,,,,COMPLETE,UBR* PENDING.UBER.COM,,Cash Balance, Cash Card COMPLETE UBR* PENDING.UBER.COM  Cash Balance 
+10/7/25 18:45,,Cash Card,USD,-$22.47,$0.00,-$22.47,,,,FAILED,DD *DOORDASH DOLLARGEN,,Cash Balance, Cash Card FAILED DD *DOORDASH DOLLARGEN  Cash Balance 
+10/7/25 18:35,,Cash Card,USD,-$51.81,$0.00,-$51.81,,,,COMPLETE,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH PAPAJOHNS  Cash Balance 
+10/7/25 14:35,#D-Z6N5NE62,P2P,USD,$33.00,$0.00,$33.00,,,,COMPLETE,$33 I sent back,Zaitullah Khebarkhil,Cash Balance,#D-Z6N5NE62 P2P COMPLETE $33 I sent back Zaitullah Khebarkhil Cash Balance 
+10/7/25 13:05,,Cash Card,USD,-$59.00,$0.00,-$59.00,,,,COMPLETE,"HONEYBOOK, INC",,Cash Balance," Cash Card COMPLETE HONEYBOOK, INC  Cash Balance "
+10/7/25 9:51,#D-J4XG33ZX,P2P,USD,-$50.00,$0.00,-$50.00,,,,COMPLETE,food,Zaitullah Khebarkhil,Cash Balance,#D-J4XG33ZX P2P COMPLETE food Zaitullah Khebarkhil Cash Balance 
+10/7/25 9:29,,Borrow,USD,-$63.00,,-$63.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/7/25 9:29,,Borrow,USD,-$42.00,,-$42.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/7/25 9:29,,Borrow,USD,-$52.50,,-$52.50,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/7/25 9:24,,Borrow,USD,$150.00,,$150.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/7/25 9:24,,,USD,$64.60,,$64.60,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/7/25 9:24,,,USD,-$10.55,,-$10.55,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/7/25 9:22,,,USD,-$25.83,,-$25.83,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/7/25 9:22,,,USD,$29.43,,$29.43,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/7/25 3:31,,Cash Card,USD,-$20.00,$0.00,-$20.00,,,,COMPLETE,"CURSOR, AI POWERED IDE",,Cash Balance," Cash Card COMPLETE CURSOR, AI POWERED IDE  Cash Balance "
+10/6/25 20:05,,Deposits,USD,$200.00,$0.00,$200.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/6/25 20:03,,Deposits,USD,$200.00,$0.00,$200.00,,,,FAILED,Add Cash,,Visa Debit 8486, Deposits FAILED Add Cash  Visa Debit 8486 
+10/6/25 14:17,,Borrow,USD,-$63.00,,-$63.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/6/25 14:15,,,USD,-$10.00,,-$10.00,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/6/25 14:14,,,USD,-$58.58,,-$58.58,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/6/25 14:14,,Deposits,USD,$8.14,$0.00,$8.14,,,,COMPLETE,Add Cash,,Visa Debit 8486, Deposits COMPLETE Add Cash  Visa Debit 8486 
+10/6/25 14:12,,Borrow,USD,$60.00,,$60.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/6/25 14:12,#D-R6Q7XO6J,P2P,USD,$2.00,$0.00,$2.00,,,,COMPLETE,hi,Zaitullah Khebarkhil,Cash Balance,#D-R6Q7XO6J P2P COMPLETE hi Zaitullah Khebarkhil Cash Balance 
+10/6/25 14:10,,Deposits,USD,$1.00,$0.00,$1.00,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+10/6/25 14:10,,,USD,$54.50,,$54.50,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/6/25 14:10,,,USD,-$35.83,,-$35.83,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+10/5/25 18:44,,Deposits,USD,$20.01,$0.00,$20.01,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/5/25 18:38,,Cash Card,USD,-$21.00,$0.00,-$21.00,,,,FAILED,DD *DOORDASH LITTLECAE,,Cash Balance, Cash Card FAILED DD *DOORDASH LITTLECAE  Cash Balance 
+10/5/25 18:35,,Cash Card,USD,-$29.43,$0.00,-$29.43,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+10/5/25 18:27,,Cash Card,USD,-$64.60,$0.00,-$64.60,,,,COMPLETE,DD *DOORDASH DOLLARGEN,,Cash Balance, Cash Card COMPLETE DD *DOORDASH DOLLARGEN  Cash Balance 
+10/4/25 23:57,,Cash Card,USD,-$23.85,$0.00,-$23.85,,,,COMPLETE,MCDONALD'S F11652,,Cash Balance, Cash Card COMPLETE MCDONALD'S F11652  Cash Balance 
+10/4/25 23:53,,Deposits,USD,$126.00,$0.00,$126.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/4/25 23:21,,Deposits,USD,$30.00,$0.00,$30.00,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+10/3/25 12:31,,Cash Card,USD,-$26.28,$0.00,-$26.28,,,,FAILED,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card FAILED DD *DOORDASH PAPAJOHNS  Cash Balance 
+10/3/25 12:29,782847188,Withdrawal,USD,-$4.04,$0.00,-$4.04,,,,COMPLETE,Cash Out,,MasterCard Debit 9981,Mastercard: 782847188 Withdrawal COMPLETE Cash Out  MasterCard Debit 9981 
+10/3/25 12:26,,Deposits,USD,$2.98,$0.00,$2.98,,,,COMPLETE,Add Cash,,Visa Debit 8486, Deposits COMPLETE Add Cash  Visa Debit 8486 
+10/3/25 12:09,,Cash Card,USD,-$25.69,$0.00,-$25.69,,,,FAILED,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card FAILED DD *DOORDASH PAPAJOHNS  Cash Balance 
+10/3/25 12:06,,Cash Card,USD,-$25.69,$0.00,-$25.69,,,,FAILED,DD *DOORDASH,,Cash Balance, Cash Card FAILED DD *DOORDASH  Cash Balance 
+10/3/25 3:20,,Cash Card,USD,-$20.07,$0.00,-$20.07,,,,COMPLETE,DD *DOORDASH TACOBELL,,Cash Balance, Cash Card COMPLETE DD *DOORDASH TACOBELL  Cash Balance 
+10/3/25 3:15,,Cash Card,USD,-$30.56,$0.00,-$30.56,,,,FAILED,DD *DOORDASH TACOBELL,,Cash Balance, Cash Card FAILED DD *DOORDASH TACOBELL  Cash Balance 
+10/2/25 22:09,,Cash Card,USD,-$54.50,$0.00,-$54.50,,,,COMPLETE,TMOBILE*PREPAID WEB,,Cash Balance, Cash Card COMPLETE TMOBILE*PREPAID WEB  Cash Balance 
+10/2/25 22:07,,Borrow,USD,$60.00,,$60.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/2/25 20:51,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,COMPLETE,"NOTION LABS, INC.",,Cash Balance," Cash Card COMPLETE NOTION LABS, INC.  Cash Balance "
+10/2/25 20:50,,Cash Card,USD,-$1.00,$0.00,-$1.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+10/2/25 20:50,,Cash Card,USD,-$24.00,$0.00,-$24.00,,,,FAILED,"NOTION LABS, INC.",,Cash Balance," Cash Card FAILED NOTION LABS, INC.  Cash Balance "
+10/2/25 16:07,,Cash Card,USD,-$23.27,$0.00,-$23.27,,,,COMPLETE,DD *DOORDASH TARGET,,Cash Balance, Cash Card COMPLETE DD *DOORDASH TARGET  Cash Balance 
+10/2/25 16:07,,Borrow,USD,$40.00,,$40.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/2/25 16:05,,Cash Card,USD,-$23.27,$0.00,-$23.27,,,,FAILED,DD *DOORDASH TARGET,,Cash Balance, Cash Card FAILED DD *DOORDASH TARGET  Cash Balance 
+10/2/25 13:52,,Borrow,USD,-$21.50,,-$21.50,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/2/25 13:52,,Borrow,USD,-$21.00,,-$21.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+10/2/25 13:45,,Deposits,USD,$50.00,$0.00,$50.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+10/2/25 13:43,,Deposits,USD,$50.00,$0.00,$50.00,,,,FAILED,Add Cash,,Visa Debit 8486, Deposits FAILED Add Cash  Visa Debit 8486 
+10/1/25 9:26,,Cash Card,USD,$12.45,$0.00,$12.45,,,,COMPLETE,"CURSOR, AI POWERED IDE",,Cash Balance," Cash Card COMPLETE CURSOR, AI POWERED IDE  Cash Balance "
+9/30/25 18:00,,Cash Card,USD,-$20.00,$0.00,-$20.00,,,,COMPLETE,"CURSOR, AI POWERED IDE",,Cash Balance," Cash Card COMPLETE CURSOR, AI POWERED IDE  Cash Balance "
+9/30/25 15:49,,Cash Card,USD,-$17.49,$0.00,-$17.49,,,,COMPLETE,TELLO US,,Cash Balance, Cash Card COMPLETE TELLO US  Cash Balance 
+9/30/25 14:30,,Borrow,USD,$20.00,,$20.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/30/25 10:18,,Cash Card,USD,-$4.69,$0.00,-$4.69,,,,COMPLETE,USPS.COM CLICKNSHIP,,Cash Balance, Cash Card COMPLETE USPS.COM CLICKNSHIP  Cash Balance 
+9/30/25 10:16,,Borrow,USD,-$22.00,,-$22.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/30/25 10:12,,,USD,-$1.04,,-$1.04,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/30/25 10:12,,Deposits,USD,$48.17,$0.00,$48.17,,,,COMPLETE,Add Cash,,Visa Debit 8486, Deposits COMPLETE Add Cash  Visa Debit 8486 
+9/30/25 10:09,,,USD,-$34.80,,-$34.80,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/30/25 10:09,,Deposits,USD,$1.04,$0.00,$1.04,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+9/30/25 10:07,,Deposits,USD,$34.80,$0.00,$34.80,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/26/25 15:31,,Borrow,USD,-$9.00,,-$9.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/26/25 15:15,,Borrow,USD,-$17.25,,-$17.25,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/26/25 15:15,,Deposits,USD,$17.25,$0.00,$17.25,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+9/25/25 13:14,#D-255NG1RQ,P2P,USD,$9.00,$0.00,$9.00,,,,COMPLETE,loan,Lisa English,Cash Balance,#D-255NG1RQ P2P COMPLETE loan Lisa English Cash Balance 
+9/21/25 6:20,,Cash Card,USD,-$1.18,$0.00,-$1.18,,,,COMPLETE,NAME-CHEAP.COM* ABSLX6,,Cash Balance, Cash Card COMPLETE NAME-CHEAP.COM* ABSLX6  Cash Balance 
+9/21/25 6:18,,Deposits,USD,$1.18,$0.00,$1.18,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/21/25 6:17,,Cash Card,USD,-$1.18,$0.00,-$1.18,,,,FAILED,NAME-CHEAP.COM* NALIXD,,Cash Balance, Cash Card FAILED NAME-CHEAP.COM* NALIXD  Cash Balance 
+9/18/25 13:52,,Withdrawal,USD,-$100.51,$0.00,-$100.51,,,,COMPLETE,Cash Out,,Visa Debit 0943, Withdrawal COMPLETE Cash Out  Visa Debit 0943 
+9/18/25 13:52,,Borrow,USD,$100.00,,$100.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/18/25 6:45,,Cash App Pay Payment,USD,-$26.21,,-$26.21,,,,COMPLETE,$26.21 Payment At DoorDash,,Cash Balance, Cash App Pay Payment COMPLETE $26.21 Payment At DoorDash  Cash Balance 
+9/18/25 6:40,#D-XVR3L22Z,P2P,USD,-$10.00,$0.00,-$10.00,,,,COMPLETE,JJ,Lisa English,Cash Balance,#D-XVR3L22Z P2P COMPLETE JJ Lisa English Cash Balance 
+9/17/25 16:00,,Cash App Pay Payment,USD,-$30.75,,-$30.75,,,,COMPLETE,$30.75 Payment At DoorDash,,Cash Balance, Cash App Pay Payment COMPLETE $30.75 Payment At DoorDash  Cash Balance 
+9/16/25 17:03,#D-RV4V1QRP,P2P,USD,-$40.00,$0.00,-$40.00,,,,COMPLETE,groceries,Zaitullah Khebarkhil,Cash Balance,#D-RV4V1QRP P2P COMPLETE groceries Zaitullah Khebarkhil Cash Balance 
+9/16/25 16:48,,,USD,$100.00,,$100.00,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/16/25 16:45,,Cash App Pay Payment,USD,-$34.74,,-$34.74,,,,COMPLETE,$34.74 Payment At DoorDash,,Cash Balance, Cash App Pay Payment COMPLETE $34.74 Payment At DoorDash  Cash Balance 
+9/16/25 16:39,,Cash App Pay Payment,USD,-$30.67,,-$30.67,,,,COMPLETE,$30.67 Payment At DoorDash,,Cash Balance, Cash App Pay Payment COMPLETE $30.67 Payment At DoorDash  Cash Balance 
+9/16/25 16:20,#D-EJPXJX7X,P2P,USD,-$10.00,$0.00,-$10.00,,,,COMPLETE,bmv,Zaitullah Khebarkhil,Cash Balance,#D-EJPXJX7X P2P COMPLETE bmv Zaitullah Khebarkhil Cash Balance 
+9/16/25 16:18,#D-15KZZPOJ,P2P,USD,-$1.00,$0.00,-$1.00,,,,COMPLETE,bmv,Zai Khebarkhil,Cash Balance,#D-15KZZPOJ P2P COMPLETE bmv Zai Khebarkhil Cash Balance 
+9/15/25 19:18,,Deposits,USD,$76.16,$0.00,$76.16,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/15/25 19:09,,Deposits,USD,$100.00,$0.00,$100.00,,,,FAILED,Add Cash,,Cash Balance, Deposits FAILED Add Cash  Cash Balance 
+9/15/25 12:47,,Cash App Pay Payment,USD,-$21.19,,-$21.19,,,,COMPLETE,$21.19 Payment At DoorDash,,Cash Balance, Cash App Pay Payment COMPLETE $21.19 Payment At DoorDash  Cash Balance 
+9/15/25 0:18,,Cash Card,USD,-$17.18,$0.00,-$17.18,,,,COMPLETE,MCDONALD'S F4407,,Cash Balance, Cash Card COMPLETE MCDONALD'S F4407  Cash Balance 
+9/14/25 22:25,,Borrow,USD,-$52.50,,-$52.50,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/14/25 22:21,,,USD,-$29.37,,-$29.37,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/14/25 22:21,,,USD,-$33.74,,-$33.74,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/14/25 22:21,,,USD,-$38.30,,-$38.30,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/14/25 22:21,,Deposits,USD,$200.00,$0.00,$200.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/14/25 22:18,,Deposits,USD,$1.16,$0.00,$1.16,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+9/14/25 13:16,,Withdrawal,USD,-$52.07,$0.00,-$52.07,,,,COMPLETE,Cash Out,,Visa Debit 0943, Withdrawal COMPLETE Cash Out  Visa Debit 0943 
+9/14/25 13:16,,Borrow,USD,$50.00,,$50.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/13/25 18:24,,Cash Card,USD,-$100.00,$0.00,-$100.00,,,,COMPLETE,USCIS I-589,,Cash Balance, Cash Card COMPLETE USCIS I-589  Cash Balance 
+9/13/25 18:11,,Deposits,USD,$33.00,$0.00,$33.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/13/25 17:17,,Cash App Pay Payment,USD,-$18.15,,-$18.15,,,,COMPLETE,$18.15 Payment At DoorDash,,Cash Balance, Cash App Pay Payment COMPLETE $18.15 Payment At DoorDash  Cash Balance 
+9/13/25 17:03,,Cash App Pay Payment,USD,-$27.15,,-$27.15,,,,COMPLETE,$27.15 Payment At DoorDash,,Cash Balance, Cash App Pay Payment COMPLETE $27.15 Payment At DoorDash  Cash Balance 
+9/12/25 12:49,,Cash Card,USD,-$15.70,$0.00,-$15.70,,,,COMPLETE,IN STATE POLICE SEARCH,,Cash Balance, Cash Card COMPLETE IN STATE POLICE SEARCH  Cash Balance 
+9/12/25 5:30,,Cash App Pay Payment,USD,-$23.97,,-$23.97,,,,COMPLETE,$23.97 Payment At DoorDash,,Cash Balance, Cash App Pay Payment COMPLETE $23.97 Payment At DoorDash  Cash Balance 
+9/11/25 22:38,#D-J126V5KO,P2P,USD,-$30.00,$0.00,-$30.00,,,,COMPLETE,vape,Zaitullah Khebarkhil,Cash Balance,#D-J126V5KO P2P COMPLETE vape Zaitullah Khebarkhil Cash Balance 
+9/11/25 21:49,,Borrow,USD,-$52.50,,-$52.50,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/11/25 21:45,,Cash Card,USD,-$23.16,$0.00,-$23.16,,,,COMPLETE,MCDONALD'S F11652,,Cash Balance, Cash Card COMPLETE MCDONALD'S F11652  Cash Balance 
+9/11/25 21:45,,Deposits,USD,$257.00,$0.00,$257.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/11/25 19:38,,Cash Card,USD,-$9.99,$0.00,-$9.99,,,,COMPLETE,TESLA SUBSCRIPTION US,,Cash Balance, Cash Card COMPLETE TESLA SUBSCRIPTION US  Cash Balance 
+9/11/25 19:36,,Deposits,USD,$3.00,$0.00,$3.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/9/25 17:19,#D-9XK236O4,P2P,USD,-$20.00,$0.00,-$20.00,,,,COMPLETE,2,Lisa English,Cash Balance,#D-9XK236O4 P2P COMPLETE 2 Lisa English Cash Balance 
+9/9/25 17:19,,Deposits,USD,$24.05,$0.00,$24.05,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/9/25 17:12,#D-M3PKJODN,P2P,USD,-$60.00,$0.00,-$60.00,,,,COMPLETE,pay,Lisa English,Cash Balance,#D-M3PKJODN P2P COMPLETE pay Lisa English Cash Balance 
+9/9/25 17:03,,Cash Card,USD,$60.00,$0.00,$60.00,,,,COMPLETE,MOTEL 6 INDIANAPOLIS,,Cash Balance, Cash Card COMPLETE MOTEL 6 INDIANAPOLIS  Cash Balance 
+9/7/25 11:03,,Cash Card,USD,-$180.00,$0.00,-$180.00,,,,COMPLETE,MOTEL 6 INDIANAPOLIS,,Cash Balance, Cash Card COMPLETE MOTEL 6 INDIANAPOLIS  Cash Balance 
+9/7/25 10:41,#D-O748G7OD,P2P,USD,$30.00,$0.00,$30.00,,,,COMPLETE,loan,Lisa English,Cash Balance,#D-O748G7OD P2P COMPLETE loan Lisa English Cash Balance 
+9/7/25 10:25,,Cash Card,USD,-$14.87,$0.00,-$14.87,,,,COMPLETE,MARATHON PETRO245241,,Cash Balance, Cash Card COMPLETE MARATHON PETRO245241  Cash Balance 
+9/7/25 10:18,#D-9XJRNMRD,P2P,USD,$50.00,,$50.00,,,,FAILED,loan,Lisa English,Cash Balance,#D-9XJRNMRD P2P FAILED loan Lisa English Cash Balance 
+9/7/25 10:14,#D-J1N8J8NO,P2P,USD,$50.00,$0.00,$50.00,,,,COMPLETE,loan,Lisa English,Cash Balance,#D-J1N8J8NO P2P COMPLETE loan Lisa English Cash Balance 
+9/7/25 9:33,,,USD,$27.33,,$27.33,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/7/25 9:31,,,USD,$31.39,,$31.39,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/7/25 9:09,,Deposits,USD,$8.00,$0.00,$8.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/7/25 9:02,,,USD,$35.63,,$35.63,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/7/25 9:02,,,USD,-$31.84,,-$31.84,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/7/25 9:00,,Borrow,USD,$50.00,,$50.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/7/25 5:39,,Borrow,USD,-$21.00,,-$21.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/7/25 5:39,,Borrow,USD,-$31.50,,-$31.50,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/7/25 5:35,,,USD,-$1.35,,-$1.35,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/7/25 4:45,,Deposits,USD,$4.78,$0.00,$4.78,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/7/25 4:43,,Deposits,USD,$8.29,$0.00,$8.29,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/7/25 4:43,,Cash Card,USD,$29.48,$0.00,$29.48,,,,COMPLETE,VENMO*Rice Velasquez Cody,,Cash Balance, Cash Card COMPLETE VENMO*Rice Velasquez Cody  Cash Balance 
+9/6/25 13:50,,Deposits,USD,$12.00,$0.00,$12.00,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+9/4/25 19:48,,Deposits,USD,$8.00,$0.00,$8.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+9/3/25 22:09,,Cash Card,USD,-$28.15,$0.00,-$28.15,,,,COMPLETE,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH PAPAJOHNS  Cash Balance 
+9/3/25 22:07,,,USD,$30.88,,$30.88,,,,COMPLETE,Afterpay,,Cash Balance,  COMPLETE Afterpay  Cash Balance 
+9/3/25 20:42,,Cash Card,USD,-$3.41,$0.00,-$3.41,,,,COMPLETE,PHILLIPS 66 - VILLAG,,Cash Balance, Cash Card COMPLETE PHILLIPS 66 - VILLAG  Cash Balance 
+9/3/25 19:34,#D-ZJRX28MX,P2P,USD,$3.58,$0.00,$3.58,,,,COMPLETE,cas,Zaitullah Khebarkhil,Cash Balance,#D-ZJRX28MX P2P COMPLETE cas Zaitullah Khebarkhil Cash Balance 
+9/2/25 21:47,,Cash Card,USD,-$30.88,$0.00,-$30.88,,,,COMPLETE,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MCDONALDS  Cash Balance 
+9/2/25 21:45,,Borrow,USD,$30.00,,$30.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/1/25 20:37,,Cash Card,USD,-$27.33,$0.00,-$27.33,,,,COMPLETE,DD *DOORDASH,,Cash Balance, Cash Card COMPLETE DD *DOORDASH  Cash Balance 
+9/1/25 20:37,,Borrow,USD,$20.00,,$20.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+9/1/25 20:35,,Cash Card,USD,-$31.39,$0.00,-$31.39,,,,COMPLETE,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH PAPAJOHNS  Cash Balance 
+8/31/25 15:17,,Cash Card,USD,-$35.63,$0.00,-$35.63,,,,COMPLETE,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH PAPAJOHNS  Cash Balance 
+8/31/25 15:17,,Cash Card,USD,-$35.63,$0.00,-$35.63,,,,FAILED,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card FAILED DD *DOORDASH PAPAJOHNS  Cash Balance 
+8/31/25 15:17,,Cash Card,USD,-$35.63,$0.00,-$35.63,,,,FAILED,DD *DOORDASH PAPAJOHNS,,Cash Balance, Cash Card FAILED DD *DOORDASH PAPAJOHNS  Cash Balance 
+8/31/25 15:15,#D-EXDKLGE2,P2P,USD,-$10.00,$0.00,-$10.00,,,,COMPLETE,hey,Zaitullah Khebarkhil,Cash Balance,#D-EXDKLGE2 P2P COMPLETE hey Zaitullah Khebarkhil Cash Balance 
+8/31/25 15:09,,Borrow,USD,-$26.25,,-$26.25,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+8/31/25 15:04,,Deposits,USD,$111.00,$0.00,$111.00,,,,COMPLETE,Add Cash,,Visa Debit 0943, Deposits COMPLETE Add Cash  Visa Debit 0943 
+8/31/25 15:02,,Deposits,USD,$89.00,$0.00,$89.00,,,,FAILED,Add Cash,,MasterCard Debit 1173, Deposits FAILED Add Cash  MasterCard Debit 1173 
+8/30/25 18:20,,Cash Card,USD,-$32.30,$0.00,-$32.30,,,,COMPLETE,DD *DOORDASH MCDONALDS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH MCDONALDS  Cash Balance 
+8/30/25 17:10,,Borrow,USD,$25.00,,$25.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+8/24/25 20:28,,Cash Card,USD,-$35.26,$0.00,-$35.26,,,,COMPLETE,DD *DOORDASH DOMINOS,,Cash Balance, Cash Card COMPLETE DD *DOORDASH DOMINOS  Cash Balance 
+8/22/25 15:04,,Borrow,USD,-$6.56,,-$6.56,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+8/22/25 2:50,,Account Notifications,USD,$0.00,,$0.00,,,,COMPLETE,New device login,,Cash Balance, Account Notifications COMPLETE New device login  Cash Balance 
+8/22/25 2:50,#D-96VG33ZD,P2P,USD,$49.00,$0.00,$49.00,,,,COMPLETE,!,Dedrick Meza,Cash Balance,#D-96VG33ZD P2P COMPLETE ! Dedrick Meza Cash Balance 
+8/22/25 2:48,#D-882D9DL5,P2P,USD,$1.00,$0.00,$1.00,,,,COMPLETE,!,Dedrick Meza,Cash Balance,#D-882D9DL5 P2P COMPLETE ! Dedrick Meza Cash Balance 
+8/15/25 15:20,,Borrow,USD,-$6.56,,-$6.56,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+8/15/25 15:13,,Deposits,USD,$6.56,$0.00,$6.56,,,,COMPLETE,Add Cash,,MasterCard Debit 1173, Deposits COMPLETE Add Cash  MasterCard Debit 1173 
+8/14/25 6:20,k9p3nv05d,P2P,USD,-$1.00,$0.00,-$1.00,,,,FAILED,wake upppp,Gustavo Degollado,Cash Balance,k9p3nv05d P2P FAILED wake upppp Gustavo Degollado Cash Balance 
+8/8/25 14:39,,Borrow,USD,-$6.56,,-$6.56,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+8/8/25 14:33,,Deposits,USD,$2.13,$0.00,$2.13,,,,COMPLETE,Add Cash,,MasterCard Debit 1173, Deposits COMPLETE Add Cash  MasterCard Debit 1173 
+8/1/25 14:48,,Borrow,USD,-$6.57,,-$6.57,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+7/26/25 21:51,#D-375XEJVD,P2P,USD,-$20.00,$0.00,-$20.00,,,,COMPLETE,happy bday,Lisa English,Cash Balance,#D-375XEJVD P2P COMPLETE happy bday Lisa English Cash Balance 
+7/26/25 21:51,,Borrow,USD,$25.00,,$25.00,,,,COMPLETE,Borrowing in Cash App,,Cash Balance, Borrow COMPLETE Borrowing in Cash App  Cash Balance 
+7/20/25 23:28,#D-5X7JOPNK,P2P,USD,$6.00,$0.00,$6.00,,,,COMPLETE,extender,Gustavo Degollado,Cash Balance,#D-5X7JOPNK P2P COMPLETE extender Gustavo Degollado Cash Balance 
+7/18/25 9:54,7vhdhmek7,P2P,USD,-$1.00,$0.00,-$1.00,,,,FAILED,text me again,Dedrick Meza,Cash Balance,7vhdhmek7 P2P FAILED text me again Dedrick Meza Cash Balance 
+7/17/25 19:36,d9gqbztmd,P2P,USD,-$1.00,$0.00,-$1.00,,,,FAILED,hey whats your number,Dedrick Meza,Cash Balance,d9gqbztmd P2P FAILED hey whats your number Dedrick Meza Cash Balance 
+7/3/25 0:58,,Withdrawal,USD,-$11.00,$0.00,-$11.00,,,,COMPLETE,Cash Out,,MasterCard Debit 1173, Withdrawal COMPLETE Cash Out  MasterCard Debit 1173 
+6/30/25 18:27,#D-KJ6X6DN2,P2P,USD,$11.00,$0.00,$11.00,,,,COMPLETE,gift,Lisa English,Cash Balance,#D-KJ6X6DN2 P2P COMPLETE gift Lisa English Cash Balance 
+6/30/25 7:45,,Withdrawal,USD,-$200.00,$0.00,-$200.00,,,,COMPLETE,Cash Out,,MasterCard Debit 1173, Withdrawal COMPLETE Cash Out  MasterCard Debit 1173 
+6/29/25 18:27,#D-QKZP6QOE,P2P,USD,$200.00,$0.00,$200.00,,,,COMPLETE,gift,Lisa English,Cash Balance,#D-QKZP6QOE P2P COMPLETE gift Lisa English Cash Balance 
+6/29/25 0:17,,Cash Card,USD,-$11.58,$0.00,-$11.58,,,,FAILED,UBER   *TRIP HELP.UBER.CO,,Cash Balance, Cash Card FAILED UBER   *TRIP HELP.UBER.CO  Cash Balance 
+6/27/25 0:17,,Cash Card,USD,-$11.58,$0.00,-$11.58,,,,FAILED,UBER   *TRIP HELP.UBER.CO,,Cash Balance, Cash Card FAILED UBER   *TRIP HELP.UBER.CO  Cash Balance 
+6/25/25 0:17,,Cash Card,USD,-$11.58,$0.00,-$11.58,,,,FAILED,UBER   *TRIP HELP.UBER.CO,,Cash Balance, Cash Card FAILED UBER   *TRIP HELP.UBER.CO  Cash Balance 
+6/23/25 4:07,,Account Notifications,USD,$0.00,,$0.00,,,,COMPLETE,New device login,,Cash Balance, Account Notifications COMPLETE New device login  Cash Balance 
+6/23/25 0:17,,Cash Card,USD,-$11.58,$0.00,-$11.58,,,,FAILED,UBER   *TRIP HELP.UBER.CO,,Cash Balance, Cash Card FAILED UBER   *TRIP HELP.UBER.CO  Cash Balance 
+6/21/25 17:15,#D-GODR3Z3X,P2P,USD,-$2.00,$0.00,-$2.00,,,,COMPLETE,bitch,Luis De La Rosa,Cash Balance,#D-GODR3Z3X P2P COMPLETE bitch Luis De La Rosa Cash Balance 
+6/21/25 17:03,#D-JOP2VKZ1,P2P,USD,-$3.00,$0.00,-$3.00,,,,COMPLETE,I ain’t playing games anymore,Luis De La Rosa,Cash Balance,#D-JOP2VKZ1 P2P COMPLETE I ain’t playing games anymore Luis De La Rosa Cash Balance 
+6/21/25 16:47,#D-QREGGQ8O,P2P,USD,$3.00,$0.00,$3.00,,,,COMPLETE,bitch I got 3 now what is it,Luis De La Rosa,Cash Balance,#D-QREGGQ8O P2P COMPLETE bitch I got 3 now what is it Luis De La Rosa Cash Balance 
+6/21/25 11:55,,Withdrawal,USD,-$1.71,$0.00,-$1.71,,,,COMPLETE,Cash Out,,MasterCard Debit 1173, Withdrawal COMPLETE Cash Out  MasterCard Debit 1173 
+6/21/25 0:17,,Cash Card,USD,-$11.58,$0.00,-$11.58,,,,FAILED,UBER   *TRIP HELP.UBER.CO,,Cash Balance, Cash Card FAILED UBER   *TRIP HELP.UBER.CO  Cash Balance 
+6/19/25 0:17,,Cash Card,USD,-$11.58,$0.00,-$11.58,,,,FAILED,UBER   *TRIP HELP.UBER.CO,,Cash Balance, Cash Card FAILED UBER   *TRIP HELP.UBER.CO  Cash Balance 
+6/16/25 11:51,,Cash Card,USD,-$9.27,$0.00,-$9.27,,,,FAILED,UBER   *TRIP HELP.UBER.CO,,Cash Balance, Cash Card FAILED UBER   *TRIP HELP.UBER.CO  Cash Balance 
+6/12/25 5:28,,Account Notifications,USD,$0.00,,$0.00,,,,COMPLETE,,,Cash Balance, Account Notifications COMPLETE   Cash Balance 
+6/9/25 13:23,#D-JOOOK79M,P2P,USD,-$6.00,$0.00,-$6.00,,,,COMPLETE,snack,Luis De La Rosa,Cash Balance,#D-JOOOK79M P2P COMPLETE snack Luis De La Rosa Cash Balance 
+6/9/25 13:18,,Deposits,USD,$1.70,$0.00,$1.70,,,,COMPLETE,Add Cash,,MasterCard Debit 1173, Deposits COMPLETE Add Cash  MasterCard Debit 1173 
+6/9/25 13:16,,Deposits,USD,$1.71,$0.00,$1.71,,,,FAILED,Add Cash,,MasterCard Debit 1173, Deposits FAILED Add Cash  MasterCard Debit 1173 
+6/6/25 1:57,,Deposits,USD,$193.00,$0.00,$193.00,,,,FAILED,Add Cash,,MasterCard Debit 7495, Deposits FAILED Add Cash  MasterCard Debit 7495 
+5/23/25 7:47,,Cash Card,USD,-$26.52,$0.00,-$26.52,,,,FAILED,DD *DOORDASH JACKSDONU,,Cash Balance, Cash Card FAILED DD *DOORDASH JACKSDONU  Cash Balance 
+5/21/25 15:51,,Cash Card,USD,-$24.99,$0.00,-$24.99,,,,COMPLETE,DD *DOORDASH LITTLECAE,,Cash Balance, Cash Card COMPLETE DD *DOORDASH LITTLECAE  Cash Balance 
+5/19/25 16:21,dpgw6mg54,P2P,USD,$5.00,$0.00,$5.00,,,,COMPLETE,Personalized note,Jordan Smith,Cash Balance,dpgw6mg54 P2P COMPLETE Personalized note Jordan Smith Cash Balance 
+5/18/25 21:29,#D-PZR993Q5,P2P,USD,$20.00,$0.00,$20.00,,,,COMPLETE,Gift from Mike Jordon,Lisa English,Cash Balance,#D-PZR993Q5 P2P COMPLETE Gift from Mike Jordon Lisa English Cash Balance 
+5/11/25 23:19,#D-J8Z5V5R1,P2P,USD,-$20.00,$0.00,-$20.00,,,,COMPLETE,lonche,Joel Rice-Velásquez,Cash Balance,#D-J8Z5V5R1 P2P COMPLETE lonche Joel Rice-Velásquez Cash Balance 
+5/10/25 23:08,#D-3KE13942,P2P,USD,-$3.00,$0.00,-$3.00,,,,COMPLETE,acer restandte,Michael Mills,Cash Balance,#D-3KE13942 P2P COMPLETE acer restandte Michael Mills Cash Balance 
+5/10/25 23:06,#D-5E297DJR,P2P,USD,-$22.00,$0.00,-$22.00,,,,COMPLETE,acer,Michael Mills,Cash Balance,#D-5E297DJR P2P COMPLETE acer Michael Mills Cash Balance 
+5/6/25 2:14,,Withdrawal,USD,-$291.39,$0.00,-$291.39,,,,COMPLETE,Cash Out,,MasterCard Debit 7495, Withdrawal COMPLETE Cash Out  MasterCard Debit 7495 
+5/5/25 22:34,,Cash Card,USD,-$8.40,$0.00,-$8.40,,,,COMPLETE,USPS.COM CLICKNSHIP,,Cash Balance, Cash Card COMPLETE USPS.COM CLICKNSHIP  Cash Balance 
+5/5/25 10:05,#D-ED7MZNDO,P2P,USD,$298.06,$0.00,$298.06,,,,COMPLETE,loan payback,Zai Khebarkhil,Cash Balance,#D-ED7MZNDO P2P COMPLETE loan payback Zai Khebarkhil Cash Balance 
+5/4/25 20:23,#D-7MO2XXNZ,P2P,USD,-$20.00,$0.00,-$20.00,,,,COMPLETE,la iglesia no te ayuda nada. flores que valen $5,Joel Rice-Velásquez,Cash Balance,#D-7MO2XXNZ P2P COMPLETE la iglesia no te ayuda nada. flores que valen $5 Joel Rice-Velásquez Cash Balance 
+4/27/25 16:16,,Cash Card,USD,-$28.06,$0.00,-$28.06,,,,FAILED,McDonalds 11652,,Cash Balance, Cash Card FAILED McDonalds 11652  Cash Balance 
+4/25/25 8:28,9k2k2vpty,P2P,USD,$1.00,$0.00,$1.00,,,,COMPLETE,$1 Payment From Joel Rice-Velásquez,Joel Rice-Velásquez,Cash Balance,9k2k2vpty P2P COMPLETE $1 Payment From Joel Rice-Velásquez Joel Rice-Velásquez Cash Balance 
+4/25/25 8:28,kzh4b9ttd,P2P,USD,-$1.00,$0.00,-$1.00,,,,COMPLETE,$1 Payment To Joel Rice-Velásquez,Joel Rice-Velásquez,MasterCard Debit 7495,kzh4b9ttd P2P COMPLETE $1 Payment To Joel Rice-Velásquez Joel Rice-Velásquez MasterCard Debit 7495 
+4/15/25 5:35,d9msqxy0s,P2P,USD,$3.00,$0.00,$3.00,,,,FAILED,to turn my internet,Jacob Wojtanowski,Cash Balance,d9msqxy0s P2P FAILED to turn my internet Jacob Wojtanowski Cash Balance 
+4/8/25 18:20,vrvehx0ta,P2P,USD,-$20.00,$0.00,-$20.00,,,,COMPLETE,y,Not Me,MasterCard Debit 7495,vrvehx0ta P2P COMPLETE y Not Me MasterCard Debit 7495 
+4/4/25 9:47,#D-DQ5N7Z57,P2P,USD,-$250.00,$0.00,-$250.00,,,,COMPLETE,$250 Payment To Lisa English,Lisa English,Cash Balance,#D-DQ5N7Z57 P2P COMPLETE $250 Payment To Lisa English Lisa English Cash Balance 
+3/24/25 20:10,ypxtwzs2a,P2P,USD,$5.00,$0.00,$5.00,,,,FAILED,$5 Payment From Lisa English,Lisa English,Cash Balance,ypxtwzs2a P2P FAILED $5 Payment From Lisa English Lisa English Cash Balance 
+3/21/25 20:55,,Cash Card,USD,-$14.27,$0.00,-$14.27,,,,COMPLETE,McDonalds 6096,,Cash Balance, Cash Card COMPLETE McDonalds 6096  Cash Balance 
+3/21/25 20:08,#D-VX3NOO38,P2P,USD,$15.00,$0.00,$15.00,,,,COMPLETE,$15 Payment From Lisa English,Lisa English,Cash Balance,#D-VX3NOO38 P2P COMPLETE $15 Payment From Lisa English Lisa English Cash Balance 
+3/10/25 20:17,dgv8nvy41,P2P,USD,-$30.00,$0.00,-$30.00,,,,FAILED,you got anything by chance,Luis De La Rosa,Cash Balance,dgv8nvy41 P2P FAILED you got anything by chance Luis De La Rosa Cash Balance 
+3/8/25 4:21,7vzjbtg3f,P2P,USD,-$30.00,$0.00,-$30.00,,,,FAILED,can you help me with code,Luis De La Rosa,Cash Balance,7vzjbtg3f P2P FAILED can you help me with code Luis De La Rosa Cash Balance 
+3/7/25 8:17,kpmcbtedf,P2P,USD,-$30.00,$0.00,-$30.00,,,,FAILED,if you really even cared but still wouldnt be conv,Luis De La Rosa,Cash Balance,kpmcbtedf P2P FAILED if you really even cared but still wouldnt be conv Luis De La Rosa Cash Balance 
+2/21/25 16:25,p994bc6k1,P2P,USD,-$2.00,$0.00,-$2.00,,,,FAILED,$2 Payment To Baby Joker,Baby Joker,Cash Balance,p994bc6k1 P2P FAILED $2 Payment To Baby Joker Baby Joker Cash Balance 
+2/21/25 16:25,prc4hzsva,P2P,USD,-$22.00,$0.00,-$22.00,,,,FAILED,$22 Payment To Baby Joker,Baby Joker,Cash Balance,prc4hzsva P2P FAILED $22 Payment To Baby Joker Baby Joker Cash Balance 
+2/21/25 16:23,7gck6zen1,P2P,USD,-$2.00,$0.00,-$2.00,,,,FAILED,$2 Payment To Baby Joker,Baby Joker,Cash Balance,7gck6zen1 P2P FAILED $2 Payment To Baby Joker Baby Joker Cash Balance 
+2/21/25 16:23,yvckwz53a,P2P,USD,-$2.00,$0.00,-$2.00,,,,FAILED,$2 Payment To Baby Joker,Baby Joker,Cash Balance,yvckwz53a P2P FAILED $2 Payment To Baby Joker Baby Joker Cash Balance 
+2/21/25 16:18,ykck2c0d1,P2P,USD,-$2.00,$0.00,-$2.00,,,,FAILED,$2 Payment To Baby Joker,Baby Joker,Cash Balance,ykck2c0d1 P2P FAILED $2 Payment To Baby Joker Baby Joker Cash Balance 
+2/21/25 16:14,vg940c051,P2P,USD,-$2.00,$0.00,-$2.00,,,,FAILED,$2 Payment To Baby Joker,Baby Joker,Cash Balance,vg940c051 P2P FAILED $2 Payment To Baby Joker Baby Joker Cash Balance 
+2/21/25 15:42,4z846zp4s,P2P,USD,-$8.00,$0.00,-$8.00,,,,FAILED,$8 Payment To Baby Joker,Baby Joker,Cash Balance,4z846zp4s P2P FAILED $8 Payment To Baby Joker Baby Joker Cash Balance 
+2/21/25 15:31,kc8k6zv4a,P2P,USD,-$8.00,$0.00,-$8.00,,,,FAILED,$8 Payment To Baby Joker,Baby Joker,Cash Balance,kc8k6zv4a P2P FAILED $8 Payment To Baby Joker Baby Joker Cash Balance 
+2/21/25 15:13,pkmkbcx21,P2P,USD,-$8.00,$0.00,-$8.00,,,,FAILED,pls,Baby Joker,Cash Balance,pkmkbcx21 P2P FAILED pls Baby Joker Cash Balance 
+2/21/25 0:31,9rmkn8y7f,P2P,USD,-$20.00,$0.00,-$20.00,,,,FAILED,$20 Payment To Baby Joker,Baby Joker,Cash Balance,9rmkn8y7f P2P FAILED $20 Payment To Baby Joker Baby Joker Cash Balance 
+2/20/25 19:23,4gtbn8t2s,P2P,USD,-$10.00,$0.00,-$10.00,,,,FAILED,$10 Payment To Baby Joker,Baby Joker,Cash Balance,4gtbn8t2s P2P FAILED $10 Payment To Baby Joker Baby Joker Cash Balance 
+2/20/25 19:23,99mhb813f,P2P,USD,-$10.00,$0.00,-$10.00,,,,FAILED,$10 Payment To Baby Joker,Baby Joker,Cash Balance,99mhb813f P2P FAILED $10 Payment To Baby Joker Baby Joker Cash Balance 
+2/20/25 19:23,798k2zzns,P2P,USD,-$10.00,$0.00,-$10.00,,,,FAILED,$10 Payment To Baby Joker,Baby Joker,Cash Balance,798k2zzns P2P FAILED $10 Payment To Baby Joker Baby Joker Cash Balance 
+2/20/25 19:23,99x2qcxba,P2P,USD,-$10.00,$0.00,-$10.00,,,,FAILED,$10 Payment To Baby Joker,Baby Joker,Cash Balance,99x2qcxba P2P FAILED $10 Payment To Baby Joker Baby Joker Cash Balance 
+2/20/25 19:23,4czbhxh7s,P2P,USD,-$10.00,$0.00,-$10.00,,,,FAILED,$10 Payment To Baby Joker,Baby Joker,Cash Balance,4czbhxh7s P2P FAILED $10 Payment To Baby Joker Baby Joker Cash Balance 
+2/20/25 19:23,9kvhhz20f,P2P,USD,-$10.00,$0.00,-$10.00,,,,FAILED,hey,Baby Joker,Cash Balance,9kvhhz20f P2P FAILED hey Baby Joker Cash Balance 
+2/20/25 19:23,pzvqqce0s,P2P,USD,-$20.00,$0.00,-$20.00,,,,FAILED,$20 Payment To Baby Joker,Baby Joker,Cash Balance,pzvqqce0s P2P FAILED $20 Payment To Baby Joker Baby Joker Cash Balance 
+2/20/25 19:23,yz8w0zxyf,P2P,USD,-$20.00,$0.00,-$20.00,,,,FAILED,$20 Payment To Baby Joker,Baby Joker,Cash Balance,yz8w0zxyf P2P FAILED $20 Payment To Baby Joker Baby Joker Cash Balance 
+2/20/25 19:21,99cwwzh4a,P2P,USD,-$20.00,$0.00,-$20.00,,,,FAILED,$20 Payment To Baby Joker,Baby Joker,Cash Balance,99cwwzh4a P2P FAILED $20 Payment To Baby Joker Baby Joker Cash Balance 
+2/20/25 19:21,k9xqbcyvs,P2P,USD,-$20.00,$0.00,-$20.00,,,,FAILED,$20 Payment To Baby Joker,Baby Joker,Cash Balance,k9xqbcyvs P2P FAILED $20 Payment To Baby Joker Baby Joker Cash Balance 
+2/20/25 19:21,kcmq6zgys,P2P,USD,-$20.00,$0.00,-$20.00,,,,FAILED,$20 Payment To Baby Joker,Baby Joker,Cash Balance,kcmq6zgys P2P FAILED $20 Payment To Baby Joker Baby Joker Cash Balance 
+2/20/25 19:21,99872904.0a,P2P,USD,-$40.00,$0.00,-$40.00,,,,FAILED,bfe?,Luis De La Rosa,Cash Balance,99872904 P2P FAILED bfe? Luis De La Rosa Cash Balance 
+2/16/25 23:10,7vxqhtv0s,P2P,USD,-$2.00,$0.00,-$2.00,,,,FAILED,$2 Payment To Baby Joker,Baby Joker,Cash Balance,7vxqhtv0s P2P FAILED $2 Payment To Baby Joker Baby Joker Cash Balance 
+2/16/25 22:57,y9xq2m2yf,P2P,USD,-$2.00,$0.00,-$2.00,,,,FAILED,u can't cashapp me 2 rq,Baby Joker,Cash Balance,y9xq2m2yf P2P FAILED u can't cashapp me 2 rq Baby Joker Cash Balance 
+2/16/25 22:34,dpzqqmzba,P2P,USD,-$1.00,$0.00,-$1.00,,,,FAILED,$1 Payment To Baby Joker,Baby Joker,Cash Balance,dpzqqmzba P2P FAILED $1 Payment To Baby Joker Baby Joker Cash Balance 
+2/15/25 15:26,pzxh6m13s,P2P,USD,-$4.00,$0.00,-$4.00,,,,FAILED,$4 Payment To Baby Joker,Baby Joker,Cash Balance,pzxh6m13s P2P FAILED $4 Payment To Baby Joker Baby Joker Cash Balance 
+2/15/25 15:13,dzv62meb1,P2P,USD,-$4.00,$0.00,-$4.00,,,,FAILED,$4 Payment To Baby Joker,Baby Joker,Cash Balance,dzv62meb1 P2P FAILED $4 Payment To Baby Joker Baby Joker Cash Balance 
+2/13/25 22:59,dpvrnmz3s,P2P,USD,-$12.00,$0.00,-$12.00,,,,FAILED,$12 Payment To Baby Joker,Baby Joker,Cash Balance,dpvrnmz3s P2P FAILED $12 Payment To Baby Joker Baby Joker Cash Balance 
+2/13/25 17:03,4g9gbvz91,P2P,USD,-$1.00,$0.00,-$1.00,,,,FAILED,$1 Payment To Baby Joker,Baby Joker,Cash Balance,4g9gbvz91 P2P FAILED $1 Payment To Baby Joker Baby Joker Cash Balance 
+2/12/25 2:33,7cmnn923a,P2P,USD,-$20.00,$0.00,-$20.00,,,,FAILED,$20 Payment To Baby Joker,Baby Joker,Cash Balance,7cmnn923a P2P FAILED $20 Payment To Baby Joker Baby Joker Cash Balance 
+2/10/25 4:18,yccb6xyns,P2P,USD,-$5.00,$0.00,-$5.00,,,,COMPLETE,$5 Payment To Jacob Wojtanowski,Jacob Wojtanowski,MasterCard Debit 7495,yccb6xyns P2P COMPLETE $5 Payment To Jacob Wojtanowski Jacob Wojtanowski MasterCard Debit 7495 
+2/8/25 18:35,vvz2hmp21,P2P,USD,-$22.00,$0.00,-$22.00,,,,FAILED,$22 Payment To Baby Joker,Baby Joker,Cash Balance,vvz2hmp21 P2P FAILED $22 Payment To Baby Joker Baby Joker Cash Balance 
+2/8/25 14:08,79m4q9g0s,P2P,USD,-$20.00,$0.00,-$20.00,,,,FAILED,trying get back to the building,Baby Joker,Cash Balance,79m4q9g0s P2P FAILED trying get back to the building Baby Joker Cash Balance 
+2/6/25 0:31,dgcy2ttnf,P2P,USD,$25.00,$0.00,$25.00,,,,FAILED,Need help Paying Room for Luis,Valerio Mena,Cash Balance,dgcy2ttnf P2P FAILED Need help Paying Room for Luis Valerio Mena Cash Balance 
+2/5/25 19:32,,Withdrawal,USD,-$20.00,$0.00,-$20.00,,,,COMPLETE,Cash Out,,Visa Debit 0943, Withdrawal COMPLETE Cash Out  Visa Debit 0943 
+2/5/25 19:32,,Deposits,USD,$1.00,$0.00,$1.00,,,,FAILED,Add Cash,,Visa Debit 0943, Deposits FAILED Add Cash  Visa Debit 0943 
+2/5/25 19:32,,Cash Card,USD,-$20.23,$0.00,-$20.23,,,,FAILED,McDonalds 11652,,Cash Balance, Cash Card FAILED McDonalds 11652  Cash Balance 
+2/5/25 19:32,,Cash Card,USD,-$20.23,$0.00,-$20.23,,,,FAILED,McDonalds 11652,,Cash Balance, Cash Card FAILED McDonalds 11652  Cash Balance 
+2/5/25 19:07,#D-64RQONEK,P2P,USD,$20.00,$0.00,$20.00,,,,COMPLETE,$20 Payment From Lisa English,Lisa English,Cash Balance,#D-64RQONEK P2P COMPLETE $20 Payment From Lisa English Lisa English Cash Balance 
+2/4/25 23:46,4c2j6c00a,P2P,USD,-$12.00,$0.00,-$12.00,,,,FAILED,$12 Payment To Baby Joker,Baby Joker,Cash Balance,4c2j6c00a P2P FAILED $12 Payment To Baby Joker Baby Joker Cash Balance 
+2/4/25 23:37,dkh8qc7da,P2P,USD,-$12.00,$0.00,-$12.00,,,,FAILED,$12 Payment To Baby Joker,Baby Joker,Cash Balance,dkh8qc7da P2P FAILED $12 Payment To Baby Joker Baby Joker Cash Balance 
+2/4/25 23:21,,Withdrawal,USD,-$46.37,$0.00,-$46.37,,,,COMPLETE,Cash Out,,Visa Debit 0943, Withdrawal COMPLETE Cash Out  Visa Debit 0943 
+2/4/25 23:21,#D-8V6D3EZM,P2P,USD,$40.37,$0.00,$40.37,,,,COMPLETE,sucking,Luis De La Rosa,Cash Balance,#D-8V6D3EZM P2P COMPLETE sucking Luis De La Rosa Cash Balance 
+2/4/25 10:57,d9cphttna,P2P,USD,$25.00,$0.00,$25.00,,,,FAILED,Need help Paying Room for Luis,Jacob Wojtanowski,Cash Balance,d9cphttna P2P FAILED Need help Paying Room for Luis Jacob Wojtanowski Cash Balance 
+2/3/25 16:30,7zp8w8x51,P2P,USD,-$25.00,$0.00,-$25.00,,,,FAILED,$25 Payment To Baby Joker,Baby Joker,Cash Balance,7zp8w8x51 P2P FAILED $25 Payment To Baby Joker Baby Joker Cash Balance 
+2/3/25 14:23,pgbxbc67f,P2P,USD,-$2.00,$0.00,-$2.00,,,,FAILED,$2 Payment To Baby Joker,Baby Joker,Cash Balance,pgbxbc67f P2P FAILED $2 Payment To Baby Joker Baby Joker Cash Balance 
+2/3/25 3:53,7rrehcvma,P2P,USD,-$25.00,$0.00,-$25.00,,,,FAILED,for hygiene,Baby Joker,Cash Balance,7rrehcvma P2P FAILED for hygiene Baby Joker Cash Balance 
+2/2/25 20:39,krgxncy51,P2P,USD,-$5.00,$0.00,-$5.00,,,,FAILED,$5 Payment To Baby Joker,Baby Joker,Cash Balance,krgxncy51 P2P FAILED $5 Payment To Baby Joker Baby Joker Cash Balance 
+2/2/25 20:06,pzpxnz79a,P2P,USD,-$5.00,$0.00,-$5.00,,,,FAILED,$5 Payment To Baby Joker,Baby Joker,Cash Balance,pzpxnz79a P2P FAILED $5 Payment To Baby Joker Baby Joker Cash Balance 
+2/2/25 18:36,yrhxbcpts,P2P,USD,-$25.00,$0.00,-$25.00,,,,FAILED,$25 Payment To Baby Joker,Baby Joker,Cash Balance,yrhxbcpts P2P FAILED $25 Payment To Baby Joker Baby Joker Cash Balance 
+2/2/25 14:51,yzbx6x5d1,P2P,USD,-$5.00,$0.00,-$5.00,,,,FAILED,$5 Payment To Baby Joker,Baby Joker,Cash Balance,yzbx6x5d1 P2P FAILED $5 Payment To Baby Joker Baby Joker Cash Balance 
+1/29/25 19:18,,Cash Card,USD,-$27.11,$0.00,-$27.11,,,,FAILED,McDonalds 7289,,Cash Balance, Cash Card FAILED McDonalds 7289  Cash Balance 
+1/27/25 16:57,9gb50zxn1,P2P,USD,-$1.00,$0.00,-$1.00,,,,FAILED,$1 Payment To Baby Joker,Baby Joker,Cash Balance,9gb50zxn1 P2P FAILED $1 Payment To Baby Joker Baby Joker Cash Balance 
+1/27/25 0:13,4rp5bcxba,P2P,USD,-$20.00,$0.00,-$20.00,,,,FAILED,pls i am outside and starving,Baby Joker,Cash Balance,4rp5bcxba P2P FAILED pls i am outside and starving Baby Joker Cash Balance 
+1/26/25 23:03,4vg5hzxd1,P2P,USD,-$20.00,$0.00,-$20.00,,,,FAILED,$20 Payment To Baby Joker,Baby Joker,Cash Balance,4vg5hzxd1 P2P FAILED $20 Payment To Baby Joker Baby Joker Cash Balance 
+1/24/25 20:57,#D-647KP4DG,P2P,USD,$6.00,$0.00,$6.00,,,,COMPLETE,$6 Payment From Lisa English,Lisa English,Cash Balance,#D-647KP4DG P2P COMPLETE $6 Payment From Lisa English Lisa English Cash Balance 
+1/23/25 22:21,,Withdrawal,USD,-$5.45,$0.00,-$5.45,,,,COMPLETE,Cash Out,,Visa Debit 0943, Withdrawal COMPLETE Cash Out  Visa Debit 0943 
+1/23/25 22:21,498ynvg3s,P2P,USD,$5.45,$0.00,$5.45,,,,COMPLETE,$5.45 Payment From Luis De La Rosa,Luis De La Rosa,Cash Balance,498ynvg3s P2P COMPLETE $5.45 Payment From Luis De La Rosa Luis De La Rosa Cash Balance 
+1/23/25 3:49,7chvh8st1,P2P,USD,-$13.66,$0.00,-$13.66,,,,FAILED,$13.66 Payment To Baby Joker,Baby Joker,Cash Balance,7chvh8st1 P2P FAILED $13.66 Payment To Baby Joker Baby Joker Cash Balance 
+1/23/25 1:47,,Cash Card,USD,-$272.11,$0.00,-$272.11,,,,FAILED,AMAZON MKTPLACE PMTS,,Cash Balance, Cash Card FAILED AMAZON MKTPLACE PMTS  Cash Balance 
+1/22/25 19:45,,Cash Card,USD,-$272.11,$0.00,-$272.11,,,,FAILED,AMAZON MKTPLACE PMTS,,Cash Balance, Cash Card FAILED AMAZON MKTPLACE PMTS  Cash Balance 
+1/22/25 10:36,,Cash Card,USD,-$272.11,$0.00,-$272.11,,,,FAILED,AMAZON MKTPLACE PMTS,,Cash Balance, Cash Card FAILED AMAZON MKTPLACE PMTS  Cash Balance 
+1/19/25 23:51,dr2xhcs9f,P2P,USD,-$5.00,$0.00,-$5.00,,,,COMPLETE,$5 Payment To Luis De La Rosa,Luis De La Rosa,Chase Bank,dr2xhcs9f P2P COMPLETE $5 Payment To Luis De La Rosa Luis De La Rosa Chase Bank 
+1/16/25 22:14,k9kshz2vs,P2P,USD,-$99.00,$0.00,-$99.00,,,,COMPLETE,hotel,Luis De La Rosa,Chase Bank,k9kshz2vs P2P COMPLETE hotel Luis De La Rosa Chase Bank 
+1/16/25 22:12,49kzqcv31,P2P,USD,-$1.00,$0.00,-$1.00,,,,COMPLETE,testing,Luis De La Rosa,Chase Bank,49kzqcv31 P2P COMPLETE testing Luis De La Rosa Chase Bank 
+1/2/25 15:20,4rksnt74s,P2P,USD,-$7.00,$0.00,-$7.00,,,,COMPLETE,f*come already,Baby Joker,MasterCard Debit 1701,4rksnt74s P2P COMPLETE f*come already Baby Joker MasterCard Debit 1701 
+1/1/25 13:18,9vk3hvhta,P2P,USD,-$5.00,$0.00,-$5.00,,,,COMPLETE,$5 Payment To Baby Joker,Baby Joker,MasterCard Debit 1701,9vk3hvhta P2P COMPLETE $5 Payment To Baby Joker Baby Joker MasterCard Debit 1701 

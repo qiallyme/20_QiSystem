@@ -1,0 +1,182 @@
+Account ID,Account Name,Account Code,Description,Account Type,Mileage Rate,Mileage Unit,IsMileage,Account # ,Currency,Parent Account
+6241242000000010001,Other Charges,,Miscellaneous charges like adjustments made to the invoice can be recorded in this account.,Income,0.000,,false,,USD,
+6241242000000032023,Lodging,,Any expense related to putting up at motels etc while on business travel can be entered here.,Expense,0.000,,false,,USD,
+6241242000000000358,Undeposited Funds,1103,Record funds received by your company yet to be deposited in a bank as undeposited funds and group them as a current asset in your balance sheet.,Cash,0.000,,false,,USD,
+6241242000000000361,Petty Cash,,It is a small amount of cash that is used to pay your minor or casual expenses rather than writing a check.,Cash,0.000,,false,,USD,
+6241242000000000364,Accounts Receivable,,The money that customers owe you becomes the accounts receivable. A good example of this is a payment expected from an invoice sent to your customer.,Accounts Receivable,0.000,,false,,USD,
+6241242000000000367,Furniture and Equipment,,Purchases of furniture and equipment for your office that can be used for a long period of time usually exceeding one year can be tracked with this account.,Fixed Asset,0.000,,false,,USD,
+6241242000000000370,Advance Tax,,"Any tax which is paid in advance is recorded into the advance tax account. This advance tax payment could be a quarterly, half yearly or yearly payment.",Other Current Asset,0.000,,false,,USD,
+6241242000000000373,Accounts Payable,,"This is an account of all the money which you owe to others like a pending bill payment to a vendor,etc.",Accounts Payable,0.000,,false,,USD,
+6241242000000000376,Tax Payable,,The amount of money which you owe to your tax authority is recorded under the tax payable account. This amount is a sum of your outstanding in taxes and the tax charged on sales.,Other Current Liability,0.000,,false,,USD,
+6241242000000000379,Retained Earnings,,The earnings of your company which are not distributed among the share holders is accounted as retained earnings.,Equity,0.000,,false,,USD,
+6241242000000000382,Owner's Equity,,The owners rights to the assets of a company can be quantified in the owner''s equity account.,Equity,0.000,,false,,USD,
+6241242000000000385,Opening Balance Offset,,This is an account where you can record the balance from your previous years earning or the amount set aside for some activities. It is like a buffer account for your funds.,Equity,0.000,,false,,USD,
+6241242000000000388,Sales,,The income from the sales in your business is recorded under the sales account.,Income,0.000,,false,,USD,
+6241242000000000391,General Income,,A general category of account where you can record any income which cannot be recorded into any other category.,Income,0.000,,false,,USD,
+6241242000000005001,Unearned Revenue,,"A liability account that reports amounts received in advance of providing goods or services. When the goods or services are provided, this account balance is decreased and a revenue account is increased.",Other Current Liability,0.000,,false,,USD,
+6241242000000000394,Interest Income,,A percentage of your balances and deposits are given as interest to you by your banks and financial institutions. This interest is recorded into the interest income account.,Income,0.000,,false,,USD,
+6241242000000000397,Late Fee Income,,Any late fee income is recorded into the late fee income account. The late fee is levied when the payment for an invoice is not received by the due date.,Income,0.000,,false,,USD,
+6241242000000000400,Office Supplies,,All expenses on purchasing office supplies like stationery are recorded into the office supplies account.,Expense,0.000,,false,,USD,
+6241242000000000403,Advertising And Marketing,,"Your expenses on promotional, marketing and advertising activities like banners, web-adds, trade shows, etc. are recorded in advertising and marketing account.",Expense,0.000,,false,,USD,
+6241242000000000406,Discount,,Any reduction on your selling price as a discount can be recorded into the discount account.,Income,0.000,,false,,USD,
+6241242000000000409,Bank Fees and Charges,,"Any bank fees levied is recorded into the bank fees and charges account. A bank account maintenance fee, transaction charges, a late payment fee are some examples.",Expense,0.000,,false,,USD,
+6241242000000000412,Credit Card Charges,,"Service fees for transactions , balance transfer fees, annual credit fees and other charges levied on a credit card are recorded into the credit card account.",Expense,0.000,,false,,USD,
+6241242000000000415,Exchange Gain or Loss,,Changing the conversion rate can result in a gain or a loss. You can record this into the exchange gain or loss account.,Other Expense,0.000,,false,,USD,
+6241242000000000418,Travel Expense,,"Expenses on business travels like hotel bookings, flight charges, etc. are recorded as travel expenses.",Expense,0.000,,false,,USD,
+6241242000000000421,Telephone Expense,,"The expenses on your telephone, mobile and fax usage are accounted as telephone expenses.",Expense,0.000,,false,,USD,
+6241242000000000424,Automobile Expense,,"Transportation related expenses like fuel charges and maintenance charges for automobiles, are included to the automobile expense account.",Expense,0.000,,false,,USD,
+6241242000000000427,IT and Internet Expenses,,"Money spent on your IT infrastructure and usage like  internet connection, purchasing computer equipment etc is recorded as an IT and Computer Expense.",Expense,0.000,,false,,USD,
+6241242000000000430,Rent Expense,,The rent paid for your office or any space related to your business can be recorded as a rental expense.,Expense,0.000,,false,,USD,
+6241242000000000433,Janitorial Expense,,All your janitorial and cleaning expenses are recorded into the janitorial expenses account.,Expense,0.000,,false,,USD,
+6241242000000014001,Shipping Charge,,Shipping charges made to the invoice will be recorded in this account.,Income,0.000,,false,,USD,
+6241242000000000436,Postage,,"Your expenses on ground mails, shipping and air mails can be recorded under the postage account.",Expense,0.000,,false,,USD,
+6241242000000000439,Bad Debt,,Any amount which is lost and is unrecoverable is recorded into the bad debt account.,Expense,0.000,,false,,USD,
+6241242000000035001,Employee Advance,,Money paid out to an employee in advance can be tracked here till it's repaid or shown to be spent for company purposes.,Other Current Asset,0.000,,false,,USD,
+6241242000000003001,Opening Balance Adjustments,,This account will hold the difference in the debits and credits entered during the opening balance.,Other Current Liability,0.000,,false,,USD,
+6241242000000000442,Printing and Stationery,,Expenses incurred by the organization towards printing and stationery.,Expense,0.000,,false,,USD,
+6241242000000035003,Employee Reimbursements,,This account can be used to track the reimbursements that are due to be paid out to employees.,Other Current Liability,0.000,,false,,USD,
+6241242000000035005,Uncategorized,,This account can be used to temporarily track expenses that are yet to be identified and classified into a particular category,Expense,0.000,,false,,USD,
+6241242000000000445,Salaries and Employee Wages,,Salaries for your employees and the wages paid to workers are recorded under the salaries and wages account.,Expense,0.000,,false,,USD,
+6241242000000000448,Meals and Entertainment,,Expenses on food and entertainment are recorded into this account.,Expense,0.000,,false,,USD,
+6241242000000000451,Depreciation Expense,,Any depreciation in value of your assets can be captured as a depreciation expense.,Expense,0.000,,false,,USD,
+6241242000000000454,Consultant Expense,,Charges for availing the services of a consultant is recorded as a consultant expenses. The fees paid to a soft skills consultant to impart personality development training for your employees is a good example.,Expense,0.000,,false,,USD,
+6241242000000045001,Dimension Adjustments,,"This adjustment account tracks the transfers between different dimensions like tags, branches.",Other Liability,0.000,,false,,USD,
+6241242000000000457,Repairs and Maintenance,,The costs involved in maintenance and repair of assets is recorded under this account.,Expense,0.000,,false,,USD,
+6241242000000000460,Other Expenses,,Any minor expense on activities unrelated to primary business operations is recorded under the other expense account.,Expense,0.000,,false,,USD,
+6241242000000034001,Inventory Asset,1200,An account which tracks the value of goods in your inventory.,Stock,0.000,,false,,USD,
+6241242000000034003,Cost of Goods Sold,BC500,An expense account which tracks the value of the goods sold.,Cost Of Goods Sold,0.000,,false,,USD,
+6241242000000012001,Drawings,,The money withdrawn from a business by its owner can be tracked with this account.,Equity,0.000,,false,,USD,
+6241242000000072001,Purchase Discounts,,Tracks any reduction that your vendor offers on your purchases. Some vendors also provide them to encourage quick payment settlement.,Expense,0.000,,false,,USD,
+6241242000000092011,Prepaid Expenses,,An asset account that reports amounts paid in advance while purchasing goods or services from a vendor.,Other Current Asset,0.000,,false,,USD,
+6241242000000092124,Sales to Customers (Cash),,,Other Current Asset,0.000,,false,,USD,
+6241242000000094060,Parking,,The parking fares you pay while on business trips can be recorded under this expense category.,Expense,0.000,,false,,USD,
+6241242000000100046,Goods In Transit,,An account which tracks your In Transit goods value.,Other Current Asset,0.000,,false,,USD,
+6241242000000102227,Fuel/Mileage Expenses,,This category is for tracking all the mileage related expenses.,Expense,0.000,,false,,USD,
+6241242000000103609,Biz Assets,B100,,Expense,0.000,,false,,USD,
+6241242000000103626,Deferred Revenue,L300,,Expense,0.000,,false,,USD,
+6241242000000103636,Pers Assets,PA100,,Expense,0.000,,false,,USD,
+6241242000000103646,PersExp,P500,,Expense,0.000,,false,,USD,
+6241242000000103656,Honduras,P569,,Expense,0.000,,false,,USD,PersExp
+6241242000000103666,PersEntertainment,P510,,Expense,0.000,,false,,USD,PersExp
+6241242000000103676,PersFood,P520,,Expense,0.000,,false,,USD,PersExp
+6241242000000103686,PersFoodDiningOut,P521,,Expense,0.000,,false,,USD,PersFood
+6241242000000103696,PersFoodGroceries,P522,,Expense,0.000,,false,,USD,PersFood
+6241242000000103706,PersGifts,P525,,Expense,0.000,,false,,USD,PersExp
+6241242000000103716,PersHealth,P530,,Expense,0.000,,false,,USD,PersExp
+6241242000000103726,PersHealthInsurance,P531,,Expense,0.000,,false,,USD,PersHealth
+6241242000000103736,PersHealthMedical,P532,,Expense,0.000,,false,,USD,PersHealth
+6241242000000103746,PersHome,P540,,Expense,0.000,,false,,USD,PersExp
+6241242000000103756,PersHomeHOA,P541,,Expense,0.000,,false,,USD,PersHome
+6241242000000103766,PersHomeInsurance,P542,,Expense,0.000,,false,,USD,PersHome
+6241242000000103776,PersHomeMortgageInterest,P543,,Expense,0.000,,false,,USD,PersHome
+6241242000000103786,PersHomeOther,P544,,Expense,0.000,,false,,USD,PersHome
+6241242000000103796,PersHomeRepairs,P545,,Expense,0.000,,false,,USD,PersHome
+6241242000000103806,PersHomeTaxes,P546,,Expense,0.000,,false,,USD,PersHome
+6241242000000103816,PersHomeUtilties,P547,,Expense,0.000,,false,,USD,PersHome
+6241242000000103826,PersHomeUtiltiesElectric,P548,,Expense,0.000,,false,,USD,PersHomeUtilties
+6241242000000103836,PersHomeUtiltiesWater,P549,,Expense,0.000,,false,,USD,PersHomeUtilties
+6241242000000103846,PersSelf Care,P550,,Expense,0.000,,false,,USD,PersExp
+6241242000000103856,PersSubscriptions,P555,,Expense,0.000,,false,,USD,PersExp
+6241242000000103866,PersTransportation,P560,,Expense,0.000,,false,,USD,PersExp
+6241242000000103876,PersUtilities,P570,,Expense,0.000,,false,,USD,PersExp
+6241242000000103886,PersUtilitiesInternet,P571,,Expense,0.000,,false,,USD,PersUtilities
+6241242000000103896,PersUtilitiesTelephone,P572,,Expense,0.000,,false,,USD,PersUtilities
+6241242000000103906,PersLiabilities,P200,,Expense,0.000,,false,,USD,
+6241242000000103916,PersLiabilities - Bridgecrest,P221,,Expense,0.000,,false,,USD,PersLiabilities
+6241242000000103926,PersLiabilities 1,P220,,Expense,0.000,,false,,USD,PersLiabilities
+6241242000000103936,Regional Finance Loan,PL015,,Expense,0.000,,false,,USD,PersLiabilities 1
+6241242000000103946,PersLiabilities 2,P237,,Expense,0.000,,false,,USD,PersLiabilities
+6241242000000103956,PersLiabilities 3,P238,,Expense,0.000,,false,,USD,PersLiabilities
+6241242000000103966,PersLiabilitiesMortgages,P210,,Expense,0.000,,false,,USD,PersLiabilities
+6241242000000103976,PersLiabilitiesHome Mortgage 1,P211,,Expense,0.000,,false,,USD,PersLiabilitiesMortgages
+6241242000000103986,PersLiabilitiesHome Mortgage 2,P212,,Expense,0.000,,false,,USD,PersLiabilitiesMortgages
+6241242000000103996,SchC Expenses,B500,,Expense,0.000,,false,,USD,
+6241242000000104006,SchCAdvertising,B501,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104016,SchCAuto,B510,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104026,SchCAutoFuel,B511,,Expense,0.000,,false,,USD,SchCAuto
+6241242000000104036,SchCAutoInsurance,B512,,Expense,0.000,,false,,USD,SchCAuto
+6241242000000104046,SchCAutoLeasePayments,B513,,Expense,0.000,,false,,USD,SchCAuto
+6241242000000104056,SchCAutoMaintenance,B514,,Expense,0.000,,false,,USD,SchCAuto
+6241242000000104066,SchCAutoMileageAdjustment,B515,,Expense,0.000,,false,,USD,SchCAuto
+6241242000000104076,SchCAutoRegistration,B516,,Expense,0.000,,false,,USD,SchCAuto
+6241242000000104086,SchCAutoRepairs,B517,,Expense,0.000,,false,,USD,SchCAuto
+6241242000000104096,SchCCommissions,B520,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104106,SchCContractLabor,B521,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104116,SchCDepreciation,B522,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104126,SchCEmployeeBenefits,B523,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104136,SchCInsurance,B524,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104146,SchCLegalProfessional,B525,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104156,SchCMeals,B526,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104166,SchCOfficeExpense,B530,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104176,SchCOtherExpenses,B540,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104186,SchCOtherExpensesBankFees,B541,,Expense,0.000,,false,,USD,SchCOtherExpenses
+6241242000000104196,SchCOtherExpensesBizGifts,B542,,Expense,0.000,,false,,USD,SchCOtherExpenses
+6241242000000104206,SchCOtherExpensesDuesMemberships,B543,,Expense,0.000,,false,,USD,SchCOtherExpenses
+6241242000000104216,SchCOtherExpensesSoftware,B546,,Expense,0.000,,false,,USD,SchCOtherExpenses
+6241242000000104226,SchCOtherExpensesSubscriptions,B547,,Expense,0.000,,false,,USD,SchCOtherExpenses
+6241242000000104236,SchCOtherInterest,B548,,Expense,0.000,,false,,USD,SchCOtherExpenses
+6241242000000104246,SchCOtherExpensesEducation,B544,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104256,SchCOtherExpensesPostage,B545,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104266,SchCPensionPlans,B550,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104276,SchCRentOther,B551,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104286,SchCRentVehicles,B552,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104296,SchCRepairsMaintenance,B553,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104306,SchCSupplies,B554,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104316,SchCTaxesLicenses,B555,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104326,SchCTravel,B560,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104336,SchCTravel Lodging,B561,,Expense,0.000,,false,,USD,SchCTravel
+6241242000000104346,SchCTravelMeals,B562,,Expense,0.000,,false,,USD,SchCTravel
+6241242000000104356,SchCTravelParking Tolls,B563,,Expense,0.000,,false,,USD,SchCTravel
+6241242000000104366,SchCUtilities,B570,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104376,SchCWages,B571,,Expense,0.000,,false,,USD,SchC Expenses
+6241242000000104386,SchCBiz Liabilities,B200,,Expense,0.000,,false,,USD,
+6241242000000104396,Biz Deferred Revenue,B210,,Expense,0.000,,false,,USD,SchCBiz Liabilities
+6241242000000104406,Biz Liabilities,B200.1,,Expense,0.000,,false,,USD,SchCBiz Liabilities
+6241242000000104416,Biz Liability 1,B201,,Expense,0.000,,false,,USD,SchCBiz Liabilities
+6241242000000104426,Biz Liability 2,B202,,Expense,0.000,,false,,USD,SchCBiz Liabilities
+6241242000000104436,Biz Liability 3,B203,,Expense,0.000,,false,,USD,SchCBiz Liabilities
+6241242000000104446,Biz Liability 4,B204,,Expense,0.000,,false,,USD,SchCBiz Liabilities
+6241242000000104456,Biz Liability 5,B205,,Expense,0.000,,false,,USD,SchCBiz Liabilities
+6241242000000104466,Unapplied Cash Bill Payment Expense,B588,,Expense,0.000,,false,,USD,
+6241242000000104476,Uncategorized Asset,A999,,Expense,0.000,,false,,USD,
+6241242000000104486,Uncategorized Expense,B999,,Expense,0.000,,false,,USD,
+6241242000000344586,American Express Credit Card,61009,,Credit Card,0.000,,false,,USD,
+6241242000000344594,CashApp,ACAP150,,Bank,0.000,,false,,USD,
+6241242000000344602,Chase Credit Card 4139,2111.JP4139,,Credit Card,0.000,,false,,USD,
+6241242000000344610,CHASE SECURE BANKING (9266) - 1,ACHASE-9266,,Bank,0.000,,false,,USD,
+6241242000000344618,Clearing Account,1510,,Bank,0.000,,false,,USD,
+6241242000000344626,CreditOne Joel,2111.CO6332,,Credit Card,0.000,,false,,USD,
+6241242000000344641,Mission Lane Cody,2111.ML7626,,Credit Card,0.000,,false,,USD,
+6241242000000344654,Interest Paid,P589,,Expense,0.000,,false,,USD,PersExp
+6241242000000344664,SchCIncome,B400,,Income,0.000,,false,,USD,
+6241242000000344672,SchCIncomeBizConsulting,B432,,Income,0.000,,false,,USD,SchCIncome
+6241242000000344680,SchCIncomeHRConsulting,B435,,Income,0.000,,false,,USD,SchCIncome
+6241242000000344688,SchCIncomeQiAlly360,B455,,Income,0.000,,false,,USD,SchCIncome
+6241242000000344696,Self,2111.SF9250745,,Credit Card,0.000,,false,,USD,
+6241242000000344704,Self Credit Builder,PCC001,,Credit Card,0.000,,false,,USD,
+6241242000000344712,SoFi Checking (7940) - 2,ASOFI7940,,Bank,0.000,,false,,USD,
+6241242000000344720,SoFi Savings (6973) - 2,ASOFI7940-6973,,Bank,0.000,,false,,USD,
+6241242000000344735,XX-Fraudulent Charges,XXF,,Expense,0.000,,false,,USD,
+6241242000000457005,Tax Paid Expense,,,Expense,0.000,,false,,USD,
+6241242000000826029,QuickBooks Payments Sales,,,Income,0.000,,false,,USD,
+6241242000000826044,Sales of Product Income,,,Income,0.000,,false,,USD,
+6241242000000860023,Tips Income,B497,,Other Income,0.000,,false,,USD,
+6241242000000860031,Success Fee,,,Other Income,0.000,,false,,USD,Tips Income
+6241242000000932038,QuickBooks Payments Fees,,,Expense,0.000,,false,,USD,
+6241242000000995025,HoneyBook transaction fees,,,Expense,0.000,,false,,USD,
+6241242000001117372,General Income,,,Income,0.000,,false,,USD,
+6241242000001115613,SchCIncomeQiAlly361,,,Income,0.000,,false,,USD,
+6241242000001115628,SchCIncomeQiAlly362,,,Income,0.000,,false,,USD,
+6241242000001115643,SchCIncomeQiAlly363,,,Income,0.000,,false,,USD,
+6241242000001115658,SchCIncomeQiAlly364,,,Income,0.000,,false,,USD,
+6241242000001115673,SchCIncomeQiAlly365,,,Income,0.000,,false,,USD,
+6241242000001115688,SchCIncomeQiAlly366,,,Income,0.000,,false,,USD,
+6241242000001115703,SchCIncomeQiAlly367,,,Income,0.000,,false,,USD,
+6241242000001115718,SchCIncomeQiAlly368,,,Income,0.000,,false,,USD,
+6241242000001115733,SchCIncomeQiAlly369,,,Income,0.000,,false,,USD,
+6241242000001115748,SchCIncomeQiAlly370,,,Income,0.000,,false,,USD,
+6241242000001115763,SchCIncomeQiAlly371,,,Income,0.000,,false,,USD,
+6241242000001115778,SchCIncomeQiAlly372,,,Income,0.000,,false,,USD,
+6241242000001115793,SchCIncomeQiAlly373,,,Income,0.000,,false,,USD,
+6241242000001115808,SchCIncomeQiAlly374,,,Income,0.000,,false,,USD,
+6241242000001115823,SchCIncomeQiAlly375,,,Income,0.000,,false,,USD,

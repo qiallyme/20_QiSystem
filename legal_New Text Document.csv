@@ -1,0 +1,12 @@
+Bill Name,Bill Amount,Frequency,Category,Due Day,Shared Bill,Active,Notes
+Rent,1250,Monthly,Housing,1,Yes,Yes,Main monthly rent
+Electric,300,Monthly,Utilities,10,Yes,Yes,Estimated average monthly electric bill
+Water,120,Monthly,Utilities,15,Yes,Yes,Estimated average monthly water bill
+Internet,55,Monthly,Utilities,20,Yes,Yes,Monthly internet service
+Insurance,20,Monthly,Insurance,5,Yes,Yes,Renters insurance or shared policy
+Household Supplies,150,Monthly,Household,25,Yes,Yes,Shared paper goods cleaning supplies and basics
+Gas,0,Monthly,Utilities,,Yes,No,Add only if gas service is separate
+Trash / Sewer,0,Monthly,Utilities,,Yes,No,Add only if billed separately from water
+Pet Supplies,0,Monthly,Pet Care,,Yes,No,Optional shared Gigi budget
+Parking,0,Monthly,Transportation,,Yes,No,Only if apartment charges for parking
+Laundry,0,Monthly,Household,,Yes,No,Only if recurring shared laundry cost exists

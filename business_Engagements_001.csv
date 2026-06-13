@@ -1,0 +1,117 @@
+Record Id,Engagement Owner.id,Amount,Engagement Name,Closing Date,Company Name.id,Stage,Type,Probability (%),Next Step,Lead Source,Campaign Source.id,Created By.id,Modified By.id,Created Time,Modified Time,Description,Contact Name.id,Expected Revenue,Currency,Exchange Rate,Last Activity Time,Lead Conversion Time,Sales Cycle Duration,Overall Sales Duration,Layout.id,Score,Positive Score,Negative Score,Positive Touch Point Score,Touch Point Score,Negative Touch Point Score,Tag,Engagement Image,User Modified Time,System Related Activity Time,User Related Activity Time,System Modified Time,Pipeline,Forecast Category,Territory,Change Log Time,Locked,Reason For Loss,Record Creation Source ID,Zia Score,Record Status,Sub-Type,if Other,Email for Contact,Mobile for Contact,Document(s) Verified,Service Tickets.id,Engagement Contract.id,Engagement Quote.id,Linked Solution.id,Engagement Invoice.id,Engagement Unique ID,Connected To.id,Connected To.Module
+zcrm_6789162000001240334,zcrm_6789162000000560001,100.0,Cody James Rice-Velasquez,2025-05-21,zcrm_6789162000001002088,Closed Lost,QiAlly Tax & Accounting,0,,Chat,,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-05-21 01:29:39,2025-06-03 00:14:34,,zcrm_6789162000001240331,0.0,USD,1.000000000,2025-06-03 00:14:34,4,0,4,zcrm_6789162000000091023,0,0,0,0,0,0,,,2025-06-03 00:14:34,2025-05-21 01:29:40,,,Job(s),Omitted,Taxes,2025-06-03 00:13:16,false,Expectation Mismatch,0,,Available,360 Monthly,,,,false,,,,,,QE1,,
+zcrm_6789162000001749382,zcrm_6789162000000560001,0.0,Zait - Number Porting Request and Others,2025-06-02,zcrm_6789162000000811920,Closed Lost,QiAlly Digital & Automation,0,document,New,,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-06-02 18:45:37,2025-06-02 23:49:45,,zcrm_6789162000001316243,0.0,USD,1.000000000,2025-06-02 23:49:45,,0,0,zcrm_6789162000000091023,0,0,0,0,0,0,,,2025-06-02 23:49:45,,,,Job(s),Omitted,Digital and Automation,2025-06-02 18:45:50,false,Expectation Mismatch,0,,Available,Custom Bundle,,,,false,,,,,,QE2,,
+zcrm_6789162000001906001,zcrm_6789162000000560001,78.0,Help With Whatsapp,2025-06-08,zcrm_6789162000000811920,Closed Won,QiAlly Digital & Automation,100,Done,Cold Call,,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-06-08 17:24:03,2025-06-08 17:26:09,,zcrm_6789162000001316243,78.0,USD,1.000000000,2025-06-08 17:28:00,,0,0,zcrm_6789162000000091023,0,0,0,0,0,0,,,2025-06-08 17:26:09,,2025-06-08 17:28:00,,Job(s),Closed,Digital and Automation,2025-06-08 17:27:00,false,,0,,Available,Custom Bundle,,,,false,,,,,,QE3,,
+zcrm_6789162000001999001,zcrm_6789162000000560001,0.0,Dilshant - SSN Application Appointment,2025-06-14,,Closed Won,QiAlly Docs,100,Review Requirements,External Referral,,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-06-14 03:26:40,2025-06-15 14:52:30,Need to verify requirements and process application.,zcrm_6789162000001987451,0.0,USD,1.000000000,2025-08-10 20:19:27,,0,0,zcrm_6789162000000091023,0,0,0,0,0,0,"packet_sent,quote_accepted,ready_for_review",,2025-06-15 14:52:30,2025-06-15 14:39:21,2025-06-15 14:51:56,,Job(s),Closed,Docs,2025-06-15 14:39:21,false,,0,,Available,SSN Application,,singhdilshant206@gmail.com,12096123425,true,,,zcrm_6789162000001991445,,zcrm_6789162000001991456,QE4,,
+zcrm_6789162000002167151,zcrm_6789162000000560001,567.0,Employer Account Release & Compliance,2025-06-24,zcrm_6789162000002167057,Delivery + Pay,QiAlly BizStart & Compliance,95,waiting on message from indor if lien has been released or compliance letter received.,Partner,,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-06-23 20:32:47,2025-07-11 14:06:36,"Scope of Work:
+Secure portal access via ID.me or equivalent
+File Zero Return with state payroll agency
+File Zero Wage Return with UE (Unemployment Agency)
+Draft Explanation Letter confirming no wages
+
+Submit request for Letter of Compliance
+Deliver compliance documentation to BMV
+Assist client with vehicle registration renewal (if needed)
+Estimated Cost:
+
+$567.00
+(Includes Tax Filing $119 + Legal Doc Prep $49 + BMV Fee $300 + UE Filing $99)
+
+Deliverables:
+Zero Return confirmations
+
+Explanation Letter
+Compliance letter receipt
+BMV delivery proof
+Client renewal support record",zcrm_6789162000000954677,538.65,USD,1.000000000,2025-07-15 16:40:34,,1,1,zcrm_6789162000000091023,0,0,0,0,0,0,,,2025-07-11 14:06:36,2025-06-27 14:00:18,2025-07-15 16:40:34,,Job(s),Committed,Taxes,2025-06-23 20:33:06,false,,0,,Available,Back Taxes,,luisemunoz97@gmail.com,+13178530057,true,,,zcrm_6789162000002176031,,zcrm_6789162000002572005,QE5,,
+zcrm_6789162000002313005,zcrm_6789162000000560001,499.0,2023 1040X Rays Construction LLC,2025-06-28,zcrm_6789162000001240688,In Progress,QiAlly Tax & Accounting,85,Get copy of original return and verify depreciations.,Internal,,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-06-27 11:34:14,2025-07-09 14:48:34,"Engagement Addendum – Amended 2023 Tax Return (1040X) for Ray’s Construction
+
+This engagement covers the preparation and submission of IRS Form 1040X to amend the 2023 individual tax return for the owner of Ray’s Construction. This service is not included in the original service proposal and will be billed as a separate charge, though work will proceed immediately due to time sensitivity. Payment may be made at a later date, as agreed.
+
+Scope of Work:
+
+Review the originally filed 2023 Form 1040, including Schedule C.
+
+Evaluate and correct errors or omissions that may have impacted the refund or liability, with the goal of recovering any overpaid taxes.
+
+Request and reconcile supporting documentation (e.g., receipts, prior year depreciation).
+
+Review the 2022 return to confirm depreciation accuracy and verify carryover consistency.
+
+Update books accordingly to ensure 2024 financial data is clean and properly aligned.
+
+Prepare for timely filing of the 2024 tax return, which is critical to support other filings.
+
+Related Dependencies:
+
+The 2024 return will support the application for the Worker’s Compensation Certificate and the RRMC (Registration of Responsible Managing Contractor), both of which are not included in the original proposal and will also be treated as separate billable items.
+
+Timeline and Urgency:
+Given the delay and sequential dependencies, this project is being prioritized. Client cooperation in providing necessary documents—including the originally filed 2023 return and any 2022 depreciation details—is essential to expedite completion and prevent further delays in regulatory compliance.",zcrm_6789162000001002107,424.15,USD,1.000000000,2025-08-20 16:47:25,,1,1,zcrm_6789162000000091023,0,0,0,0,0,0,,,2025-07-09 14:48:34,,,,Job(s),Committed,Taxes,2025-06-27 11:34:23,false,,0,,Available,1040 – Individual Tax Return,Schedule C 1040x,b.roman42@yahoo.com,+1 3175155308,false,,,,,,QE6,,
+zcrm_6789162000002550002,zcrm_6789162000000560001,200.0,Zaitullah - Indiana BMV Letter,2025-07-10,zcrm_6789162000000811920,In Progress,QiAlly BizStart & Compliance,85,Check account to see if suspended,Partner,,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-07-10 11:23:58,2025-07-10 11:24:21,Needs to file SR22 to the BMV ASAP.,zcrm_6789162000001316243,170.0,USD,1.000000000,2025-07-10 11:24:53,,0,0,zcrm_6789162000000091023,0,0,0,0,0,0,,,2025-07-10 11:24:21,,2025-07-10 11:24:53,,Job(s),Committed,BizStart and Compliance,2025-07-10 11:24:10,false,,0,,Available,Other,BMV Letter,zaikhebarkhil@gmail.com,+13173667767,true,,,,,,QE8,,
+zcrm_6789162000002667019,zcrm_6789162000000560001,149.0,Payment Log and Emp Verification - Veronica,,,Delivery + Pay,QiAlly Digital & Automation,95,,External Referral,,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-07-11 19:14:17,2025-07-11 19:14:17,"Work Summary Sheet
+Client: [Name Redacted]
+Date: July 11, 2025
+Delivery Method: In-person pickup
+Payment: Cash
+Services Provided
+1. Employment Verification Form – $39.00
+- Custom form creation with dynamic autofill fields
+- Optimized for legal and HR standards
+- Prepared for notarization
+
+2. Notarization – $10.00
+- Official notarization with stamp and signature
+- Legal compliance ensured
+
+3. Rent Payment History Log (Reconstruction) – $100.00
+- Complete rebuild using Python/HTML
+- Corrected errors based on accounting principles
+- Matched prior documentation based on client description
+- Polished design and formatting included
+
+Non-Billable Time (Included for Record)
+Description	Time
+Form UX/interface design & setup (pre-development)	1.5 hrs
+Script logic testing & version iterations	1.0 hr
+Design alignment, formatting tweaks, double-checking values	1.5 hrs
+Print prep and physical assembly	0.5 hr
+Total Non-Billable Time	~4.5 hrs
+Note: Non-billable time reflects effort provided at no additional cost.
+
+Total Value Summary
+Line Item Description	Rate	Subtotal
+Employment Verification Form	$39.00	$39.00
+Notarization	$10.00	$10.00
+Rent Payment Log Reconstruction	$100.00	$100.00
+Total (Before Discounts):	$149.00
+Discount Section
+Client may receive a partial discount on the final amount. To be applied at provider's discretion.",zcrm_6789162000002667001,141.55,USD,1.000000000,,,,,zcrm_6789162000000091023,0,0,0,0,0,0,,,,,,,Job(s),Committed,,,false,,0,,Available,Document Review,Recreate Expense logs and Verification,,,true,,,,,,QE9,,
+zcrm_6789162000003044021,zcrm_6789162000000560001,50.0,Address Verifications,2025-08-01,,Closed Won,QiAlly Docs,100,NA,Web,,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-08-01 00:38:49,2025-08-01 00:38:49,"QiAlly Work Summary
+Date: 2025-07-31
+Project
+Doc Recreation: Bill + Lease
+Status: 2 iterations each (No Final Delivery)
+Tasks Completed
+✔ Initial Draft – Bill
+✔ Initial Draft – Lease
+✔ Revision 1 – Both
+✔ Revision 2 – Both
+✘ Final Approval Pending
+Cost Breakdown
+Bill Recreation x2
+$98.00
+Lease Recreation x2
+$98.00
+Optional Print (Custom)
+$100.00
+Total
+$196.00–$296.00
+Action Items
+- Confirm approval or request edits
+- Optional: Notarize / Finalize
+Service Codes
+DEZ-LEGAL-001
+DOC-GC-100-QD
+Thank you for choosing QiAlly",zcrm_6789162000003044003,50.0,USD,1.000000000,,,0,0,zcrm_6789162000000091023,0,0,0,0,0,0,,,,,,,Job(s),Closed,Docs,2025-08-01 00:39:01,false,,0,,Available,Custom Bundle,Verification of Address x 2,,+14632719817,false,,,,,,QE10,,
+zcrm_6789162000003147003,zcrm_6789162000000560001,150.0,Suk SSA Appointment Assistance $150.00,2025-08-13,,Closed Won,QiAlly Docs,100,Send Invoice,,,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-08-13 12:34:12,2025-08-23 20:45:29,Complete the info online for the client appointment at the SSA Office to correct social errors.,zcrm_6789162000003143003,150.0,USD,1.000000000,2025-08-23 20:45:29,,0,0,zcrm_6789162000000091023,0,0,0,0,0,0,,,2025-08-23 20:45:29,,2025-08-13 18:26:58,,Job(s),Closed,Docs,,false,,0,,Available,Form Filling,sukchain@qially.me,dhindsasukhchain05@icloud.com,(317) 909-6922,false,,,,,zcrm_6789162000003147021,QE11,,

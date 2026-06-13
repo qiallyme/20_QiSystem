@@ -1,0 +1,6 @@
+name,any_terms,all_terms,exclude_terms,qidecimal,destination,filename_template,prefix,weight
+ZJK Asylum,I-589|Asylum|ZJK|Khebarkhil,,,02.10.01,4_Legal/4.20_Immigration/2200_Asylum_I589_Packet_Ready,{prefix}-{date}-{qidecimal}-zjk-asylum-{slug}-{id},QIN,100
+Rays Finance,Rays Construction|Rays LLC|Rays|BuiltByRays,,,03.20.05,3_Finance/clients/Rays_Construction,{prefix}-{date}-{qidecimal}-rays-{slug}-{id},QIN,90
+Tax returns generic,1040|W-2|1099|Schedule C|Tax Return,,,03.30.00,3_Finance/3.30_Tax/Returns,{prefix}-{date}-{qidecimal}-tax-{slug}-{id},QIN,80
+Contracts / legal,Contract|Agreement|Affidavit|Declaration|Notary,,,04.10.00,4_Legal/4.10_Contracts,{prefix}-{date}-{qidecimal}-contract-{slug}-{id},QIN,70
+Default catch-all,,,,90.00.00,2_Processed,{prefix}-{date}-{qidecimal}-{slug}-{id},QIN,0

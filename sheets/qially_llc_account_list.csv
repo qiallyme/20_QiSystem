@@ -1,0 +1,157 @@
+Account #,Full name,Type,Detail type,Description,Account name,Parent account id,Deleted,Parent account name,Account full name
+2110,Accounts Payable (A/P),Accounts payable (A/P),Accounts Payable (A/P),,2110 Accounts Payable (A/P),,No,,2110 Accounts Payable (A/P)
+1300,Accounts Receivable (A/R),Accounts receivable (A/R),Accounts Receivable (A/R),,1300 Accounts Receivable (A/R),,No,,1300 Accounts Receivable (A/R)
+100.ACAP150,CashApp,Bank,Checking,,100.ACAP150 CashApp,,No,,100.ACAP150 CashApp
+100.ACHASE-9266,CHASE SECURE BANKING (9266) - 1,Bank,Checking,,100.ACHASE-9266 CHASE SECURE BANKING (9266) - 1,,No,,100.ACHASE-9266 CHASE SECURE BANKING (9266) - 1
+1510,Clearing Account,Bank,Trust account,,1510 Clearing Account,,No,,1510 Clearing Account
+100.ACHASE-8498,Self-Directed-Ret (8498) - 1,Bank,Money Market,,100.ACHASE-8498 Self-Directed-Ret (8498) - 1,,No,,100.ACHASE-8498 Self-Directed-Ret (8498) - 1
+100.ASOFI7940-2024,Sofi Bank 2024,Bank,Checking,,100.ASOFI7940-2024 Sofi Bank 2024,,No,,100.ASOFI7940-2024 Sofi Bank 2024
+100.ASOFI7940,SoFi Checking (7940) - 2,Bank,Checking,,100.ASOFI7940 SoFi Checking (7940) - 2,,No,,100.ASOFI7940 SoFi Checking (7940) - 2
+100.ASOFI7940-4424,SoFi Robo Roth IRA (4424) - 2,Bank,Money Market,,100.ASOFI7940-4424 SoFi Robo Roth IRA (4424) - 2,,No,,100.ASOFI7940-4424 SoFi Robo Roth IRA (4424) - 2
+100.ASOFI7940-6973,SoFi Savings (6973) - 2,Bank,Savings,,100.ASOFI7940-6973 SoFi Savings (6973) - 2,,No,,100.ASOFI7940-6973 SoFi Savings (6973) - 2
+BC500,Cost of Goods Sold,Cost of Goods Sold,Supplies & Materials - COGS,,BC500 Cost of Goods Sold,,No,,BC500 Cost of Goods Sold
+2111.CCAE61009,American Express Credit Card,Credit Card,Credit Card,,2111.CCAE61009 American Express Credit Card,,No,,2111.CCAE61009 American Express Credit Card
+2111.CCJP4139,Chase Credit Card 4139,Credit Card,Credit Card,,2111.CCJP4139 Chase Credit Card 4139,,No,,2111.CCJP4139 Chase Credit Card 4139
+2111.CCO6332,CreditOne Joel,Credit Card,Credit Card,300 limit,2111.CCO6332 CreditOne Joel,,No,,2111.CCO6332 CreditOne Joel
+2111.CCML7626,Mission Lane Cody,Credit Card,Credit Card,33.39% Interest Limit $600,2111.CCML7626 Mission Lane Cody,,No,,2111.CCML7626 Mission Lane Cody
+2111.CCSF9250745,Self,Credit Card,Credit Card,,2111.CCSF9250745 Self,,No,,2111.CCSF9250745 Self
+PCC001,Self Credit Builder,Credit Card,Credit Card,,PCC001 Self Credit Builder,,No,,PCC001 Self Credit Builder
+X688,Opening Balance Equity,Equity,Opening Balance Equity,,X688 Opening Balance Equity,,No,,X688 Opening Balance Equity
+X620,Owners Investment,Equity,Owner's Equity,,X620 Owners Investment,,No,,X620 Owners Investment
+X888,Retained Earnings,Equity,Retained Earnings,,X888 Retained Earnings,,No,,X888 Retained Earnings
+B501,Advertising,Expenses,Other Business Expenses,,B501 Advertising,,No,,B501 Advertising
+P569,Honduras,Expenses,Other Business Expenses,,P569 Honduras,,No,,P569 Honduras
+B589.1,HoneyBook transaction fees,Expenses,Other Miscellaneous Service Cost,,B589.1 HoneyBook transaction fees,,No,,B589.1 HoneyBook transaction fees
+P589,Interest Paid,Expenses,Interest Paid,,P589 Interest Paid,,No,,P589 Interest Paid
+P571,Internet,Expenses,Other Business Expenses,,P571 Internet,,No,,P571 Internet
+P500,PersExp,Expenses,Other Business Expenses,,P500 PersExp,,No,,P500 PersExp
+P510,PersExp:PersEntertainment,Expenses,Other Business Expenses,,P510 PersEntertainment,1150040017.0,No,PersExp,P500 PersExp:P510 PersEntertainment
+P520,PersExp:PersFood,Expenses,Other Business Expenses,,P520 PersFood,1150040017.0,No,PersExp,P500 PersExp:P520 PersFood
+P521,PersExp:PersFood:FoodDiningOut,Expenses,Other Business Expenses,,P521 FoodDiningOut,95.0,No,PersExp:PersFood,P500 PersExp:P520 PersFood:P521 FoodDiningOut
+P522,PersExp:PersFood:FoodGroceries,Expenses,Other Business Expenses,,P522 FoodGroceries,95.0,No,PersExp:PersFood,P500 PersExp:P520 PersFood:P522 FoodGroceries
+P525,PersExp:PersGifts,Expenses,Other Business Expenses,,P525 PersGifts,1150040017.0,No,PersExp,P500 PersExp:P525 PersGifts
+P530,PersExp:PersHealth,Expenses,Other Business Expenses,,P530 PersHealth,1150040017.0,No,PersExp,P500 PersExp:P530 PersHealth
+P531,PersExp:PersHealth:Insurance,Expenses,Other Business Expenses,,P531 Insurance,99.0,No,PersExp:PersHealth,P500 PersExp:P530 PersHealth:P531 Insurance
+P532,PersExp:PersHealth:Medical,Expenses,Other Business Expenses,,P532 Medical,99.0,No,PersExp:PersHealth,P500 PersExp:P530 PersHealth:P532 Medical
+P540,PersExp:PersHome,Expenses,Other Business Expenses,,P540 PersHome,1150040017.0,No,PersExp,P500 PersExp:P540 PersHome
+P541,PersExp:PersHome:PersHomeHOA,Expenses,Other Business Expenses,,P541 PersHomeHOA,102.0,No,PersExp:PersHome,P500 PersExp:P540 PersHome:P541 PersHomeHOA
+P542,PersExp:PersHome:PersHomeInsurance,Expenses,Other Business Expenses,,P542 PersHomeInsurance,102.0,No,PersExp:PersHome,P500 PersExp:P540 PersHome:P542 PersHomeInsurance
+P543,PersExp:PersHome:PersHomeMortgageInterest,Expenses,Other Business Expenses,,P543 PersHomeMortgageInterest,102.0,No,PersExp:PersHome,P500 PersExp:P540 PersHome:P543 PersHomeMortgageInterest
+P544,PersExp:PersHome:PersHomeOther,Expenses,Other Business Expenses,,P544 PersHomeOther,102.0,No,PersExp:PersHome,P500 PersExp:P540 PersHome:P544 PersHomeOther
+P545,PersExp:PersHome:PersHomeRepairs,Expenses,Other Business Expenses,,P545 PersHomeRepairs,102.0,No,PersExp:PersHome,P500 PersExp:P540 PersHome:P545 PersHomeRepairs
+P547,PersExp:PersHome:PersHomeUtilties,Expenses,Other Business Expenses,,P547 PersHomeUtilties,102.0,No,PersExp:PersHome,P500 PersExp:P540 PersHome:P547 PersHomeUtilties
+P548,PersExp:PersHome:PersHomeUtilties:Electric,Expenses,Other Business Expenses,,P548 Electric,109.0,No,PersExp:PersHome:PersHomeUtilties,P500 PersExp:P540 PersHome:P547 PersHomeUtilties:P548 Electric
+P546,PersExp:PersHome:PersTaxes,Expenses,Other Business Expenses,,P546 PersTaxes,102.0,No,PersExp:PersHome,P500 PersExp:P540 PersHome:P546 PersTaxes
+P550,PersExp:Self Care,Expenses,Other Business Expenses,,P550 Self Care,1150040017.0,No,PersExp,P500 PersExp:P550 Self Care
+P555,PersExp:Subscriptions,Expenses,Other Business Expenses,,P555 Subscriptions,1150040017.0,No,PersExp,P500 PersExp:P555 Subscriptions
+P560,PersExp:Transportation,Expenses,Other Business Expenses,,P560 Transportation,1150040017.0,No,PersExp,P500 PersExp:P560 Transportation
+B588.1,QuickBooks Payments Fees,Expenses,Other selling expenses,,B588.1 QuickBooks Payments Fees,,No,,B588.1 QuickBooks Payments Fees
+B500,SchC Expenses,Expenses,Supplies & Materials,,B500 SchC Expenses,,No,,B500 SchC Expenses
+B510,SchC Expenses:Auto,Expenses,Other Business Expenses,,B510 Auto,139.0,No,SchC Expenses,B500 SchC Expenses:B510 Auto
+B511,SchC Expenses:Auto:AutoFuel,Expenses,Other Business Expenses,,B511 AutoFuel,56.0,No,SchC Expenses:Auto,B500 SchC Expenses:B510 Auto:B511 AutoFuel
+B512,SchC Expenses:Auto:AutoInsurance,Expenses,Other Business Expenses,,B512 AutoInsurance,56.0,No,SchC Expenses:Auto,B500 SchC Expenses:B510 Auto:B512 AutoInsurance
+B513,SchC Expenses:Auto:AutoLeasePayments,Expenses,Other Business Expenses,,B513 AutoLeasePayments,56.0,No,SchC Expenses:Auto,B500 SchC Expenses:B510 Auto:B513 AutoLeasePayments
+B514,SchC Expenses:Auto:AutoMaintenance,Expenses,Other Business Expenses,,B514 AutoMaintenance,56.0,No,SchC Expenses:Auto,B500 SchC Expenses:B510 Auto:B514 AutoMaintenance
+B515,SchC Expenses:Auto:AutoMileageAdjustment,Expenses,Other Business Expenses,,B515 AutoMileageAdjustment,56.0,No,SchC Expenses:Auto,B500 SchC Expenses:B510 Auto:B515 AutoMileageAdjustment
+B516,SchC Expenses:Auto:AutoRegistration,Expenses,Other Business Expenses,,B516 AutoRegistration,56.0,No,SchC Expenses:Auto,B500 SchC Expenses:B510 Auto:B516 AutoRegistration
+B517,SchC Expenses:Auto:AutoRepairs,Expenses,Other Business Expenses,,B517 AutoRepairs,56.0,No,SchC Expenses:Auto,B500 SchC Expenses:B510 Auto:B517 AutoRepairs
+B599,SchC Expenses:Bad Debt,Expenses,Bad Debts,,B599 Bad Debt,139.0,No,SchC Expenses,B500 SchC Expenses:B599 Bad Debt
+B520,SchC Expenses:SchCCommissions,Expenses,Other Business Expenses,,B520 SchCCommissions,139.0,No,SchC Expenses,B500 SchC Expenses:B520 SchCCommissions
+B521,SchC Expenses:SchCContractLabor,Expenses,Other Business Expenses,,B521 SchCContractLabor,139.0,No,SchC Expenses,B500 SchC Expenses:B521 SchCContractLabor
+B522,SchC Expenses:SchCDepreciation,Expenses,Other Business Expenses,,B522 SchCDepreciation,139.0,No,SchC Expenses,B500 SchC Expenses:B522 SchCDepreciation
+B523,SchC Expenses:SchCEmployeeBenefits,Expenses,Other Business Expenses,,B523 SchCEmployeeBenefits,139.0,No,SchC Expenses,B500 SchC Expenses:B523 SchCEmployeeBenefits
+B524,SchC Expenses:SchCInsurance,Expenses,Other Business Expenses,,B524 SchCInsurance,139.0,No,SchC Expenses,B500 SchC Expenses:B524 SchCInsurance
+B525,SchC Expenses:SchCLegalProfessional,Expenses,Other Business Expenses,,B525 SchCLegalProfessional,139.0,No,SchC Expenses,B500 SchC Expenses:B525 SchCLegalProfessional
+B526,SchC Expenses:SchCMeals,Expenses,Other Business Expenses,,B526 SchCMeals,139.0,No,SchC Expenses,B500 SchC Expenses:B526 SchCMeals
+B530,SchC Expenses:SchCOfficeExpense,Expenses,Other Business Expenses,,B530 SchCOfficeExpense,139.0,No,SchC Expenses,B500 SchC Expenses:B530 SchCOfficeExpense
+B540,SchC Expenses:SchCOtherExpenses,Expenses,Other Business Expenses,,B540 SchCOtherExpenses,139.0,No,SchC Expenses,B500 SchC Expenses:B540 SchCOtherExpenses
+B544,SchC Expenses:SchCOtherExpensesEducation,Expenses,Other Business Expenses,,B544 SchCOtherExpensesEducation,139.0,No,SchC Expenses,B500 SchC Expenses:B544 SchCOtherExpensesEducation
+B545,SchC Expenses:SchCOtherExpensesPostage,Expenses,Other Business Expenses,,B545 SchCOtherExpensesPostage,139.0,No,SchC Expenses,B500 SchC Expenses:B545 SchCOtherExpensesPostage
+B541,SchC Expenses:SchCOtherExpenses:SchCOtherExpensesBankFees,Expenses,Other Business Expenses,,B541 SchCOtherExpensesBankFees,73.0,No,SchC Expenses:SchCOtherExpenses,B500 SchC Expenses:B540 SchCOtherExpenses:B541 SchCOtherExpensesBankFees
+B542,SchC Expenses:SchCOtherExpenses:SchCOtherExpensesBizGifts,Expenses,Other Business Expenses,,B542 SchCOtherExpensesBizGifts,73.0,No,SchC Expenses:SchCOtherExpenses,B500 SchC Expenses:B540 SchCOtherExpenses:B542 SchCOtherExpensesBizGifts
+B543,SchC Expenses:SchCOtherExpenses:SchCOtherExpensesDuesMemberships,Expenses,Other Business Expenses,,B543 SchCOtherExpensesDuesMemberships,73.0,No,SchC Expenses:SchCOtherExpenses,B500 SchC Expenses:B540 SchCOtherExpenses:B543 SchCOtherExpensesDuesMemberships
+B546,SchC Expenses:SchCOtherExpenses:SchCOtherExpensesSoftware,Expenses,Other Business Expenses,,B546 SchCOtherExpensesSoftware,73.0,No,SchC Expenses:SchCOtherExpenses,B500 SchC Expenses:B540 SchCOtherExpenses:B546 SchCOtherExpensesSoftware
+B547,SchC Expenses:SchCOtherExpenses:SchCOtherExpensesSubscriptions,Expenses,Other Business Expenses,,B547 SchCOtherExpensesSubscriptions,73.0,No,SchC Expenses:SchCOtherExpenses,B500 SchC Expenses:B540 SchCOtherExpenses:B547 SchCOtherExpensesSubscriptions
+B548,SchC Expenses:SchCOtherExpenses:SchCOtherInterest,Expenses,Other Business Expenses,,B548 SchCOtherInterest,73.0,No,SchC Expenses:SchCOtherExpenses,B500 SchC Expenses:B540 SchCOtherExpenses:B548 SchCOtherInterest
+B550,SchC Expenses:SchCPensionPlans,Expenses,Other Business Expenses,,B550 SchCPensionPlans,139.0,No,SchC Expenses,B500 SchC Expenses:B550 SchCPensionPlans
+B551,SchC Expenses:SchCRentOther,Expenses,Other Business Expenses,,B551 SchCRentOther,139.0,No,SchC Expenses,B500 SchC Expenses:B551 SchCRentOther
+B552,SchC Expenses:SchCRentVehicles,Expenses,Other Business Expenses,,B552 SchCRentVehicles,139.0,No,SchC Expenses,B500 SchC Expenses:B552 SchCRentVehicles
+B553,SchC Expenses:SchCRepairsMaintenance,Expenses,Other Business Expenses,,B553 SchCRepairsMaintenance,139.0,No,SchC Expenses,B500 SchC Expenses:B553 SchCRepairsMaintenance
+B554,SchC Expenses:SchCSupplies,Expenses,Other Business Expenses,,B554 SchCSupplies,139.0,No,SchC Expenses,B500 SchC Expenses:B554 SchCSupplies
+B555,SchC Expenses:SchCTaxesLicenses,Expenses,Other Business Expenses,,B555 SchCTaxesLicenses,139.0,No,SchC Expenses,B500 SchC Expenses:B555 SchCTaxesLicenses
+B560,SchC Expenses:SchCTravel,Expenses,Other Business Expenses,,B560 SchCTravel,139.0,No,SchC Expenses,B500 SchC Expenses:B560 SchCTravel
+B561,SchC Expenses:SchCTravel:SchCTravel Lodging,Expenses,Other Business Expenses,,B561 SchCTravel Lodging,88.0,No,SchC Expenses:SchCTravel,B500 SchC Expenses:B560 SchCTravel:B561 SchCTravel Lodging
+B562,SchC Expenses:SchCTravel:SchCTravelMeals,Expenses,Other Business Expenses,,B562 SchCTravelMeals,88.0,No,SchC Expenses:SchCTravel,B500 SchC Expenses:B560 SchCTravel:B562 SchCTravelMeals
+B563,SchC Expenses:SchCTravel:SchCTravelParking Tolls,Expenses,Other Business Expenses,,B563 SchCTravelParking Tolls,88.0,No,SchC Expenses:SchCTravel,B500 SchC Expenses:B560 SchCTravel:B563 SchCTravelParking Tolls
+B570,SchC Expenses:SchCUtilities,Expenses,Other Business Expenses,,B570 SchCUtilities,139.0,No,SchC Expenses,B500 SchC Expenses:B570 SchCUtilities
+B571,SchC Expenses:SchCWages,Expenses,Other Business Expenses,,B571 SchCWages,139.0,No,SchC Expenses,B500 SchC Expenses:B571 SchCWages
+B527,SchCMortgageInterest,Expenses,Other Business Expenses,,B527 SchCMortgageInterest,,No,,B527 SchCMortgageInterest
+P572,Telephone,Expenses,Other Business Expenses,,P572 Telephone,,No,,P572 Telephone
+B588,Unapplied Cash Bill Payment Expense,Expenses,Unapplied Cash Bill Payment Expense,,B588 Unapplied Cash Bill Payment Expense,,No,,B588 Unapplied Cash Bill Payment Expense
+B999,Uncategorized Expense,Expenses,Other Miscellaneous Service Cost,,B999 Uncategorized Expense,,No,,B999 Uncategorized Expense
+P570,Utilities,Expenses,Other Business Expenses,,P570 Utilities,,No,,P570 Utilities
+P549,Water,Expenses,Other Business Expenses,,P549 Water,,No,,P549 Water
+XXF,XX-Fraudulent Charges,Expenses,Other Miscellaneous Service Cost,,XXF XX-Fraudulent Charges,,No,,XXF XX-Fraudulent Charges
+B420,Accounting,Income,Service/Fee Income,,B420 Accounting,,No,,B420 Accounting
+B469,Billable Expense Income,Income,Service/Fee Income,,B469 Billable Expense Income,,No,,B469 Billable Expense Income
+B400,Business Income (Main),Income,Service/Fee Income,,B400 Business Income (Main),,No,,B400 Business Income (Main)
+B430,Consulting Income,Income,Service/Fee Income,,B430 Consulting Income,,No,,B430 Consulting Income
+B499,Discounts given,Income,Discounts/Refunds Given,,B499 Discounts given,,No,,B499 Discounts given
+B460,iisiTax,Income,Service/Fee Income,,B460 iisiTax,,No,,B460 iisiTax
+P440,Joel - SubContractor Work SE,Income,Service/Fee Income,,P440 Joel - SubContractor Work SE,,No,,P440 Joel - SubContractor Work SE
+B487,Markup,Income,Service/Fee Income,,B487 Markup,,No,,B487 Markup
+B490,Only Fans,Income,Service/Fee Income,,B490 Only Fans,,No,,B490 Only Fans
+B480,Other,Income,Service/Fee Income,,B480 Other,,No,,B480 Other
+P430,Personal Dividends,Income,Service/Fee Income,,P430 Personal Dividends,,No,,P430 Personal Dividends
+P400,Personal Income,Income,Other Primary Income,,P400 Personal Income,,No,,P400 Personal Income
+P480,Personal Income Other,Income,Other Primary Income,,P480 Personal Income Other,,No,,P480 Personal Income Other
+P420,Personal Interest,Income,Service/Fee Income,,P420 Personal Interest,,No,,P420 Personal Interest
+P450,Personal Rent Reimbursements,Income,Service/Fee Income,,P450 Personal Rent Reimbursements,,No,,P450 Personal Rent Reimbursements
+B479,QuickBooks Payments Sales,Income,Sales of Product Income,,B479 QuickBooks Payments Sales,,No,,B479 QuickBooks Payments Sales
+,Sales,Income,Sales of Product Income,,Sales,,No,,Sales
+P585,Sales of Product,Income,Sales of Product Income,,P585 Sales of Product,,No,,P585 Sales of Product
+B421,Sales of Product Income,Income,Sales of Product Income,,B421 Sales of Product Income,,No,,B421 Sales of Product Income
+B450,Services,Income,Service/Fee Income,,B450 Services,,No,,B450 Services
+B486,Shipping Income,Income,Service/Fee Income,,B486 Shipping Income,,No,,B486 Shipping Income
+B470,Square Income,Income,Service/Fee Income,,B470 Square Income,,No,,B470 Square Income
+B471,Stripe,Income,Service/Fee Income,,B471 Stripe,,No,,B471 Stripe
+B455,SubsQiAlly360,Income,Service/Fee Income,,B455 SubsQiAlly360,,No,,B455 SubsQiAlly360
+B410,TaxPrep,Income,Service/Fee Income,,B410 TaxPrep,,No,,B410 TaxPrep
+B489,Unapplied Cash Payment Income,Income,Unapplied Cash Payment Income,,B489 Unapplied Cash Payment Income,,No,,B489 Unapplied Cash Payment Income
+U999,Uncategorized Income,Income,Service/Fee Income,,U999 Uncategorized Income,,No,,U999 Uncategorized Income
+P410,Wages,Income,Service/Fee Income,,P410 Wages,,No,,P410 Wages
+B100,Biz Assets,Other Current Assets,Other Current Assets,,B100 Biz Assets,,No,,B100 Biz Assets
+B190,Biz Uncategorized Asset,Other Current Assets,Other Current Assets,,B190 Biz Uncategorized Asset,,No,,B190 Biz Uncategorized Asset
+1200,Inventory Asset,Other Current Assets,Inventory,,1200 Inventory Asset,,No,,1200 Inventory Asset
+PA100,Pers Assets,Other Current Assets,Other Current Assets,,PA100 Pers Assets,,No,,PA100 Pers Assets
+P100,Pers Assets:Assets,Other Current Assets,Other Current Assets,,P100 Assets,19.0,No,Pers Assets,PA100 Pers Assets:P100 Assets
+P120,Pers Assets:AssetsCar,Other Current Assets,Other Current Assets,,P120 AssetsCar,19.0,No,Pers Assets,PA100 Pers Assets:P120 AssetsCar
+P121,Pers Assets:AssetsCar:Pers Assets Car - 2023 Tesla Model 3,Other Current Assets,Other Current Assets,,P121 Pers Assets Car - 2023 Tesla Model 3,22.0,No,Pers Assets:AssetsCar,PA100 Pers Assets:P120 AssetsCar:P121 Pers Assets Car - 2023 Tesla Model 3
+P122,Pers Assets:AssetsCar:Tesla Num 2,Other Current Assets,Other Current Assets,,P122 Tesla Num 2,22.0,No,Pers Assets:AssetsCar,PA100 Pers Assets:P120 AssetsCar:P122 Tesla Num 2
+P110,Pers Assets:AssetsHome,Other Current Assets,Other Current Assets,,P110 AssetsHome,19.0,No,Pers Assets,PA100 Pers Assets:P110 AssetsHome
+P130,Pers Assets:AssetsOther,Other Current Assets,Other Current Assets,,P130 AssetsOther,19.0,No,Pers Assets,PA100 Pers Assets:P130 AssetsOther
+P190,Pers Assets:Uncategorized Asset,Other Current Assets,Other Current Assets,,P190 Uncategorized Asset,19.0,No,Pers Assets,PA100 Pers Assets:P190 Uncategorized Asset
+1500,Uncategorized Asset,Other Current Assets,Other Current Assets,,1500 Uncategorized Asset,,No,,1500 Uncategorized Asset
+1099,Undeposited Funds,Other Current Assets,Undeposited Funds,,1099 Undeposited Funds,,No,,1099 Undeposited Funds
+P2ARSI61009,American Express 61009,Other Current Liabilities,Other Current Liabilities,,P2ARSI61009 American Express 61009,,No,,P2ARSI61009 American Express 61009
+P2ARSI,ARSI - American Recovery Service,Other Current Liabilities,Other Current Liabilities,,P2ARSI ARSI - American Recovery Service,,No,,P2ARSI ARSI - American Recovery Service
+B210,Biz Deferred Revenue,Other Current Liabilities,Deferred Revenue,,B210 Biz Deferred Revenue,,No,,B210 Biz Deferred Revenue
+B200.1,Business Liability Other,Other Current Liabilities,Other Current Liabilities,,B200.1 Business Liability Other,,No,,B200.1 Business Liability Other
+L300,Deferred Revenue,Other Current Liabilities,Deferred Revenue,,L300 Deferred Revenue,,No,,L300 Deferred Revenue
+P200,PersLiabilities,Other Current Liabilities,Other Current Liabilities,,P200 PersLiabilities,,No,,P200 PersLiabilities
+P237,PersLiabilities Accrued Interest Payable,Other Current Liabilities,Other Current Liabilities,,P237 PersLiabilities Accrued Interest Payable,,No,,P237 PersLiabilities Accrued Interest Payable
+P221,PersLiabilities - Bridgecrest,Other Current Liabilities,Other Current Liabilities,200302770801-2023 Tesla Model 3,P221 PersLiabilities - Bridgecrest,,No,,P221 PersLiabilities - Bridgecrest
+P211,PersLiabilitiesHome Mortgage 1,Other Current Liabilities,Other Current Liabilities,,P211 PersLiabilitiesHome Mortgage 1,,No,,P211 PersLiabilitiesHome Mortgage 1
+P212,PersLiabilitiesHome Mortgage 2,Other Current Liabilities,Other Current Liabilities,,P212 PersLiabilitiesHome Mortgage 2,,No,,P212 PersLiabilitiesHome Mortgage 2
+P210,PersLiabilitiesMortgages,Other Current Liabilities,Other Current Liabilities,,P210 PersLiabilitiesMortgages,,No,,P210 PersLiabilitiesMortgages
+P220,Regional Finance,Other Current Liabilities,Other Current Liabilities,,P220 Regional Finance,,No,,P220 Regional Finance
+PL015,Regional Finance Loan,Other Current Liabilities,Loan Payable,,PL015 Regional Finance Loan,,No,,PL015 Regional Finance Loan
+P238,REPUBLIC BK LOC NETCRDIS PPD ID XXXXXX6041,Other Current Liabilities,Other Current Liabilities,,P238 REPUBLIC BK LOC NETCRDIS PPD ID XXXXXX6041,,No,,P238 REPUBLIC BK LOC NETCRDIS PPD ID XXXXXX6041
+B200,SchCBiz Liabilities,Other Current Liabilities,Deferred Revenue,,B200 SchCBiz Liabilities,,No,,B200 SchCBiz Liabilities
+B488.1,Late Fee Income,Other Income,Other Miscellaneous Income,,B488.1 Late Fee Income,,No,,B488.1 Late Fee Income
+B498,Success Fee,Other Income,Other Miscellaneous Income,,B498 Success Fee,,No,,B498 Success Fee
+B497,Tips Income,Other Income,Other Miscellaneous Income,,B497 Tips Income,,No,,B497 Tips Income
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+"Accrual Basis Saturday, November 15, 2025 08:06 PM GMT-05:00",,,,,,,,,
