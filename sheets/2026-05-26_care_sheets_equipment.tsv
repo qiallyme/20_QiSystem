@@ -1,0 +1,22 @@
+item	type	subtype	quantity	status	condition	location	notes	low_stock_threshold	low_stock_alert	alert_notes
+Nebulizer	Machine		2	active	working	Home	Both functioning	1	FALSE	Only alert if <1 working
+Portable Nebulizer	Machine		1	active	working	Vehicle	Plugs into truck	1	FALSE	
+Home Oxygen Concentrator	Machine		1	active	working	Home	Deaconess larger unit	1	FALSE	
+Oxygen Tank	E-type (large)		8	active	configured	Home	4–5 ready with regulator+key+cannula	2	FALSE	Alert if <2 ready
+Oxygen Tank	D-type (small)		7	active	configured	Home	One already has regulator	2	FALSE	
+Nasal Cannula	Accessory	standard	7	active	good	Home/Travel	3 main + 4 backup	2	TRUE	⚠️ Only 7 total — low backup
+Nasal Cannula	Accessory	2-in-1	1	active	good	Home		1	FALSE	
+Tube Splitter / Joiner	Accessory	splitter	2	active	good	Home		1	FALSE	
+Oxygen Tubing	Accessory	short_clear	7	active	good	Home	Backup	3	FALSE	
+Oxygen Tubing	Accessory	medium_heavy_green (thick)	1	active	good	Home		1	FALSE	
+Oxygen Tubing	Accessory	long_10ft_green	1	active	good	Home		1	FALSE	
+Oxygen Tubing	Accessory	long_50ft_green	1	active	good	Home		1	FALSE	
+Oxygen Tubing	Accessory	standard	1	discard	kinked (multiple)	Home	Dispose	0	FALSE	Quarantined
+Nasal Cannula	Accessory	standard	1	discard	contaminated (dirty)	Home	Dispose	0	FALSE	Quarantined
+Nebulizer Tube	Accessory	standard	1	discard	kinked	Home	Dispose	0	FALSE	Quarantined
+Regulator Washers	Accessory		2	active	good	Metal box		1	FALSE	
+Oxygen Keys / Multi-tool	Accessory		multiple (incl. green + backups)	active	good	Small organizer / portable nebulizer	One in portable nebulizer	2	FALSE	
+CPAP Nose Pads	Accessory		5	active	good	CPAP container		2	FALSE	
+CPAP Filters	Accessory		9	active	good	One baggie	Reused baggies	3	FALSE	
+CPAP Cover	Accessory		1	active	good	CPAP container		1	FALSE	
+Flow Settings (note row)			Standard 2 L/min, max 3 L/min						FALSE	

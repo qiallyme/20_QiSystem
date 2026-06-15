@@ -1,0 +1,6 @@
+source_file,source_path,domain,current_location,recommended_action,notes
+import_manifest.csv,40_automation/qicapture/manifests/import_manifest.csv,system,40_automation/qicapture/manifests,leave_in_place,QiCapture tracking manifest
+INDEX.csv,META/INDEX.csv,system,META,leave_in_place,Global catalog registry
+raw_export_DO_NOT_TOUCH.csv,packages/qiobject/contacts/qicontacts/files/raw_export_DO_NOT_TOUCH.csv,personal,packages/qiobject/contacts/qicontacts/files,review_needed,Raw contacts export under packages
+activity.csv,packages/qiobject/energy/activity.csv,personal,packages/qiobject/energy,review_needed,Prototype energy activity log
+data.csv,packages/qiobject/energy/data.csv,personal,packages/qiobject/energy,review_needed,Prototype energy data log

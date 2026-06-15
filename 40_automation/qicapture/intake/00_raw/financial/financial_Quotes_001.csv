@@ -1,0 +1,54 @@
+Record Id,Quote Number,Subject,Engagement Name.id,Quote Stage,Valid Until,Team,Contact Name.id,Carrier,Company Name.id,Quote Owner.id,Created By.id,Modified By.id,Created Time,Modified Time,Sub Total,Tax,Adjustment,Grand Total,Billing Street,Shipping Street,Billing City,Shipping City,Billing State,Shipping State,Billing Code,Shipping Code,Billing Country,Shipping Country,Product Details,Terms and Conditions,Description,Discount,Currency,Exchange Rate,Layout.id,Tag,User Modified Time,System Related Activity Time,User Related Activity Time,System Modified Time,Discount Type Input,Discount Percentage Input,Locked,Last Activity Time,Record Status,QB_Sync_Date,QB_Estimate_ID,QB_Sync_Status,Connected To.id,Connected To.Module
+zcrm_6789162000001749402,6789162000001749404,Phone Transfer Sim,zcrm_6789162000001749382,Closed Won,2025-06-03,,zcrm_6789162000001316243,FedEX,zcrm_6789162000000811920,zcrm_6789162000000560001,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-06-02 18:47:01,2025-06-02 18:47:42,156.0,0.0,0.0,156,4817 Shadow Pointe Drive,4817 Shadow Pointe Drive,Indianapolis,Indianapolis,IN,IN,46254,46254,United States,United States,,,,0.0,USD,1.000000000,zcrm_6789162000000091017,,2025-06-02 18:47:42,,,,,,false,2025-06-02 18:47:42,Available,,,,,
+zcrm_6789162000001991445,6789162000001991447,Dilshant - SSN Application Appointment,zcrm_6789162000001999001,Closed Won,2025-06-16,,zcrm_6789162000001987451,FedEX,,zcrm_6789162000000560001,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-06-14 03:33:49,2025-06-24 12:52:43,149.0,0.0,0.0,149,8449 Welder Pl,8449 Welder Pl,Indianapolis,Indianapolis,Indiana,Indiana,46237-8756,46237-8756,,,,,,0.0,USD,1.000000000,zcrm_6789162000000091017,,2025-06-24 12:52:43,,,2025-06-15 14:39:21,,,false,2025-06-24 12:52:43,Available,,,,,
+zcrm_6789162000002176031,6789162000002176035,Client Work Summary: Employer Account Compliance Letter & BMV Submission,zcrm_6789162000002167151,Negotiation,2025-06-26,,zcrm_6789162000000954677,USPS,zcrm_6789162000002167057,zcrm_6789162000000560001,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-06-24 04:48:40,2025-06-30 13:16:27,430.0,0.0,-100.0,300,7305 Nantucket Court Apt 2C,7305 Nantucket Court Apt 2C,Indianapolis,Indianapolis,Indiana,Indiana,46214,46214,United States,United States,,"Turnaround Time: Final letter will be prepared and submitted within 2–3 business days after receipt of all client documents.
+
+Client Responsibilities: Provide accurate EIN confirmation and supporting documents within 5 business days.
+
+Payment Terms: Payment is due upon delivery of the compliance letter and BMV submission confirmation.
+
+Scope Limitation: This engagement covers only the letter drafting and submission to BMV. Any additional compliance work will require a separate quote.
+
+Quote Validity: 15 days from issuance.","This engagement involves the preparation and submission of a formal Tax Compliance Letter for a dissolved employer account. The letter confirms no wages were paid, includes the verified Employer Identification Number (EIN), and is submitted to the Indiana BMV to support vehicle registration or compliance resolution. Action Items for Client
+
+EIN VerificationPlease confirm whether the EIN noted in your records is the only one used. If you have used any other EINs, especially for business or vehicle activity, please notify us immediately.
+
+Submit Required DocumentsSend all available 1099 forms and receipts related to any of the following business names:
+
+Munoz Cleaning Corp LLC
+
+Impeccable Cleaning Group
+
+The Ausus Talent Group
+
+Clarify BMV PurposeLet us know if the compliance letter is being used for:
+
+Vehicle registration renewal
+
+New vehicle registration
+
+Another BMV-related matter",30.0,USD,1.000000000,zcrm_6789162000000091017,,2025-06-30 13:16:27,,2025-06-27 14:20:45,,,,false,2025-06-30 13:16:27,Available,,,,,
+zcrm_6789162000002314184,6789162000002314186,Engagement Addendum – Amended 2023 Tax Return (1040X) for Ray’s Construction,zcrm_6789162000002313005,On Hold,,,zcrm_6789162000001002107,USPS,zcrm_6789162000001240688,zcrm_6789162000000560001,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-06-27 13:14:37,2025-07-09 14:53:47,700.0,0.0,0.0,700,3137 Melbourne Rd Dr S,3137 Melbourne Rd Dr S,Indianapolis,Indianapolis,Indiana,Indiana,46228,46228,United States,United States,,"Free Estimate Clause:
+The initial review and estimate for the amended return (1040X) is provided at no cost. However, if the 1040X is filed through our office or delivered to the client, a service fee of $499.00 becomes due.
+
+Scope of Work:
+This engagement is limited to the review, preparation, and delivery or filing of the 2023 Form 1040X. Additional filings such as the 2024 tax return or RRMC application are not included and will be quoted separately.
+
+Payment Terms:
+Payment for the 1040X preparation is deferred but expected within 30 days of delivery or filing. No further tax work will proceed until the amended return is complete.
+
+Accuracy of Information:
+Client agrees to provide all necessary documentation, including original 2023 and 2022 tax returns, income and expense details, and relevant business records. We are not responsible for errors due to missing or inaccurate information.
+
+Refund Expectations:
+While we will make best efforts to recover any overpaid taxes, no guarantee is made regarding the outcome of the amended return. Refunds are subject to IRS review and approval.
+
+Client Authorization:
+By approving this engagement, the client authorizes QiAlly LLC to prepare and file the 1040X on their behalf, or deliver it directly to the client for submission.
+
+Cancellation Policy:
+If work has already begun and the client chooses not to proceed, a partial fee may be assessed based on time and effort already invested.
+
+Governing Law:
+This agreement shall be governed by the laws of the State of Indiana (or Florida, if applicable after relocation).",,0.0,USD,1.000000000,zcrm_6789162000000091017,,2025-07-09 14:53:47,,2025-06-27 13:17:05,,,,false,2025-07-09 14:53:47,Available,,,,,
+zcrm_6789162000002667038,6789162000002667043,Expense Logs and Verification,zcrm_6789162000002667019,Draft,,,zcrm_6789162000002667001,FedEX,,zcrm_6789162000000560001,zcrm_6789162000000560001,zcrm_6789162000000560001,2025-07-11 19:15:32,2025-07-11 19:15:47,176.0,0.0,-76.0,100,,,,,,,,,,,,,,0.0,USD,1.000000000,zcrm_6789162000000091017,,2025-07-11 19:15:47,,,,,,false,2025-07-11 19:15:47,Available,,,,,
