@@ -1,0 +1,564 @@
+openapi: 3.1.0
+info:
+  title: Supabase GPT Memory API
+  description: API for a GPT action to retrieve, create, update, and delete memories, configs, rules, and instructions stored in Supabase through an Edge Function.
+  version: 1.0.0
+
+servers:
+  - url: https://YOUR_PROJECT_REF.supabase.co/functions/v1/gpt-memory
+    description: Supabase Edge Function
+
+security:
+  - bearerAuth: []
+
+paths:
+  /health:
+    get:
+      operationId: checkHealth
+      summary: Check whether the memory API is online.
+      responses:
+        "200":
+          description: Health check result.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                  service:
+                    type: string
+
+  /profile:
+    get:
+      operationId: getProfile
+      summary: Get the complete stored user profile.
+      description: Retrieves memories, configs, rules, and instructions for the GPT.
+      responses:
+        "200":
+          description: Complete user profile.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ProfileResponse"
+
+  /memories:
+    get:
+      operationId: searchMemories
+      summary: Search stored memories.
+      description: Searches saved memories by query, category, tag, or importance.
+      parameters:
+        - name: query
+          in: query
+          required: false
+          description: Search text.
+          schema:
+            type: string
+        - name: category
+          in: query
+          required: false
+          description: Memory category.
+          schema:
+            type: string
+        - name: tag
+          in: query
+          required: false
+          description: Tag to filter by.
+          schema:
+            type: string
+        - name: minImportance
+          in: query
+          required: false
+          description: Minimum importance from 1 to 10.
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 10
+        - name: limit
+          in: query
+          required: false
+          description: Maximum number of memories to return.
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 20
+      responses:
+        "200":
+          description: Matching memories.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  memories:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Memory"
+
+    post:
+      operationId: createMemory
+      summary: Create a memory.
+      description: Stores a new memory about the user, preferences, rules, projects, configs, or instructions.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/MemoryCreateRequest"
+      responses:
+        "201":
+          description: Created memory.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Memory"
+
+  /memories/{memoryId}:
+    patch:
+      operationId: updateMemory
+      summary: Update a memory.
+      description: Updates an existing memory.
+      parameters:
+        - name: memoryId
+          in: path
+          required: true
+          description: Memory ID.
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/MemoryUpdateRequest"
+      responses:
+        "200":
+          description: Updated memory.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Memory"
+
+    delete:
+      operationId: deleteMemory
+      summary: Delete a memory.
+      description: Deletes an existing memory.
+      parameters:
+        - name: memoryId
+          in: path
+          required: true
+          description: Memory ID.
+          schema:
+            type: string
+      responses:
+        "204":
+          description: Memory deleted.
+
+  /configs:
+    get:
+      operationId: listConfigs
+      summary: List configs.
+      description: Returns assistant configuration values.
+      parameters:
+        - name: namespace
+          in: query
+          required: false
+          description: Optional config namespace.
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Config list.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  configs:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Config"
+
+    put:
+      operationId: upsertConfig
+      summary: Create or update a config.
+      description: Stores or updates an assistant behavior configuration value.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/ConfigUpsertRequest"
+      responses:
+        "200":
+          description: Saved config.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Config"
+
+  /rules:
+    get:
+      operationId: listRules
+      summary: List rules.
+      description: Returns stored assistant rules.
+      parameters:
+        - name: activeOnly
+          in: query
+          required: false
+          description: Whether to return only active rules.
+          schema:
+            type: boolean
+            default: true
+      responses:
+        "200":
+          description: Rule list.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  rules:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Rule"
+
+    post:
+      operationId: createRule
+      summary: Create a rule.
+      description: Stores a persistent rule for how the assistant should behave.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/RuleCreateRequest"
+      responses:
+        "201":
+          description: Created rule.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Rule"
+
+  /rules/{ruleId}:
+    patch:
+      operationId: updateRule
+      summary: Update a rule.
+      description: Updates an existing assistant rule.
+      parameters:
+        - name: ruleId
+          in: path
+          required: true
+          description: Rule ID.
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/RuleUpdateRequest"
+      responses:
+        "200":
+          description: Updated rule.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Rule"
+
+    delete:
+      operationId: deleteRule
+      summary: Delete a rule.
+      description: Deletes an assistant rule.
+      parameters:
+        - name: ruleId
+          in: path
+          required: true
+          description: Rule ID.
+          schema:
+            type: string
+      responses:
+        "204":
+          description: Rule deleted.
+
+  /instructions:
+    get:
+      operationId: getInstructions
+      summary: Get stored instructions.
+      description: Retrieves persistent instructions for how the GPT should assist the user.
+      responses:
+        "200":
+          description: Stored instructions.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Instructions"
+
+    put:
+      operationId: updateInstructions
+      summary: Update stored instructions.
+      description: Updates persistent instructions for how the GPT should assist the user.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/InstructionsUpdateRequest"
+      responses:
+        "200":
+          description: Updated instructions.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Instructions"
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: ActionToken
+
+  schemas:
+    JsonValue:
+      oneOf:
+        - type: string
+        - type: number
+        - type: integer
+        - type: boolean
+        - type: object
+          additionalProperties: true
+        - type: array
+          items: {}
+        - type: "null"
+
+    ProfileResponse:
+      type: object
+      properties:
+        userId:
+          type: string
+        memories:
+          type: array
+          items:
+            $ref: "#/components/schemas/Memory"
+        configs:
+          type: array
+          items:
+            $ref: "#/components/schemas/Config"
+        rules:
+          type: array
+          items:
+            $ref: "#/components/schemas/Rule"
+        instructions:
+          $ref: "#/components/schemas/Instructions"
+
+    Memory:
+      type: object
+      properties:
+        id:
+          type: string
+        content:
+          type: string
+        category:
+          type: string
+        importance:
+          type: integer
+        tags:
+          type: array
+          items:
+            type: string
+        source:
+          type: string
+        confidence:
+          type: number
+        createdAt:
+          type: string
+          format: date-time
+        updatedAt:
+          type: string
+          format: date-time
+        expiresAt:
+          type:
+            - string
+            - "null"
+          format: date-time
+
+    MemoryCreateRequest:
+      type: object
+      required:
+        - content
+      properties:
+        content:
+          type: string
+        category:
+          type: string
+          default: other
+        importance:
+          type: integer
+          minimum: 1
+          maximum: 10
+          default: 5
+        tags:
+          type: array
+          items:
+            type: string
+        source:
+          type: string
+          default: conversation
+        confidence:
+          type: number
+          minimum: 0
+          maximum: 1
+          default: 1
+        expiresAt:
+          type:
+            - string
+            - "null"
+          format: date-time
+
+    MemoryUpdateRequest:
+      type: object
+      properties:
+        content:
+          type: string
+        category:
+          type: string
+        importance:
+          type: integer
+          minimum: 1
+          maximum: 10
+        tags:
+          type: array
+          items:
+            type: string
+        source:
+          type: string
+        confidence:
+          type: number
+          minimum: 0
+          maximum: 1
+        expiresAt:
+          type:
+            - string
+            - "null"
+          format: date-time
+
+    Config:
+      type: object
+      properties:
+        id:
+          type: string
+        namespace:
+          type: string
+        key:
+          type: string
+        value:
+          $ref: "#/components/schemas/JsonValue"
+        description:
+          type:
+            - string
+            - "null"
+        createdAt:
+          type: string
+          format: date-time
+        updatedAt:
+          type: string
+          format: date-time
+
+    ConfigUpsertRequest:
+      type: object
+      required:
+        - key
+        - value
+      properties:
+        namespace:
+          type: string
+          default: default
+        key:
+          type: string
+        value:
+          $ref: "#/components/schemas/JsonValue"
+        description:
+          type: string
+
+    Rule:
+      type: object
+      properties:
+        id:
+          type: string
+        rule:
+          type: string
+        priority:
+          type: integer
+        active:
+          type: boolean
+        createdAt:
+          type: string
+          format: date-time
+        updatedAt:
+          type: string
+          format: date-time
+
+    RuleCreateRequest:
+      type: object
+      required:
+        - rule
+      properties:
+        rule:
+          type: string
+        priority:
+          type: integer
+          minimum: 1
+          maximum: 100
+          default: 50
+        active:
+          type: boolean
+          default: true
+
+    RuleUpdateRequest:
+      type: object
+      properties:
+        rule:
+          type: string
+        priority:
+          type: integer
+          minimum: 1
+          maximum: 100
+        active:
+          type: boolean
+
+    Instructions:
+      type: object
+      properties:
+        id:
+          type:
+            - string
+            - "null"
+        instructions:
+          type: string
+        style:
+          type: string
+        boundaries:
+          type: string
+        createdAt:
+          type:
+            - string
+            - "null"
+          format: date-time
+        updatedAt:
+          type:
+            - string
+            - "null"
+          format: date-time
+
+    InstructionsUpdateRequest:
+      type: object
+      properties:
+        instructions:
+          type: string
+        style:
+          type: string
+        boundaries:
+          type: string
