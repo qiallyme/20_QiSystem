@@ -1,3 +1,0 @@
-Rule Name,Direction,Bank Account,Condition Field,Condition Type,Condition Value,Transaction Type,Category,Vendor/Payee,Tags,Auto-confirm?,Status,Created Date
-BOA - Overdraft Fee,Money Out,Checking *3160,Description,Contains,OVERDRAFT FEE,Expense,Expense:Bank Charges & Fees:NSF/Overdraft Fees,Bank of America,"Bank Fee,NSF,Overdraft",Yes
-BOA - Overdraft Fee,2025",Checking *3160,Description,Contains,OVERDRAFT FEE,"Bank Fee,Expense:Bank Charges & Fees:NSF/Overdraft Fees,NSF,Active,Yes,Money Out,"May 1

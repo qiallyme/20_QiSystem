@@ -1,7 +1,0 @@
-Date,Test Name,Type,Doctor / Lab,Reason / Notes,Result / Status,States," Result Summary"," Next Action / Follow-up",Cost,Formula
-07/06/2025,CBC (Blood Count),Blood Test,"Dr. Mehta,Apollo Lab",Annual check-up,Normal,Pending,All values within range,No action needed,
-06/06/2025,Chest X-Ray,Imaging,Radiology Center,Persistent cough,Abnormal,Upcoming,Mild inflammation noted,Pulmonologist referral,,
-11/06/2025,HbA1c,Blood Test,Pathcare Diagnostics,Monitor diabetes control,Awaiting,Pending,,Results expected in 2 days,,
-06/06/2025,Chest X-Ray,Imaging,Radiology Center,Persistent cough,Abnormal,Upcoming,Mild inflammation noted,Pulmonologist referral,,
-11/06/2025,HbA1c,Blood Test,Pathcare Diagnostics,Monitor diabetes control,Awaiting,Pending,,Results expected in 2 days,,
-07/06/2025,CBC (Blood Count),Pending,"Dr. Mehta,,Annual check-up,Normal,All values within range,No action needed,,Apollo Lab"
