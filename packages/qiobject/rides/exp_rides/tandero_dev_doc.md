@@ -9,6 +9,21 @@ realm: 2_QsKb
 owner: CRV
 privacy: private
 qi_decimal: 2.99.00-01.SYS
+layout: page
+summary: ""
+status: active
+created_at: ""
+updated_at: ""
+keywords: []
+aliases: []
+context: ""
+sensitivity: internal
+classification: business_internal
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
 ---
 
 # Tandero — Zoho Creator MVP

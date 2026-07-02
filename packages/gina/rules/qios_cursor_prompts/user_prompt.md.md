@@ -41,7 +41,18 @@ entangled:
 summary:
 sensitivity: internal
 classification: system_darkmatter
+layout: page
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
 ---
+
 You are working inside the QiOS_v1 repository. 
 Your NUMBER ONE job is to ensure every file, schema, seed, worker, rule, and folder you touch is 100% consistent with the canonical QiOS Genesis document and the QiOS EOS protocols referenced below.
 

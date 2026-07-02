@@ -1,3 +1,26 @@
+---
+layout: page
+title: Env File Security Review
+slug: ""
+summary: ""
+status: active
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+tags: []
+keywords: []
+aliases: []
+context: ""
+sensitivity: internal
+classification: business_internal
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
+---
+
 # Environment File Security Review
 
 This document provides a security review of all environment configuration files (`.env` and `.env.example`) found in the repository.

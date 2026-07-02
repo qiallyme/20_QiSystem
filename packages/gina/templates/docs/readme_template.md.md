@@ -34,6 +34,17 @@ entangled: []
 summary:
 sensitivity: internal
 classification: business_internal
+layout: page
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+aliases: []
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
 ---
 
 ## Purpose

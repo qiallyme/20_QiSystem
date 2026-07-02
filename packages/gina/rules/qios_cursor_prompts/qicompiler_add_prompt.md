@@ -14,6 +14,18 @@ tags: [prompt, cursor, automation, tooling]
 context: Cursor prompt for adding QiCompiler to tools directory. Ensures exact file creation and test run.
 sensitivity: internal
 classification: system_darkmatter
+layout: page
+summary: ""
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+aliases: []
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
 ---
 
 # QiCompiler Add Prompt

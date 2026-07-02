@@ -1,3 +1,26 @@
+---
+layout: page
+title: Readme
+slug: ""
+summary: ""
+status: active
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+tags: []
+keywords: []
+aliases: []
+context: ""
+sensitivity: internal
+classification: business_internal
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
+---
+
 # Supabase Email Templates for QiOne
 
 These templates are designed to match the premium, glassmorphic aesthetic of the QiOne web application.

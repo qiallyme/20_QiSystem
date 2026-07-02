@@ -1,3 +1,26 @@
+---
+layout: page
+title: Crisis Routing Extension
+slug: ""
+summary: ""
+status: active
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+tags: []
+keywords: []
+aliases: []
+context: ""
+sensitivity: internal
+classification: business_internal
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
+---
+
 # Extending Crisis Routing with the Resource & Opportunity Graph
 
 The Resource & Opportunity Graph (ROG) extends the existing crisis engine by providing an additional, non-emergency layer of support for members whose primary issues are related to scarcity, lack of tools, or systemic financial waste.

@@ -1,3 +1,26 @@
+---
+layout: page
+title: Database File Inventory
+slug: ""
+summary: ""
+status: active
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+tags: []
+keywords: []
+aliases: []
+context: ""
+sensitivity: internal
+classification: business_internal
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
+---
+
 ﻿# QiSystem Database and Import Files Inventory
 
 This document lists the absolute paths of all database files, schemas, configurations, and CSV data files in the repository.

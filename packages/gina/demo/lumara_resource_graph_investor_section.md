@@ -1,3 +1,26 @@
+---
+layout: page
+title: Lumara Resource Graph Investor Section
+slug: ""
+summary: ""
+status: active
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+tags: []
+keywords: []
+aliases: []
+context: ""
+sensitivity: internal
+classification: business_internal
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
+---
+
 # Lumara No-Waste Network – Investor Narrative
 
 **Problem:** Immigrant families face both scarcity and systemic waste.  

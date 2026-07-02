@@ -1,3 +1,26 @@
+---
+layout: page
+title: Directus Integration
+slug: ""
+summary: ""
+status: active
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+tags: []
+keywords: []
+aliases: []
+context: ""
+sensitivity: internal
+classification: business_internal
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
+---
+
 # Directus Integration & Administration Guide
 
 This guide coordinates the deployment, schema integration, and development workflow for using **Directus** as the visual administration console, CRUD interface, and instant API gateway for **QiSystem** database backends on **Supabase / PostgreSQL**.

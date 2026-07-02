@@ -1,3 +1,26 @@
+---
+layout: page
+title: Out Of Lane Csv Inventory
+slug: ""
+summary: ""
+status: active
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+tags: []
+keywords: []
+aliases: []
+context: ""
+sensitivity: internal
+classification: business_internal
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
+---
+
 # Out of Lane CSV Inventory
 
 This document lists all CSV files located outside the designated database, schema reference, raw intake, and flat sheet folders.

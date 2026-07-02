@@ -29,6 +29,16 @@ sensitivity: internal
 classification: system_darkmatter
 created: 2025-01-27T00:00:00Z
 updated: 2025-01-27T00:00:00Z
+layout: page
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
 ---
 
 # Step 3 Directory Tree Compiler Prompt

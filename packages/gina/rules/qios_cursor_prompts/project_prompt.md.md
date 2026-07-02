@@ -39,7 +39,18 @@ entangled:
 summary:
 sensitivity: internal
 classification: system_darkmatter
+layout: page
+created_at: ""
+updated_at: ""
+author: ""
+owner: ""
+realm_label: ""
+uid: ""
+canonical_ref: ""
+source_type: manual
+template_key: master-template
 ---
+
 QiOS_v1 PROJECT CANON (always-on rules)
 
 This project implements QiOS + GINA exactly as defined in:
